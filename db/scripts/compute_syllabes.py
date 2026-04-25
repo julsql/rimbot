@@ -61,6 +61,17 @@ EXTRA_DICT = {
     "michel-ange": 3, "saint-sulpice": 3, "botticelli": 4,
     # Marques / divers
     "clairefontaine": 4, "kingfisher": 3,
+    # Faune et géographie
+    "pangolin": 3, "ragondin": 3, "patelle": 2, "estran": 2,
+    "flandres": 2, "alaska": 3,
+    # Races canines (français usuel issu de l'anglais)
+    "akita": 3, "inu": 2, "shiba": 2, "malamute": 3,
+    "shar-pei": 2, "chow-chow": 2, "bullmastiff": 3,
+    "shih": 1, "tzu": 1, "whippet": 2, "westie": 2,
+    "staffie": 2, "rottweiler": 3, "russell": 2,
+    "toy-poodle": 3, "pit": 1,
+    # Adjectifs anglicisants
+    "fluffy": 2, "graceful": 2,
 }
 
 

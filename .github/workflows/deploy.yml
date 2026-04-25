@@ -16,11 +16,27 @@ jobs:
           host:     ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USER }}
           key:      ${{ secrets.SSH_KEY }}
+          # Le précédent timeout par défaut (10 min) suffisait pas : sur ce
+          # serveur, l'extraction d'une seule couche d'image peut prendre
+          # plusieurs minutes. On laisse 30 min en sécurité.
+          command_timeout: 30m
           script: |
             set -euo pipefail
             cd "${{ secrets.DEPLOY_PATH }}"
+
             git pull --ff-only
-            docker compose down
-            docker compose build --no-cache
-            docker compose up -d
+
+            # Rafraîchit les images de base si une nouvelle version a été
+            # publiée sur Docker Hub (postgres:16-alpine, node:20-alpine…).
+            # `|| true` car `pull` peut échouer si une image n'est buildée
+            # que localement (ce qui est notre cas pour backend/frontend/db).
+            docker compose pull --ignore-pull-failures || true
+
+            # Build incrémental : Docker invalide le cache uniquement pour
+            # les couches dont le contexte a changé. Bien plus rapide que
+            # `--no-cache`, et tout aussi correct grâce au content-addressable
+            # store.
+            docker compose build
+
+            docker compose up -d --remove-orphans
             docker image prune -f

@@ -132,8 +132,20 @@ Cinq workflows GitHub Actions :
 - **`release.yml`** — sur tag `v*.*.*`, build & push des trois images
   (`backend`, `frontend`, `db`) vers GHCR (`ghcr.io/<owner>/poeme-*`).
 - **`deploy.yml`** — sur push `main`, SSH vers le serveur, `git pull` puis
-  rebuild + redémarrage de la stack docker-compose. Secrets requis :
-  `SSH_HOST`, `SSH_USER`, `SSH_KEY`, `DEPLOY_PATH`.
+  rebuild **incrémental** + redémarrage de la stack docker-compose.
+  Secrets requis : `SSH_HOST`, `SSH_USER`, `SSH_KEY`, `DEPLOY_PATH`.
+
+  > Le workflow utilise `docker compose build` (sans `--no-cache`) et
+  > `docker compose up -d` (sans `down` préalable) pour minimiser le
+  > downtime et accélérer le déploiement. Le cache Docker est sûr : il
+  > invalide automatiquement les couches dont le contexte a changé.
+  > Si tu as besoin d'un rebuild complet (par ex. après corruption du
+  > cache), SSH sur le serveur et lance manuellement :
+  > ```bash
+  > cd $DEPLOY_PATH
+  > docker compose build --no-cache
+  > docker compose up -d --force-recreate
+  > ```
 
 ## API
 
