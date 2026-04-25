@@ -1,0 +1,53 @@
+name: E2E (Cypress)
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  cypress:
+    name: cypress against full docker-compose stack
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build & start the stack
+        run: |
+          docker compose up -d --build
+          # Attente du health du backend via le proxy nginx (la DB seed est lente).
+          for i in $(seq 1 60); do
+            if curl -fsS http://localhost:8080/api/health >/dev/null 2>&1; then
+              echo "stack OK"; break
+            fi
+            sleep 5
+          done
+          curl -fsS http://localhost:8080/api/health
+          curl -fsS http://localhost:8080/ | head -5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install Cypress + deps
+        working-directory: frontend
+        run: npm install --no-audit --no-fund
+
+      - name: Run Cypress
+        uses: cypress-io/github-action@v6
+        with:
+          working-directory: frontend
+          install: false
+          browser: chrome
+          config: baseUrl=http://localhost:8080
+
+      - name: Stack logs on failure
+        if: failure()
+        run: docker compose logs --no-color | tail -200
+
+      - name: Tear down
+        if: always()
+        run: docker compose down -v

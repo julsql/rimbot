@@ -1,0 +1,44 @@
+services:
+  db:
+    build: ./db
+    image: poeme-db:dev
+    container_name: poeme-db
+    environment:
+      POSTGRES_USER:     ${POSTGRES_USER:-poeme}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-poeme}
+      POSTGRES_DB:       ${POSTGRES_DB:-poeme}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - poeme_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-poeme} -d ${POSTGRES_DB:-poeme}"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  backend:
+    build: ./backend
+    image: poeme-backend:dev
+    container_name: poeme-backend
+    environment:
+      DATABASE_URL: postgresql://${POSTGRES_USER:-poeme}:${POSTGRES_PASSWORD:-poeme}@db:5432/${POSTGRES_DB:-poeme}
+      CORS_ORIGINS: ${CORS_ORIGINS:-*}
+      FLASK_DEBUG:  ${FLASK_DEBUG:-0}
+    ports:
+      - "${BACKEND_PORT:-5001}:5000"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  frontend:
+    build: ./frontend
+    image: poeme-frontend:dev
+    container_name: poeme-frontend
+    ports:
+      - "${FRONTEND_PORT:-8080}:80"
+    depends_on:
+      - backend
+
+volumes:
+  poeme_pgdata:
