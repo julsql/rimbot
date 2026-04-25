@@ -1,0 +1,4569 @@
+id,phrase,nbsyllabe
+1,Le chat,2
+2,La chatte,2
+3,Les chats,2
+4,Les chattes,2
+5,Un chat,2
+6,Une chatte,2
+7,Des chats,2
+8,Des chattes,2
+9,Manger,2
+10,Abattre,2
+11,Absinthe,2
+12,Abeilles,2
+13,Barbouzes,2
+14,Barbouze,2
+15,Hélas,2
+16,Éteint,2
+17,Éteinte,2
+18,Éteints,2
+19,Éteintes,2
+20,Pourquoi,2
+21,Comment,2
+22,Surtout,2
+23,L avion,2
+24,Ils ont faim,3
+25,Tu as faim,3
+26,Il a faim,3
+27,Ce beau chat,3
+28,Qui voilà,3
+29,Le beau chat,3
+30,Brocolis,3
+31,L hiver vient,3
+32,"Demain, pars",3
+33,Pourquoi pas,3
+34,Que dis tu,3
+35,Joliment,3
+36,Ne pars pas,3
+37,Quelle belle femme,3
+38,Cette belle femme,3
+39,Quel bel homme,3
+40,Ce bel homme,3
+41,"Malin, beau",3
+42,"Jolie, belle",3
+43,Très joli,3
+44,Très jolie,3
+45,Tout à fait,3
+46,L ironie,3
+47,Le navire,3
+48,Oh ! Tu sais,3
+49,Oh ! Ils savent,3
+50,"Hélas, pars",3
+51,Sache que j aime,3
+52,Il saura,3
+53,Elle savait,3
+54,Ils corrigent,3
+55,Elles corrigent,3
+56,Effrayé,3
+57,Effrayée,3
+58,Effrayés,3
+59,Effrayées,3
+60,Ça va bien,3
+61,Pas si vite,3
+62,Savais tu,3
+63,Demain est loin,4
+64,Les orchidées,4
+65,Des orchidées,4
+66,Une orchidée,4
+67,Nous avons faim,4
+68,Vous avez faim,4
+69,Abandonner,4
+70,Badigeonner,4
+71,Actualités,4
+72,Admirateur,4
+73,Admirateurs,4
+74,Admiratrice,4
+75,Admiratrices,4
+76,Je présentais,4
+77,Tu présentais,4
+78,Il présentait,4
+79,Nous présentions,4
+80,Vous présentiez,4
+81,Ils présentaient,4
+82,Le brocoli,4
+83,Les brocolis,4
+84,Un brocoli,4
+85,Des brocolis,4
+86,La scolopendre,4
+87,Les scolopendres,4
+88,Une scolopendre,4
+89,Des scolopendres,4
+90,Le chat vaincu,4
+91,La chatte vaincue,4
+92,Les chats vaincus,4
+93,Les chattes vaincues,4
+94,Un chat vaincu,4
+95,Une chatte vaincue,4
+96,Des chats vaincus,4
+97,Des chattes vaincues,4
+98,Mais pourquoi pas,4
+99,Au fond là bas,4
+100,Beurk un chasseur,4
+101,Beurk une chasseuse,4
+102,Beurk des chasseurs,4
+103,Beurk des étoiles,4
+104,Beurk le chasseur,4
+105,Beurk la chasseuse,4
+106,Beurk les chasseurs,4
+107,Beurk les étoiles,4
+108,Cheveux d argent,4
+109,Le torrent fougueux,5
+110,Doucement vécu,5
+111,Le chat est joli,5
+112,Les chats sont jolis,5
+113,Il sait se faire beau,5
+114,Ils savent se faire beaux,5
+115,Doucement il part,5
+116,Doucement elle part,5
+117,Demain il verra,5
+118,Demain elle verra,5
+119,L avenir est loin,5
+120,Bien devant nos vies,5
+121,Chez ce cher sergent,5
+122,Adieu monde cruel,5
+123,Oui je suis trop fort,5
+124,Une enchanteresse,5
+125,Lente et bien pesante,5
+126,Inutile et froid,5
+127,Doucement vécu,5
+128,Seigneur des anneaux,5
+129,Que veux tu vraiment,5
+130,Sache que je t aidais,5
+131,Ni gentil ni beau,5
+132,Mange ! Et dort bien vite,5
+133,Comment ? Tu hésites,5
+134,"Vent, eau et feu vif",5
+135,"Beau, gentil, calmé",5
+136,"Belle, gentille, calmée",5
+137,Il saura partir,5
+138,Garage de folie,5
+139,Aujourd'hui elle sait,5
+140,Jamais ils ne touchent,5
+141,"Correctement, vite",5
+142,Comment ? Tu hésites,5
+143,"Eux, ils savaient bien",5
+144,Magicien d ici,5
+145,Songes tu à dormir,5
+146,Pourquoi il aboie,5
+147,Il pense à l avoir,5
+148,L avenir te gêne,5
+149,Je dois voir l éventreur,6
+150,Il doit voir l éventreur,6
+151,Ils doivent voir l éventreur,6
+152,Je trouverai le brick,6
+153,Tu trouveras le brick,6
+154,Il trouvera un aigle,6
+155,Nous trouverons un aigle,6
+156,Vous trouverez un aigle,6
+157,Je trouverai des ailes,6
+158,"Tout au bout, un chemin",6
+159,Au fond de la vallée,6
+160,"Dans les trousses, tu es là",6
+161,"Quand j irai, tu seras",6
+162,"Des fois, une mouche surprise",6
+163,"Sur les mots, combattante",6
+164,Hélas ! La scolopendre,6
+165,"Ouf, ils sont partis loin",6
+166,Les bouillottes font du bruit,6
+167,"L océan est vide, triste",6
+168,Pourquoi aller là-bas,6
+169,"Surtout, ne pas vendre trop",6
+170,Hélas ! Je dois partir,6
+171,Hélas ! Tu dois partir,6
+172,Hélas ! Il doit partir,6
+173,Hélas ! Ils doivent partir,6
+174,"Dans la vallée, agneau",6
+175,"Dans la vallée, agneaux",6
+176,"Dans la vallée, asperge",6
+177,"Dans la vallée, asperges",6
+178,"Dans les vallées, agneau",6
+179,"Dans des ruisseaux, asperges",6
+180,"Il va, il court, le chat",6
+181,"Il vont, ils courent, les chats",6
+182,"Il va, il court, un chat",6
+183,"Il vont, ils courent, des chats",6
+184,Que faire en cas de siège,6
+185,Que faire en cas d attaque,6
+186,"Gaiement, je vis la foule",6
+187,"Gaiement, il vit la foule",6
+188,"Gaiement, nous vîmes la foule",6
+189,"Je suis, il est, nous sommes",6
+190,"Tu es, vous êtes, ils sont",6
+191,"Je suis, nous sommes, vous êtes",6
+192,Tu es parfait mon homme,6
+193,Tu es parfaite ma femme,6
+194,À chaque femme son ami,6
+195,La musique est partie loin,7
+196,"Hélas, il regarde si loin",7
+197,Oh ! Tu es si jalousé,7
+198,Ni mimosa ni éponge,7
+199,Et pour comble de cette malice,7
+200,Nous devons voir l éventreur,7
+201,Vous devez voir l éventreur,7
+202,Je dois voir un éventreur,7
+203,Tu dois voir un éventreur,7
+204,Il doit voir un éventreur,7
+205,Je dois voir un marteleur,7
+206,Tu dois voir un marteleur,7
+207,Il doit voir un marteleur,7
+208,Ils doivent voir un marteleur,7
+209,Nous trouvons le brocoli,7
+210,Nous trouvons un brocoli,7
+211,Vous trouvez un brocoli,7
+212,Vous trouvez les brocolis,7
+213,Nous trouvons des brocolis,7
+214,Vous trouvez des brocolis,7
+215,Hélas ! Nous devons partir,7
+216,Hélas ! Vous devez partir,7
+217,"Sur le toit, la scolopendre",7
+218,"Sur le toit, des scolopendres",7
+219,"Sur le toit, les brocolis",7
+220,"Sur le toit, un brocoli",7
+221,"Sur le toit, des brocolis",7
+222,"L enfant joue, il est sublime",7
+223,"Un jour, le ciel tombera",7
+224,"Un jour, un ciel tombera",7
+225,"Un jour, des neiges tomberont",7
+226,"Il va, le vilain filou",7
+227,"Ils vont, les vilains filous",7
+228,L ironie du sort change vite,7
+229,Il ne changera jamais,7
+230,Il sait comment être gentil,7
+231,"Mince, ils voient ton vrai visage",7
+232,"Dans le chocolat, rien ne va",8
+233,"Beau, gentil, acerbe, abrasif",8
+234,Nous devons voir le marteleur,8
+235,Vous devez voir le marteleur,8
+236,Vous devez voir les éventreurs,8
+237,Nous devons voir un marteleur,8
+238,Vous devez voir un marteleur,8
+239,"Là-bas, je vais allègrement",8
+240,"Là-bas, tu vas allègrement",8
+241,"Là-bas, il va allègrement",8
+242,"Là-bas, ils vont allègrement",8
+243,"Regarde maman, le psychopathe",8
+244,"Regarde maman, la psychopathe",8
+245,"Regarde maman, une psychopathe",8
+246,"Regarde maman, des psychopathes",8
+247,"Quand j ai vu, je me suis cachée",8
+248,"Quand j ai vu, nous nous sommes cachées",8
+249,"Quand j ai vu, nous nous sommes cachés",8
+250,"Quand j ai vu, vous vous êtes cachés",8
+251,"Quand j ai vu, ils se sont cachés",8
+252,Que faire la nuit dans la montagne,8
+253,Que faire les nuits dans les montagnes,8
+254,"Dans le quartier, on voit du sable",8
+255,"Gratuitement, ça fait beaucoup",8
+256,"Sans toi, je ne suis pas joli",8
+257,"Les buissons chantent, je suis choqué",8
+258,Je ne trouve plus de phases à dire,8
+259,"Un enfant joue, il est sublime",8
+260,"Les enfants jouent, ils sont sublimes",8
+261,"Des enfants jouent, ils sont sublimes",8
+262,"Les étrangers volent, incroyable",8
+263,"Des étrangers volent, incroyable",8
+264,"Un étranger vole, incroyable",8
+265,"Où ton coeur dorme, enfin glacé",8
+266,"Retourne, tout comme au temps passé",8
+267,Aux illusions de la forêt,8
+268,Et inscrit ces mots sur le sable,8
+269,"Sur les plombs, allégés, du sable",8
+270,"Ce franc baisé, ce baiser doux",8
+271,Je veux manger du chocolat,8
+272,Oh ! Je n y aurai pas pensé,8
+273,Vous n avez jamais publié,8
+274,Comment dire ? Je ne sais pas bien,8
+275,Tout ce qui commence se termine,8
+276,"Je vais loin, tu vois ce n est pas dur",9
+277,"Tu vas loin, tu vois ce n est pas dur",9
+278,"Il va loin, tu vois ce n est pas dur",9
+279,"Ils vont loin, tu vois ce n est pas dur",9
+280,"Même si je ne sais pas, océan",9
+281,"Là-bas, nous allons allègrement",9
+282,"Là-bas, vous allez allègrement",9
+283,"Ah cruel, tu m as trop entendu",9
+284,"Ah cruel, tu m as trop entendue",9
+285,"Ah cruel, il m a trop entendu",9
+286,De la musique avant toute chose,8
+287,Et pour cela préfère l Impair,8
+288,Plus vague et plus soluble dans l air,8
+289,Sans rien en lui qui pèse ou qui pose,9
+290,"Étourdie, fameuse dans sa beauté",9
+291,"Étourdie, belle, charismatique, fraîche",9
+292,Mais tu ne sais pas comment admettre,9
+293,Évidemment ! Il sait que j ai peur,9
+294,Jamais ils ne le sauront vraiment,9
+295,Tu aurais pu vivre longtemps et bien,9
+296,Ils auraient pu vivre longtemps et bien,9
+297,Je ne sais pas quelle est cette horreur,9
+298,Quelle est cette horreur ? J en suis choquée,9
+299,Oh ! Je n y aurai pas vraiment cru,9
+300,"Hélas, ma grand-mère ne chante pas bien",9
+301,Comment ? Ils n en sauront jamais rien,9
+302,"Concrètement, elles vont devoir battre",9
+303,Que sais tu ? L avenir nous attend,9
+304,La réalité pourrait blesser,9
+305,Les animaux sont de vrais amis,9
+306,Tu sais ce qui ne va pas pour toi,9
+307,Il serait plus sérieux de manger,9
+308,"Dans la vie comme dans l océan, loin",9
+309,"Parfois je cherche à comprendre, souvent",9
+310,Sache que ma vie était différente,9
+311,Se préparer pour la guerre est long,9
+312,Troisième mythe : il est devenu riche,9
+313,Combien de livres lisons nous par an,9
+314,Plutôt que la guerre : la création,9
+315,C est une sublime femme ! Pleine de bonté,9
+316,Racontez moi vos plus terribles songes,9
+317,Cache ce que tu peux et veux garder,9
+318,"Dans cinq ans, elle mourra trois fois plus",9
+319,Je mange tellement de toi mon amour,10
+320,"Dans mon rêve le plus beau, je suis la reine",10
+321,"Dans mes rêves les plus beaux, ils sont les reines",10
+322,"Dans mes rêves les plus beaux, ils sont les rois",10
+323,Je veux remanger plus de chocolat,10
+324,Tu veux remanger plus de chocolat,10
+325,Elle veut remanger plus de chocolat,10
+326,Ils veulent remanger plus de chocolat,10
+327,Je n ai plus d inspiration la tristesse,10
+328,"Difficile, mais pas impossible, oh non",10
+329,"Phrase sans verbe, possible ou bien impossible",10
+330,Ce que je dis fait sens ? Je ne pense pas,10
+331,Quelle est la vie que tu aurais aimé,10
+332,"J aurai dû abandonner plus tôt, non",10
+333,"Abominable, vicieux, galopant, frais",10
+334,Elle fait un beau job en informatique,10
+335,Qui est cette personne ? Je la connais bien,10
+336,Force et courage sont ses meilleurs atouts,10
+337,"Demain, tu vivras dans une grande forêt",10
+338,Comment osent ils ? L humilité s apprend,10
+339,Ridicule ! Tu vas regretter ton choix,10
+340,Oh ! Jamais de ta vie tu ne sauras,10
+341,Attardons nous juste sur la fin de vie,10
+342,D esprit fort tranquille mais d air sulfureux,10
+343,Ils nous convient à un acide buffet,10
+344,Quel est l état de la forêt française,10
+345,Pourrais je un jour m imaginer sans,10
+346,Renforcer vos protections intérieures,10
+347,Nous voulons remanger plus de chocolat,11
+348,Vous voulez remanger plus de chocolat,11
+349,"Loin des oiseaux, des troupeaux, des villageoises",11
+350,"Je buvais, accroupi dans ces quelques bruyères",11
+351,Entourée de ces tendres bois de noisetiers,11
+352,Par un brouillard d après-shampoing tiède et vert,11
+353,Ce faible lieu tranquille où la vie entre les lignes,11
+354,Passe sur un papier joli qui attendra,11
+355,L image inattendue ou la citation,11
+356,Ouvertes sur la musique de nos petits livres,11
+357,Je réveille le vieillissant procommuniste,11
+358,Qui ne sait désormais sur quel pied danser,11
+359,La vie apprend aux enfants le cacao,11
+360,La vie apprend aux enfants l humilité,11
+361,Jamais tu ne sauras ce qui était vrai,11
+362,À vouloir dominer tu ne seras rien,11
+363,La réalité des choses peut faire souffrir,11
+364,Il a voulu voir la vie sans la choquer,11
+365,Hélas ! Sa vie n était que mensonges cachés,11
+366,"Malin, jeune, beau, déterminé et coquin",11
+367,Oh ! Mais tu le savais ? Depuis tout ce temps,11
+368,Mais quelle est la vie que tu aurais aimé,11
+369,Heureusement ils ont lâché ce projet,11
+370,Comment te le dire ? Tu ne comprendrais pas,11
+371,"Ni une ni deux, je sais pourtant bien chanter",11
+372,Comment osent ils ? Ils ne savent pas qui je suis,11
+373,"Abandonné par ses maîtres, il erre sans but",11
+374,Préserver ce que tu peux et veux garder,11
+375,Les belles valeurs sont par nature expansives,11
+376,D esprit fort tranquille mais d allure sulfureuse,11
+377,Reproches et aventures feront ton ciment,11
+378,Pourquoi as tu mangé tout le chocolat,11
+379,Quel est l état de la forêt gabonaise,11
+380,Une véritable aubaine pour la vie sauvage,11
+381,Une source sûre et efficace de petit-beurre,11
+382,Devant mes yeux brouillés par les pleurs et la boue,12
+383,Je perçois ton visage aux longs cheveux dorés,12
+384,"Ton étagère me hante, à en devenir fou",12
+385,Tu es l espoir lointain de mon coeur déchiré,12
+386,"Ils sont couchés là-bas, mes jeunes frères d agonie",12
+387,Noyés dans les ruisseaux de leur sang juvénile,12
+388,Libérés pour toujours de ce monde en furie,12
+389,Qui balaie de son souffle impur les corps fragiles,12
+390,De quitter la folie des artisans de mort,12
+391,La nuit recouvre enfin les cadavres répartis,12
+392,Les clameurs des blessés ont sombré dans l abîme,12
+393,Sur la chevelure rougie rôdent les charognards,12
+394,Attirés par l odeur épaisse et âcre du crime,12
+395,Vers la puissante tiédeur de ta bouche enivrante,12
+396,"Je suis saoul de ton corps, de ta voix caressante",12
+397,Notre doux et immense baiser habite ma mémoire,12
+398,"Balaie, tel un géant, mes remords dérisoires",12
+399,"Je me voudrais poète, évangéliste de mots",12
+400,Disposé à célébrer tes charmes virginaux,12
+401,"Mais je ne suis plus rien, un déserteur maudit",12
+402,Robot désincarné en quête d une cafetière,12
+403,Je sens le désespoir consumer mon courage,12
+404,Appelant de leurs voeux celui qui te vénère,12
+405,Le soldat harassé qui pour toujours adore,12
+406,L harmonie de ton coeur et sa grande flamme solaire,12
+407,Doucement ! Comment tu aurais pu le savoir,12
+408,Dis moi ! Quelle est la vie que tu aurais aimé,12
+409,Comment ? Je n y crois pas ! La musique est partie,12
+410,"Gentil, burlesque, enivrant, farfelu, gâté",12
+411,Elle sait depuis des années tout ce que tu dis,12
+412,Allez présenter de tels chiffres aux décideurs,12
+413,L aura puissante de ta force enivrante et vive,12
+414,"Évidemment, j ai longuement pensé à toi",12
+415,Reproches et aventures sont le ciment de l âme,12
+416,J aime,1
+417,Tu aimes,2
+418,Il aime,2
+419,Elle aime,2
+420,Nous aimons,3
+421,Vous aimez,3
+422,Ils aiment,2
+423,Elles aiment,2
+424,J aimais,2
+425,Tu aimais,3
+426,Il aimait,3
+427,Elle aimait,3
+428,Nous aimions,3
+429,Vous aimiez,3
+430,Ils aimaient,3
+431,J aimerai,3
+432,Tu aimeras,4
+433,Il aimera,4
+434,Elle aimera,4
+435,Nous aimerons,4
+436,Vous aimerez,4
+437,Ils aimeront,4
+438,J aimerais,3
+439,Tu aimerais,4
+440,Il aimerait,4
+441,Je pars,2
+442,Tu pars,2
+443,Il part,2
+444,Elle part,2
+445,Nous partons,3
+446,Vous partez,3
+447,Ils partent,2
+448,Elles partent,2
+449,Je partais,3
+450,Il partait,3
+451,Nous partions,3
+452,Je partirai,4
+453,Tu partiras,4
+454,Il partira,4
+455,Nous partirons,4
+456,Vous partirez,4
+457,Ils partiront,4
+458,Je vois la mer,4
+459,Tu vois la mer,4
+460,Il voit la mer,4
+461,Nous voyons la mer,5
+462,Vous voyez la mer,5
+463,Ils voient la mer,4
+464,Je chante doucement,5
+465,Tu chantes doucement,5
+466,Il chante doucement,5
+467,Elle chante doucement,5
+468,Nous chantons doucement,6
+469,Ils chantent doucement,5
+470,Je rêve de toi,4
+471,Tu rêves de moi,4
+472,Il rêve d ailleurs,4
+473,Elle rêve d amour,4
+474,Nous rêvons ensemble,5
+475,Je dors profondément,6
+476,Tu dors profondément,6
+477,Il dort profondément,6
+478,Je danse encore,4
+479,Tu danses encore,4
+480,Il danse encore,4
+481,Elle danse encore,4
+482,Les sanglots longs,4
+483,Des violons,3
+484,De l automne,3
+485,Blessent mon coeur,3
+486,D une langueur,3
+487,Monotone,3
+488,Tout suffocant,4
+489,Et blême quand,3
+490,Sonne l heure,2
+491,Je me souviens,4
+492,Des jours anciens,4
+493,Et je pleure,3
+494,Je fais souvent ce rêve étrange,8
+495,Et nos amours,4
+496,La joie venait toujours après la peine,10
+497,Vienne la nuit sonne l heure,5
+498,Les jours s en vont je demeure,7
+499,Demain dès l aube je partirai,8
+500,Vois-tu je sais que tu m attends,8
+501,J irai par la forêt,6
+502,J irai par la montagne,6
+503,Je ne puis demeurer loin de toi,9
+504,Mon enfant ma soeur,5
+505,Songe à la douceur,5
+506,Aimer à loisir,5
+507,Aimer et mourir,5
+508,Au pays qui te ressemble,7
+509,Souvent pour s amuser,6
+510,Les hommes d équipage,5
+511,Prennent des albatros,5
+512,Vastes oiseaux des mers,5
+513,Par les soirs bleus d été,6
+514,Picoté par les blés,6
+515,Je laisserai le vent,6
+516,Baigner ma tête nue,5
+517,Mignonne allons voir si la rose,8
+518,Cueillez dès aujourd'hui les roses,8
+519,Maître Corbeau sur un arbre perché,8
+520,Tenait en son bec un fromage,8
+521,Maître Renard par l odeur alléché,9
+522,Le chat dort,3
+523,La chatte dort,3
+524,Les chats dorment,3
+525,Les chattes dorment,3
+526,Le chat ronronne,4
+527,La chatte ronronne,4
+528,Les chats ronronnent,4
+529,Les chattes ronronnent,4
+530,Le chat miaule,3
+531,La chatte miaule,3
+532,Un beau jour,3
+533,Une belle nuit,3
+534,De beaux jours,3
+535,De belles nuits,3
+536,Un grand bonheur,4
+537,Une grande joie,3
+538,De grands plaisirs,4
+539,De grandes peines,3
+540,Un vieux livre,3
+541,Une vieille histoire,4
+542,De vieux livres,3
+543,De vieilles histoires,4
+544,Un nouveau jour,4
+545,Une nouvelle aube,4
+546,De nouveaux espoirs,5
+547,De nouvelles promesses,5
+548,Au creux de la nuit,5
+549,Dans le silence,4
+550,Sous la lune pâle,4
+551,Près des étoiles,4
+552,Loin des hommes,3
+553,Au fond du coeur,4
+554,Dans l ombre du soir,4
+555,Sur le chemin doux,5
+556,La lune brille,3
+557,Le soleil descend,5
+558,Les étoiles dansent,4
+559,Le vent murmure,4
+560,La mer chante,3
+561,L arbre frissonne,3
+562,La fleur s ouvre,3
+563,L oiseau s envole,4
+564,Le ruisseau coule,4
+565,La nuit tombe lentement,6
+566,Le jour naît doucement,6
+567,Le crépuscule vient,5
+568,Le printemps fleurit,5
+569,L été flamboie,4
+570,L automne dore les feuilles,5
+571,L hiver glace les âmes,5
+572,Au printemps les fleurs fleurissent,7
+573,En hiver tout repose,6
+574,Je ne dors plus,4
+575,Tu ne dors plus,4
+576,Il ne sait pas,4
+577,Elle ne sait pas,4
+578,Nous ne savons rien,5
+579,Vous ne savez rien,5
+580,Plus jamais,3
+581,Que dis-tu,3
+582,Où vas-tu,3
+583,Pourquoi pleurer,4
+584,Quand reviendras-tu,5
+585,Comment savoir,4
+586,Qui est cet homme,4
+587,Qui est cette femme,4
+588,Que veux-tu vraiment,5
+589,La joie est là,4
+590,La tristesse passe,4
+591,L amour demeure,4
+592,La peur s en va,4
+593,L espoir renaît,4
+594,Pour toi,2
+595,Avec toi,3
+596,Sans toi,2
+597,Près de toi,3
+598,Loin de toi,3
+599,Je veux partir,4
+600,Tu veux partir,4
+601,Il veut partir,4
+602,Nous voulons partir,5
+603,Vous voulez partir,5
+604,Ils veulent partir,4
+605,Quand je te regarde,5
+606,Lorsque tu souris,5
+607,Si tu reviens,4
+608,Avant l aurore,4
+609,Au crépuscule,4
+610,La mer brille au matin,6
+611,Les vagues lèchent le sable,5
+612,L horizon devient flou,6
+613,Le ciel s embrase doucement,7
+614,Une étoile traverse la nuit,7
+615,Le vent du large emporte les regrets,9
+616,Les mouettes tournent dans le ciel,6
+617,La marée monte sans bruit,6
+618,L écume blanche danse sur la pierre,8
+619,Le bleu profond cache des secrets,8
+620,La falaise tombe dans la mer,7
+621,Un voilier glisse à l horizon,8
+622,Le port s endort au crépuscule,8
+623,La lune éclaire les toits,6
+624,Le phare clignote au loin,6
+625,Une brume légère couvre le rivage,8
+626,Les algues sèchent sur les rochers,7
+627,Le galet roule entre les vagues,7
+628,Un poisson saute hors de l eau,7
+629,Le sel brûle sur les lèvres,6
+630,La plage est vide ce matin,7
+631,Les coquillages craquent sous mes pieds,8
+632,L odeur d iode emplit l air salin,8
+633,Une vague immense vient mourir,7
+634,Le sable garde la trace,5
+635,Les nuages courent sur l océan,7
+636,Le ciel pâlit avant l aube,7
+637,Le sol tremble sous nos pas,6
+638,La forêt frissonne au matin,8
+639,Un chêne ancien veille sur la clairière,9
+640,Les feuilles tombent en silence,6
+641,Le ruisseau murmure sa chanson,8
+642,La mousse couvre les pierres,5
+643,Un cerf surgit entre les arbres,7
+644,L écorce craque sous la pluie,6
+645,Le sentier serpente sous les branches,8
+646,Une biche boit à la rivière,7
+647,Les pins sentent bon la résine,7
+648,Le hibou hulule dans la nuit,8
+649,Un rayon perce le feuillage,7
+650,La sève monte au printemps,6
+651,Les champignons poussent dans l ombre,7
+652,Le sous-bois garde ses secrets,7
+653,Un écureuil saute de branche en branche,9
+654,Les fougères s ouvrent au matin,7
+655,Le vent agite les bouleaux,7
+656,Une source jaillit entre les pierres,7
+657,Le brouillard noie les collines,7
+658,La rosée perle sur les herbes,7
+659,Les coquelicots dansent dans le blé,9
+660,Un papillon se pose sur la fleur,9
+661,Le champ de lavande embaume,7
+662,Les abeilles butinent sans relâche,8
+663,La meule de foin sent l été,7
+664,Un épi de blé plie sous le vent,9
+665,Le pommier ploie sous les fruits,7
+666,La vigne mûrit au soleil,7
+667,Les hirondelles annoncent l été,8
+668,Un nid se cache sous le toit,7
+669,Le rossignol chante à l aube,7
+670,La cigale crie dans l après-midi,9
+671,Le grillon répond dans la nuit,8
+672,Une libellule survole l étang,8
+673,Le nénuphar flotte sur l eau,7
+674,Les saules pleurent au bord du lac,7
+675,Un cygne glisse sur le miroir,7
+676,Le canard plonge sa tête,6
+677,La grenouille saute dans la mare,7
+678,Les roseaux ploient au gré du vent,8
+679,Le martin-pêcheur disparaît,8
+680,Un héron veille immobile,7
+681,La rivière contourne le hameau,8
+682,Le moulin grince doucement,7
+683,Un pont de bois enjambe l eau,7
+684,La cascade gronde dans la gorge,7
+685,Le torrent dévale la montagne,8
+686,Les sommets se couvrent de neige,7
+687,Le glacier brille au loin,6
+688,Une avalanche ronfle au lointain,8
+689,Le berger guide son troupeau,7
+690,La cloche tinte au cou des vaches,7
+691,Un aigle plane au-dessus du col,8
+692,Le chamois bondit de roche en roche,9
+693,La marmotte siffle dans son terrier,8
+694,Le refuge attend les voyageurs,9
+695,Un feu de bois crépite,6
+696,La lampe vacille dans la nuit,7
+697,Les volets battent au vent,6
+698,Le toit gronde sous l averse,6
+699,Une fenêtre s ouvre sur le jour,7
+700,Le rideau se gonfle doucement,8
+701,La porte grince en s ouvrant,6
+702,Un pas résonne dans le couloir,8
+703,L horloge bat dans le salon,7
+704,Le feu de bois éclaire les murs,8
+705,Une ombre passe sur la cheminée,8
+706,Le plancher craque sous mes pieds,7
+707,La théière siffle à la cuisine,8
+708,Le pain chaud sort du four,6
+709,Une miette tombe sur la table,6
+710,Le café fume dans la tasse,7
+711,Un livre attend sur l oreiller,8
+712,La page jaunie sent la poussière,8
+713,Le silence règne dans la pièce,7
+714,Une lettre traîne sur le bureau,7
+715,Le stylo a séché ce matin,9
+716,Mon carnet garde mes secrets,7
+717,Une mèche tombe sur ses yeux,6
+718,Son sourire éclaire la pièce,7
+719,Sa voix résonne encore en moi,8
+720,Ses mains tremblent quand je l embrasse,7
+721,Tes yeux brillent dans la pénombre,7
+722,Tes cheveux glissent entre mes doigts,7
+723,Ton parfum me rappelle l été,8
+724,Ta peau est douce comme la soie,7
+725,Mon coeur bat plus fort près de toi,8
+726,Je tremble en te disant je t aime,8
+727,Tu souris quand je te regarde,8
+728,Nos doigts s entrelacent en silence,8
+729,Tes lèvres frôlent les miennes,5
+730,Un baiser scelle nos promesses,7
+731,Nos coeurs battent à l unisson,7
+732,Je t écris des poèmes secrets,8
+733,Tu me lis jusqu à l aube,5
+734,Nos rires emplissent la maison,7
+735,Tu danses pieds nus dans la pluie,7
+736,Je te regarde dormir paisible,8
+737,Tu respires contre mon épaule,7
+738,Nous marchons main dans la main,7
+739,Nous parlons sans dire un mot,7
+740,Je pense à toi sans cesse,6
+741,Tu reviens hanter mes nuits,7
+742,Ton absence pèse sur mon coeur,7
+743,Je compte les jours qui restent,6
+744,Tu écris mon nom dans le sable,8
+745,La mer efface nos serments,7
+746,Le temps emporte nos étreintes,7
+747,Je garde ta lettre près de moi,7
+748,Tu m as quittée un matin gris,8
+749,Tu m as oubliée trop vite,7
+750,Je n attends plus ton retour,7
+751,L oubli est plus doux que la peine,8
+752,Le souvenir s estompe peu à peu,9
+753,Je ferme les yeux pour mieux te voir,8
+754,Tu danses encore dans mes songes,7
+755,Ton visage flotte dans la brume,7
+756,Je t aimerai toute ma vie,7
+757,Tu seras mon dernier soupir,8
+758,Nous vieillirons ensemble peut-être,8
+759,Le temps nous épargnera enfin,9
+760,Je voudrais arrêter le temps,8
+761,Tu voudrais revivre ce moment,8
+762,Le bonheur passe en un instant,8
+763,La joie ne dure qu un soupir,7
+764,Le printemps ramène les fleurs,7
+765,Les bourgeons éclatent en avril,8
+766,Avril fait fleurir les cerisiers,9
+767,Mai ramène les hirondelles,7
+768,Le lilas embaume le jardin,8
+769,Les rosiers grimpent au mur,6
+770,Les iris s ouvrent près du puits,7
+771,Le muguet sort sous les feuilles,7
+772,Les jonquilles dansent dans le pré,7
+773,Les violettes parsèment le bois,7
+774,Le coucou chante dans la forêt,8
+775,Les arbres se couvrent de vert,6
+776,La saison nouvelle nous ravit,8
+777,L été chaud arrive enfin,7
+778,Juin nous offre les fraises,5
+779,Juillet brûle sur les pavés,7
+780,Août étire ses longues journées,7
+781,Le soleil tape sur les volets,8
+782,Les enfants courent dans la cour,7
+783,Les vacances semblent éternelles,7
+784,Les soirs traînent jusqu à dix heures,6
+785,La nuit tombe à peine,5
+786,Les étoiles peuplent le ciel d été,8
+787,Le grillon chante sous la lune,7
+788,Les chauves-souris frôlent les murs,7
+789,La canicule épuise les corps,8
+790,L orage gronde au loin,5
+791,La pluie chaude fait fumer la terre,8
+792,Septembre apporte la rentrée,7
+793,Les cartables retrouvent les écoles,8
+794,Les feuilles jaunissent peu à peu,7
+795,Octobre dore les vignobles,6
+796,Les vendanges battent leur plein,6
+797,Le vin nouveau coule des cuves,7
+798,Les châtaignes tombent dans l herbe,6
+799,Le marron éclate sous le talon,9
+800,Les feuilles tournent au rouge,5
+801,Novembre dépouille les arbres,6
+802,La brume couvre le matin,6
+803,Le brouillard étouffe les bruits,7
+804,Les oiseaux migrent vers le sud,7
+805,Le ciel se charge de gris,6
+806,Décembre apporte la neige,6
+807,Les flocons tombent en silence,7
+808,Le givre dessine des fleurs,6
+809,La cheminée chauffe le salon,8
+810,Le sapin scintille dans le coin,8
+811,Les guirlandes habillent les rues,7
+812,Janvier glace les rivières,6
+813,Le froid mord les joues rougies,7
+814,Le ciel reste bas tout le mois,7
+815,Février s achève en silence,8
+816,Mars souffle ses derniers froids,6
+817,Le printemps revient enfin,7
+818,Les saisons tournent sans répit,7
+819,Le temps file sans qu on le voie,7
+820,Les jours raccourcissent en hiver,8
+821,Les nuits paraissent infinies,7
+822,L aube tarde à venir en janvier,8
+823,Le crépuscule arrive trop tôt,8
+824,Les heures s allongent en été,7
+825,Les minutes filent quand on aime,7
+826,Le siècle passe en un instant,7
+827,Le temps n attend personne,6
+828,Une seconde suffit parfois,7
+829,Une vie se résume en peu de mots,9
+830,L enfance fuit avant qu on s en aperçoive,10
+831,L adolescence brûle sans se dire,8
+832,La jeunesse part trop vite,6
+833,La vieillesse arrive trop tôt,7
+834,Le miroir révèle les rides,7
+835,Les cheveux blanchissent sans bruit,7
+836,Les souvenirs reviennent par vagues,8
+837,Le passé pèse sur les épaules,8
+838,L avenir reste incertain,7
+839,Demain on fera mieux,6
+840,Hier appartient déjà au songe,8
+841,Aujourd'hui glisse entre les doigts,7
+842,Le présent est tout ce qu on a,8
+843,Vivre est un art difficile,7
+844,Aimer est un risque à prendre,7
+845,Mourir n est qu une étape,6
+846,Naître est déjà une chance,6
+847,Grandir nous coûte quelque chose,6
+848,Apprendre demande du temps,6
+849,Comprendre prend toute une vie,6
+850,Se connaître reste un mystère,7
+851,L âme est plus vaste que le corps,7
+852,Le coeur a ses raisons,6
+853,L esprit s envole où il veut,7
+854,La pensée traverse les murs,7
+855,Le rêve dépasse le réel,7
+856,L imagination n a pas de bornes,9
+857,Le souvenir embellit tout,8
+858,L oubli efface les peines,6
+859,Le pardon libère le coeur,7
+860,La haine ronge celui qui la garde,8
+861,La colère brûle plus qu elle ne rend,8
+862,La patience finit par payer,8
+863,Le silence en dit long parfois,8
+864,Le bruit fatigue plus qu il n inspire,8
+865,Le sommeil restaure l esprit,7
+866,Le réveil ramène les soucis,8
+867,Le matin offre ses promesses,7
+868,La nuit garde ses secrets,6
+869,Le café tiède attend sur le comptoir,10
+870,Le journal traîne sur la table,7
+871,La pendule sonne neuf heures,6
+872,Le métro s engouffre dans le tunnel,9
+873,Les passagers fixent leurs téléphones,9
+874,Une dame lit son roman,6
+875,Un enfant pleure dans le wagon,8
+876,Le bus roule dans la grande avenue,9
+877,Les klaxons cassent le matin,7
+878,Les feux passent au rouge,5
+879,Une moto file entre les voitures,8
+880,Le marchand crie ses tomates,7
+881,Le pain frais sort de la boutique,8
+882,La boulangère sourit aux clients,9
+883,Le facteur dépose le courrier,8
+884,La concierge balaie le trottoir,8
+885,Les écoliers traversent le passage,9
+886,Une vieille dame promène son chien,7
+887,Le pigeon picore les miettes,7
+888,Le moineau saute sur le banc,7
+889,Une feuille morte vole au vent,6
+890,Le caniveau gargouille sous la pluie,9
+891,Les flaques reflètent les façades,7
+892,Le réverbère s allume au crépuscule,10
+893,Les vitrines s illuminent,6
+894,Le néon clignote au bar du coin,9
+895,Le bistrot accueille les habitués,9
+896,Le serveur connaît les commandes,8
+897,Le verre tinte sur le comptoir,7
+898,La fumée monte vers le plafond,8
+899,Une chanson passe à la radio,8
+900,Le vieil homme tape la mesure,7
+901,Une femme rit aux éclats,6
+902,Un couple discute à voix basse,7
+903,Le musicien sort sa guitare,8
+904,Une mélodie monte dans la salle,8
+905,Les pieds tapent en rythme,5
+906,Les mains battent au refrain,6
+907,La fête se prolonge dans la nuit,8
+908,Les lumières dansent au plafond,7
+909,La piste vibre sous les pas,6
+910,Les corps se cherchent en cadence,7
+911,Une étrangère me sourit,7
+912,Je tends la main pour danser,7
+913,Elle accepte sans hésiter,7
+914,Nous tournons sous les guirlandes,7
+915,Le temps suspend son cours,6
+916,Le monde disparaît autour,7
+917,Plus rien n existe que cet instant,8
+918,Le train siffle dans la gare,6
+919,Les rails luisent sous la pluie,6
+920,Un nuage de vapeur s élève,7
+921,La locomotive ronfle au quai,8
+922,Le contrôleur valide les billets,9
+923,Les voyageurs cherchent leurs places,7
+924,Une valise tombe dans le couloir,8
+925,Le wagon s ébranle doucement,8
+926,Les paysages défilent par la fenêtre,10
+927,Les champs s étendent à perte de vue,8
+928,Les villages se succèdent,6
+929,Un château pointe sur la colline,8
+930,Le clocher domine les toits,7
+931,Les vaches paissent dans les prés,6
+932,Le tournesol suit le soleil,8
+933,Les meules ponctuent les champs,6
+934,Le tracteur trace ses sillons,7
+935,Le paysan rentre du labour,8
+936,Sa femme l attend au pas de la porte,9
+937,Le repas fume sur la table,7
+938,La soupe sent bon les légumes,7
+939,Le vin rouge coule dans le verre,7
+940,Le pain rompu passe de main en main,9
+941,La conversation s anime,7
+942,Les rires fusent autour de la table,8
+943,Les enfants chahutent dans le jardin,9
+944,Le grand-père raconte ses histoires,8
+945,La grand-mère tricote à côté du poêle,10
+946,Le chat ronronne sur ses genoux,8
+947,Le chien dort près de la cheminée,9
+948,Les bûches craquent dans le feu,6
+949,Les flammes lèchent la suie,5
+950,La nuit enveloppe la maison,8
+951,Une étoile pointe à la fenêtre,8
+952,Le silence règne dans la campagne,8
+953,Le hibou hulule au loin,7
+954,Le coq chante avant l aube,6
+955,Le matin se lève sur la ferme,8
+956,Les poules sortent du poulailler,7
+957,Le canard se dandine vers la mare,9
+958,Le berger rassemble ses moutons,8
+959,Les cloches sonnent l angélus,6
+960,Le curé balaie son église,8
+961,La place du village s anime,7
+962,Le marché monte ses étals,7
+963,Les fromages embaument l air frais,7
+964,Les tomates rougissent sur l étal,8
+965,Le poissonnier crie ses sardines,8
+966,La fleuriste arrange ses bouquets,8
+967,Le boucher tranche son jambon,7
+968,Le café propose ses croissants,8
+969,Une grand-mère sirote son thé,7
+970,Un retraité joue aux échecs,8
+971,Une jeune fille attend son ami,8
+972,Le soleil chauffe la terrasse,7
+973,Les pigeons picorent près du banc,8
+974,Une fontaine murmure au centre,7
+975,Le platane offre son ombre,6
+976,Les tilleuls embaument la rue,7
+977,Le carillon sonne midi,7
+978,Le déjeuner approche,6
+979,Les volets se ferment pour la sieste,9
+980,La ville s endort sous le soleil,8
+981,Tout repose jusqu à seize heures,6
+982,Le commerçant rouvre sa boutique,8
+983,Les enfants reprennent l école,7
+984,Le boulanger enfourne le pain,8
+985,La rue retrouve son agitation,9
+986,Le soir tombe sur la campagne,7
+987,Les ombres s allongent dans la cour,7
+988,Une lampe s allume à la fenêtre,8
+989,Quelqu'un attend que je rentre,7
+990,Je presse le pas dans les ruelles,7
+991,La porte s ouvre sur la lumière,7
+992,Une voix m accueille en souriant,7
+993,Je dépose mon manteau humide,8
+994,Le feu réchauffe mes mains glacées,8
+995,Le souper attend sur la table,8
+996,Nous mangeons en parlant peu,7
+997,La conversation s installe ensuite,9
+998,Nous rions de nos journées,6
+999,Le sommeil nous gagne enfin,7
+1000,Les draps frais accueillent nos corps,7
+1001,Une lampe veille sur la chambre,6
+1002,Un livre attend sur le chevet,8
+1003,Je lis quelques pages avant de dormir,9
+1004,Les mots m emportent vers les rêves,7
+1005,Mes paupières se ferment doucement,9
+1006,La nuit m enveloppe enfin,7
+1007,Mes songes prennent leur envol,6
+1008,Je traverse des paysages étranges,9
+1009,Je vole au-dessus des nuages,7
+1010,Je nage dans des mers profondes,7
+1011,Je gravis des montagnes immenses,8
+1012,Je rencontre des inconnus aimables,9
+1013,Une voix me chuchote des secrets,8
+1014,Une main m indique le chemin,7
+1015,Le rêve se brouille au matin,7
+1016,Je m éveille avec des images,8
+1017,Le souvenir s estompe peu à peu,9
+1018,Le café noir ramène à la réalité,12
+1019,Une nouvelle journée commence,7
+1020,Le travail attend au bureau,8
+1021,Les emails s accumulent,6
+1022,Le téléphone sonne sans cesse,7
+1023,Les réunions s enchaînent,6
+1024,Midi arrive trop vite,6
+1025,Le déjeuner se prend rapidement,10
+1026,L après-midi traîne en longueur,8
+1027,Cinq heures sonnent enfin,5
+1028,La sortie libère du bureau,8
+1029,Le métro me ramène chez moi,8
+1030,La ville s anime après le travail,9
+1031,Les terrasses se remplissent,6
+1032,Les amis se retrouvent autour d un verre,10
+1033,Les conversations vont bon train,8
+1034,Le soleil descend sur les toits,8
+1035,Le ciel rose annonce la nuit,7
+1036,Les premières étoiles paraissent,7
+1037,Les lampadaires s allument,6
+1038,La ville passe en mode soir,6
+1039,Les cinémas affichent leurs films,8
+1040,Les théâtres ouvrent leurs portes,6
+1041,Les restaurants accueillent les clients,9
+1042,Une queue se forme à l entrée du bar,9
+1043,La musique s échappe des fenêtres,8
+1044,Les jeunes rient sur les places,6
+1045,Les couples flânent main dans la main,7
+1046,Le quai de Seine attire les promeneurs,9
+1047,Les bouquinistes ferment leurs caisses,8
+1048,Une péniche glisse sous le pont,7
+1049,Notre-Dame veille sur l île,6
+1050,Le Louvre sommeille dans le noir,7
+1051,La tour Eiffel scintille toutes les heures,9
+1052,Montmartre se vide de touristes,7
+1053,Le Sacré-Coeur domine la nuit,8
+1054,Les musiciens ramassent leurs étuis,9
+1055,Les marchands plient bagage,6
+1056,La ville ralentit son rythme,7
+1057,Les restaurants commandent leurs derniers plats,10
+1058,Le métro fait ses dernières rotations,10
+1059,Les noctambules traînent dans les rues,8
+1060,Quelques fenêtres restent éclairées,7
+1061,Un musicien joue sur le pont des Arts,10
+1062,Sa mélodie traverse la Seine,8
+1063,Une amoureuse jette une pièce,7
+1064,Son ami lui glisse un baiser,8
+1065,La nuit parisienne devient magique,9
+1066,Tout semble possible dans cette ville,7
+1067,Un poème s écrit chaque seconde,8
+1068,Le passé hante chaque rue,6
+1069,Hugo a vécu rue de Sévigné,10
+1070,Verlaine a bu à Saint-Sulpice,8
+1071,Rimbaud a déambulé sur les quais,10
+1072,Apollinaire a aimé sous Mirabeau,11
+1073,Baudelaire a chanté ses fleurs,8
+1074,Mallarmé a rêvé son tombeau,9
+1075,Mon coeur s emballe quand tu approches,8
+1076,Je tremble sous ton regard,6
+1077,Je rougis comme une enfant,7
+1078,Tu rougis comme un adolescent,9
+1079,Mes mains moites trahissent l émotion,8
+1080,Mes joues brûlent malgré le froid,7
+1081,Mon estomac se noue d angoisse,8
+1082,Mes jambes flageolent sous moi,6
+1083,Je perds le souffle quand tu parles,7
+1084,Tu cherches mes yeux dans la foule,7
+1085,Je détourne le regard timidement,10
+1086,Tu insistes avec un sourire,8
+1087,Je cède à ton charme subtil,7
+1088,Tu prends ma main avec douceur,8
+1089,Je laisse mon coeur s emballer,7
+1090,Tu murmures mon prénom à mon oreille,10
+1091,Je frissonne malgré moi,6
+1092,Tu me serres contre toi,5
+1093,Je m abandonne dans tes bras,7
+1094,Le monde autour cesse d exister,8
+1095,Plus rien ne compte que toi,6
+1096,Tes lèvres trouvent les miennes,5
+1097,Le baiser dure une éternité,9
+1098,Je rouvre les yeux émerveillée,8
+1099,Tu me regardes avec tendresse,8
+1100,Nos respirations s harmonisent,8
+1101,Le silence devient complice,7
+1102,Tu murmures je t aime à voix basse,8
+1103,Je réponds par un sourire,7
+1104,Tu insistes avec plus de force,8
+1105,Je cède enfin et te dis je t aime,9
+1106,La nuit nous bénit de son ombre,8
+1107,Nous nous endormons enlacés,8
+1108,L aube nous trouve toujours unis,7
+1109,Le matin chante notre amour,7
+1110,Le café se boit en silence,8
+1111,Nos regards se croisent sans cesse,7
+1112,Un sourire suffit à tout dire,8
+1113,Une caresse remplace les mots,7
+1114,Notre intimité s épanouit,8
+1115,Les jours coulent comme du miel,6
+1116,Les mois passent sans qu on les compte,7
+1117,Les années construisent notre histoire,8
+1118,Les enfants viennent agrandir la famille,10
+1119,Le premier pleure dans ses langes,7
+1120,La seconde sourit déjà,7
+1121,Le troisième dort paisiblement,8
+1122,Les nuits blanches nous épuisent,6
+1123,Les premiers pas nous émerveillent,8
+1124,Les premiers mots nous bouleversent,8
+1125,L école commence trop tôt,6
+1126,Les devoirs finissent jamais,7
+1127,Les vacances nous rendent à nous,7
+1128,La plage nous accueille en juillet,8
+1129,Les châteaux de sable s effondrent,7
+1130,Les enfants pleurent leurs efforts perdus,9
+1131,Une glace les console aussitôt,8
+1132,La pluie gâche parfois la journée,8
+1133,Les jeux de société sortent du placard,10
+1134,Les rires reprennent vite le dessus,8
+1135,Le soir ramène le calme,6
+1136,Les enfants s endorment épuisés,8
+1137,Les parents se retrouvent enfin,8
+1138,Un verre de vin clôture la journée,9
+1139,Nous parlons à voix basse,6
+1140,Nous rions de nos folies,6
+1141,Nous nous aimons toujours autant,8
+1142,L amour vieillit avec douceur,8
+1143,La complicité grandit chaque jour,9
+1144,Les souvenirs s accumulent,7
+1145,Les albums se remplissent de photos,9
+1146,Les enfants grandissent sans qu on s en aperçoive,11
+1147,Le premier part en internat,8
+1148,La seconde entre au lycée,7
+1149,Le troisième perd ses dents de lait,8
+1150,La maison se vide peu à peu,8
+1151,Le silence s installe parfois,7
+1152,Les chambres restent fermées,5
+1153,Les jouets dorment dans les cartons,7
+1154,Les vêtements deviennent trop petits,9
+1155,On donne à des familles plus pauvres,8
+1156,Les voitures se succèdent à la porte,9
+1157,Les amis viennent et repartent,7
+1158,Les fêtes ponctuent les saisons,7
+1159,Noël ramène toute la famille,8
+1160,Pâques nous rassemble autour des oeufs,8
+1161,L été nous réunit en Bretagne,9
+1162,La Toussaint nous mène au cimetière,9
+1163,Les fleurs remplacent les paroles,7
+1164,Le souvenir des disparus pèse,9
+1165,Mais la vie continue sans eux,8
+1166,Nos parents vieillissent doucement,8
+1167,Leurs cheveux blanchissent avec grâce,8
+1168,Leurs gestes deviennent plus lents,6
+1169,Leur sagesse grandit à mesure,8
+1170,Les enfants leur rendent visite,7
+1171,Les petits-enfants les émerveillent,9
+1172,Les histoires se transmettent ainsi,8
+1173,Les recettes passent de génération,9
+1174,Les valeurs traversent les âges,7
+1175,L amour reste le plus précieux,7
+1176,Le travail occupe nos journées,8
+1177,La passion guide nos efforts,7
+1178,Les projets nourrissent nos espoirs,8
+1179,Les échecs nous apprennent l humilité,10
+1180,Les succès nous donnent la force,7
+1181,Les amis partagent nos peines,7
+1182,Les amis célèbrent nos joies,7
+1183,La famille reste notre socle,6
+1184,L amour donne sens à tout,6
+1185,La foi soutient les croyants,7
+1186,La nature apaise les âmes,7
+1187,Les arts élèvent l esprit,6
+1188,La musique adoucit les moeurs,8
+1189,La poésie chante l invisible,8
+1190,La peinture fixe l instant,6
+1191,La danse libère le corps,6
+1192,La sculpture défie le temps,7
+1193,Le théâtre interroge le réel,9
+1194,Le cinéma raconte nos vies,8
+1195,La photographie capte le présent,9
+1196,La littérature explore l humain,9
+1197,Chaque art nous parle autrement,7
+1198,Chaque oeuvre nous transforme,5
+1199,Une chanson change parfois une vie,8
+1200,Un poème console une douleur,8
+1201,Un tableau ouvre une fenêtre,7
+1202,Un film révèle ce qu on cache,7
+1203,Une statue défie la mort,7
+1204,Un livre devient un ami,7
+1205,L art est une autre forme de vie,7
+1206,Sans art le monde serait pauvre,7
+1207,Sans amour la vie serait vide,8
+1208,Sans espoir nous serions perdus,8
+1209,L espoir reste notre dernier refuge,8
+1210,L amour reste notre plus belle ressource,8
+1211,La vie reste un mystère sublime,8
+1212,La mort reste un seuil incertain,8
+1213,Personne ne sait ce qu il y a après,10
+1214,Certains croient en un autre monde,7
+1215,D autres pensent qu il n y a rien,6
+1216,Peu importe ce qu on croit,6
+1217,Ce qui compte c est de vivre pleinement,9
+1218,De savourer chaque instant,7
+1219,De goûter chaque expérience,7
+1220,D aimer ceux qui nous entourent,7
+1221,De pardonner les erreurs,7
+1222,D apprendre de nos chutes,5
+1223,De se relever toujours,7
+1224,De marcher vers la lumière,7
+1225,De ne pas céder au désespoir,9
+1226,De chercher la beauté partout,8
+1227,De partager ce que l on a,8
+1228,De donner sans rien attendre,7
+1229,De recevoir avec gratitude,9
+1230,De rendre grâce chaque jour,5
+1231,La gratitude transforme la vie,8
+1232,La compassion ouvre les coeurs,7
+1233,La sagesse vient avec l âge,7
+1234,La paix se conquiert chaque jour,7
+1235,Le bonheur se cultive avec soin,9
+1236,L avion décolle au lever du jour,9
+1237,Les nuages glissent sous l aile,5
+1238,Le tarmac fume sous le soleil,8
+1239,Une hôtesse sourit aux passagers,9
+1240,Le pilote annonce notre cap,7
+1241,Le repas arrive sur un plateau,9
+1242,Les écrans diffusent un film,7
+1243,Le hublot encadre l infini,8
+1244,Une étoile filante traverse,7
+1245,Les heures s étirent dans le ciel,7
+1246,L atterrissage me secoue doucement,10
+1247,La piste défile à toute allure,8
+1248,Le pays nouveau m attend,7
+1249,Une langue inconnue m accueille,7
+1250,Les odeurs me transportent aussitôt,9
+1251,Le marché grouille de monde,6
+1252,Les épices colorent les étals,8
+1253,Les fruits exotiques m intriguent,7
+1254,Une vendeuse me tend un échantillon,10
+1255,Je goûte sans hésiter,6
+1256,La saveur m emporte au loin,7
+1257,Le souvenir reste à jamais,8
+1258,Les ruelles serpentent sans plan,6
+1259,Je me perds avec délice,7
+1260,Une mosquée pointe au détour,7
+1261,Une église romane apparaît,8
+1262,Un temple ancien dort dans les rochers,9
+1263,Les pierres millénaires me parlent,7
+1264,Les fresques racontent des batailles,7
+1265,Les colonnes brisées défient le temps,9
+1266,Les statues mutilées émeuvent,8
+1267,Une civilisation a vécu ici,11
+1268,Une autre est venue puis partie,8
+1269,Une troisième s y est installée,8
+1270,Et l Histoire poursuit sa marche,7
+1271,Les empires montent et tombent,6
+1272,Les rois passent et meurent,5
+1273,Les peuples résistent ou s effondrent,7
+1274,Les traditions perdurent malgré tout,9
+1275,Les langues évoluent sans cesse,7
+1276,Les cultures se mélangent,6
+1277,Le métissage enrichit le monde,9
+1278,La diversité est notre force,8
+1279,L unité dans la différence,8
+1280,Voilà l idéal humain,7
+1281,Mais la guerre vient tout détruire,7
+1282,Les hommes oublient leurs leçons,7
+1283,Les bombes pleuvent sur les villes,6
+1284,Les enfants meurent sans raison,7
+1285,Les mères pleurent leurs fils,5
+1286,Les pères enterrent leurs filles,6
+1287,Les survivants errent hagards,7
+1288,Les ruines fument encore,5
+1289,Le silence pèse comme du plomb,7
+1290,Un oiseau tente une mélodie,8
+1291,Une fleur perce le béton,6
+1292,La vie reprend ses droits,6
+1293,Les gens reconstruisent leurs maisons,8
+1294,Les enfants retournent à l école,8
+1295,Les parents reprennent le travail,8
+1296,L humanité continue malgré tout,10
+1297,Mais les blessures restent profondes,7
+1298,Le traumatisme se transmet,7
+1299,Les cauchemars hantent les nuits,7
+1300,Les souvenirs reviennent sans crier gare,10
+1301,Une odeur ranime la peur,7
+1302,Un bruit relance l angoisse,6
+1303,Les vieillards se taisent souvent,7
+1304,Ils gardent leurs secrets pour eux,7
+1305,Mais les mots finissent par sortir,8
+1306,Les témoignages éclairent le passé,9
+1307,Les jeunes écoutent attentivement,9
+1308,Pour ne jamais oublier,7
+1309,Pour qu un tel drame ne revienne pas,8
+1310,La paix reste notre bien le plus précieux,9
+1311,La paix demande nos efforts constants,9
+1312,La paix se construit chaque jour,7
+1313,Par chaque geste de bonté,6
+1314,Par chaque parole d amour,6
+1315,Par chaque pardon offert,6
+1316,Par chaque main tendue,5
+1317,Par chaque sourire échangé,7
+1318,La paix commence en chacun de nous,9
+1319,Elle rayonne ensuite autour,7
+1320,Elle gagne nos familles,5
+1321,Elle s étend à nos voisins,7
+1322,Elle traverse les frontières,6
+1323,Un jour peut-être elle gagnera tout,9
+1324,Mais ce jour reste lointain,6
+1325,En attendant nous faisons ce qu on peut,10
+1326,Chacun à son humble échelle,7
+1327,Le poète écrit sa partition,9
+1328,Le musicien compose son chant,8
+1329,Le peintre brosse sa toile,5
+1330,Le médecin soigne les malades,7
+1331,L enseignant forme les esprits,7
+1332,Le boulanger nourrit les ventres,8
+1333,Le pompier sauve des vies,6
+1334,Le paysan cultive la terre,8
+1335,Chacun contribue à sa manière,9
+1336,Aucun rôle n est insignifiant,8
+1337,Toute oeuvre humaine a sa valeur,8
+1338,Toute vie compte également,7
+1339,Le pauvre vaut le riche,5
+1340,L ignorant vaut le savant,7
+1341,L étranger vaut le natal,7
+1342,La femme vaut l homme,4
+1343,L enfant vaut l adulte,5
+1344,Le vieux vaut le jeune,5
+1345,Le malade vaut le bien-portant,8
+1346,Tous égaux devant le mystère,8
+1347,Tous égaux devant la mort,7
+1348,Tous égaux devant l amour,7
+1349,Tous égaux devant la beauté,8
+1350,La grandeur de l homme tient en peu,8
+1351,Sa capacité d aimer,7
+1352,Sa capacité de créer,8
+1353,Sa capacité de pardonner,9
+1354,Sa capacité de comprendre,8
+1355,Sa capacité de résister,9
+1356,Sa capacité d espérer,8
+1357,Sans espoir il dépérit,7
+1358,Sans amour il s éteint,6
+1359,Sans création il s ennuie,7
+1360,Sans pardon il s aigrit,6
+1361,Sans compréhension il se ferme,8
+1362,Sans résistance il se soumet,8
+1363,Toutes ces qualités font sa valeur,9
+1364,Cultivons-les ensemble chaque jour,8
+1365,Le jour se lève sur la mer,7
+1366,Une lumière rose teinte le ciel,7
+1367,Les premiers oiseaux saluent l aube,8
+1368,Le pêcheur range ses filets,7
+1369,Sa barque tire sur l ancre,5
+1370,Une mouette plonge sur un poisson,7
+1371,Le port s éveille lentement,7
+1372,Les marins chargent leurs caisses,6
+1373,Les commères discutent au lavoir,8
+1374,Une cloche tinte au village,6
+1375,Le boulanger sort ses fournées,8
+1376,Le facteur enfourche son vélo,8
+1377,La poste ouvre ses portes,5
+1378,Les écoliers traînent les pieds,7
+1379,Le maître les attend déjà,7
+1380,La leçon commence à huit heures,8
+1381,La récréation libère les enfants,10
+1382,Les billes roulent sur la cour,6
+1383,Les cordes à sauter claquent,6
+1384,Les rires emplissent l école,6
+1385,La cloche rappelle en classe,6
+1386,Les enfants rentrent en rang,6
+1387,Le calme revient peu à peu,7
+1388,La leçon de calcul commence,8
+1389,Les chiffres dansent au tableau,6
+1390,Une élève lève la main,6
+1391,Le maître lui sourit,5
+1392,Elle propose la bonne réponse,7
+1393,La cloche annonce midi enfin,8
+1394,Les enfants courent à la cantine,8
+1395,Les plateaux glissent sur les rails,7
+1396,Le ciel pleure sur la terre,6
+1397,La terre boit avec gratitude,8
+1398,Les graines germent en silence,6
+1399,Les pousses percent le sol noir,6
+1400,Le printemps éclate partout,7
+1401,Les bourgeons gonflent jour après jour,8
+1402,Une feuille verte se déplie,6
+1403,Une autre suit le même chemin,7
+1404,L arbre se couvre de jeunes pousses,6
+1405,Une fleur pointe son bouton,6
+1406,Demain elle sera ouverte,7
+1407,Une abeille butine déjà,7
+1408,Le pollen vole dans l air doux,7
+1409,Les éternuements éclatent partout,9
+1410,L allergie n épargne personne,7
+1411,Mais la beauté vaut bien ces peines,8
+1412,Les jardins se parent de couleurs,9
+1413,Les balcons fleurissent à leur tour,8
+1414,Les jardinières débordent de pétunias,10
+1415,Les géraniums rougissent de plaisir,9
+1416,Les pensées clignent leurs yeux,6
+1417,Les bégonias ondulent leurs feuilles,8
+1418,Le jardinier soigne ses plates-bandes,8
+1419,Sa pelouse n a pas une herbe folle,8
+1420,Ses massifs respirent l harmonie,8
+1421,Son tonneau récupère l eau de pluie,9
+1422,Son compost nourrit la terre,7
+1423,Ses légumes sortent du potager,8
+1424,Les courgettes deviennent énormes,7
+1425,Les tomates rougissent au soleil,8
+1426,Les concombres pèsent sur leurs tiges,7
+1427,Les haricots grimpent leurs rames,7
+1428,Les pommes de terre se cachent sous terre,8
+1429,Les carottes plongent leurs racines,7
+1430,Les radis pointent leurs feuilles,6
+1431,La salade tourne autour de son coeur,9
+1432,Les fraises rougissent dans la paille,7
+1433,Les framboises se piquent aux ronces,7
+1434,Les groseilles brillent comme des perles,7
+1435,Les cassis noircissent en grappes,7
+1436,La récolte sera abondante,8
+1437,Les confitures emplissent les bocaux,9
+1438,Les pots s alignent sur l étagère,8
+1439,L hiver retrouvera leurs saveurs,9
+1440,Le souvenir de l été dans la cuiller,11
+1441,Le pain frais sort du four chaud,7
+1442,Le beurre fond sur la mie,6
+1443,La confiture tartine généreusement,11
+1444,Le café fume dans la tasse,7
+1445,Le journal craque entre mes mains,7
+1446,Les nouvelles ne sont pas bonnes,7
+1447,Le monde se déchire encore,7
+1448,Mais ici tout reste paisible,7
+1449,Le merle siffle dans le pommier,7
+1450,Le chat me regarde avec patience,9
+1451,Il attend sa pâtée du matin,9
+1452,Je lui sers son écuelle,6
+1453,Il mange avec délicatesse,8
+1454,Puis se lave longuement,6
+1455,Il s installe ensuite au soleil,8
+1456,Il ronronne de bien-être,6
+1457,J envie sa simplicité,7
+1458,Il vit dans l instant présent,7
+1459,Sans soucis pour le futur,7
+1460,Sans regrets pour le passé,7
+1461,Quelle leçon nous donnent les bêtes,7
+1462,Les humains se compliquent la vie,8
+1463,Nous courons après mille chimères,8
+1464,Nous oublions l essentiel,7
+1465,Les choses simples nous rendent heureux,7
+1466,Un sourire un repas un repos,9
+1467,Une promenade un livre un ami,8
+1468,Le bonheur n est pas si loin,7
+1469,Il est juste là à portée de main,9
+1470,Il nous suffit de l accueillir,8
+1471,La nuit recouvre le village,7
+1472,Les fenêtres s éteignent une à une,8
+1473,La rue s endort sous les étoiles,8
+1474,Un chat traverse furtivement,8
+1475,Une chouette ulule au clocher,7
+1476,Le silence devient palpable,7
+1477,Seul le vent murmure encore,7
+1478,Les feuilles bruissent doucement,6
+1479,La fontaine continue de couler,9
+1480,L horloge sonne minuit,5
+1481,Une étoile filante traverse,7
+1482,Un voeu silencieux s envole,7
+1483,Le ciel s ouvre sur l infini,7
+1484,Mille soleils brillent là-haut,6
+1485,Chacun porte ses planètes,6
+1486,Chacune abrite peut-être la vie,8
+1487,Sommes-nous seuls dans l univers,7
+1488,La question reste sans réponse,7
+1489,Pour le moment nous restons seuls,8
+1490,Et nous regardons les étoiles,8
+1491,En rêvant à des contacts,7
+1492,En espérant des messages,7
+1493,En cherchant des signaux,6
+1494,Mais le silence persiste,6
+1495,Le cosmos garde son mystère,7
+1496,La science avance pas à pas,7
+1497,Chaque découverte ouvre un mystère,8
+1498,Plus nous savons plus l ignorance grandit,10
+1499,L univers est vraiment immense,8
+1500,L humanité est si petite,8
+1501,Mais nous portons en nous l infini,9
+1502,Notre conscience embrasse les étoiles,8
+1503,Notre pensée traverse les âges,7
+1504,Notre amour rayonne loin,6
+1505,Notre art défie le temps,6
+1506,Notre science explore l inconnu,7
+1507,Voilà notre grandeur secrète,7
+1508,Voilà ce qui rend l homme unique,8
+1509,Pas par sa force ni sa taille,7
+1510,Mais par la profondeur de son être,9
+1511,La conscience est le grand miracle,8
+1512,L amour est le plus pur mystère,8
+1513,L art est l écho de l infini,8
+1514,La pensée est notre privilège,8
+1515,Cultivons ces dons précieux,7
+1516,Transmettons-les à nos enfants,8
+1517,Confions-les aux générations,8
+1518,Pour que l humanité grandisse,8
+1519,Pour que la lumière l emporte,7
+1520,Pour que la beauté demeure,7
+1521,Le matin tend ses doigts roses,7
+1522,La nuit s efface lentement,7
+1523,Les étoiles cèdent au soleil,7
+1524,L aurore parsème le ciel d or,7
+1525,Les oiseaux saluent le jour,7
+1526,Le coq lance son cri de victoire,8
+1527,La rosée trempe les herbes,6
+1528,La toile d araignée scintille,7
+1529,Une libellule sort de son rêve,8
+1530,Une fleur s éveille dans le pré,7
+1531,Un bourdon ronfle déjà,6
+1532,Le soleil monte à l horizon,8
+1533,Sa chaleur réveille la terre,7
+1534,Les couleurs reviennent au monde,7
+1535,Le vert des feuilles s épanouit,7
+1536,Le bleu du ciel s approfondit,8
+1537,Le rouge des fleurs flamboie,6
+1538,Le jaune des blés ondule,6
+1539,Le brun des champs se réchauffe,7
+1540,Le gris des pierres s adoucit,7
+1541,Le noir des arbres s éclaircit,7
+1542,La vie palpite dans chaque atome,8
+1543,Le souffle anime tout le vivant,8
+1544,La sève circule dans les troncs,7
+1545,Le sang bat dans les veines,6
+1546,Le coeur tambourine dans la poitrine,9
+1547,Les poumons aspirent l air pur,7
+1548,Les yeux boivent la lumière,6
+1549,Les oreilles captent les chants,6
+1550,Le nez respire les parfums,7
+1551,La peau frémit aux caresses,7
+1552,La langue savoure les saveurs,7
+1553,Tous les sens s éveillent ensemble,7
+1554,Le corps célèbre la vie,6
+1555,Comment ne pas crier de joie,8
+1556,Comment ne pas chanter merci,8
+1557,Le brouillard étouffe les contours,8
+1558,Une silhouette glisse dans la rue,7
+1559,Un fantôme peut-être ou un homme,8
+1560,La nuit confond les apparences,8
+1561,Les ombres prennent vie parfois,6
+1562,Les vieilles maisons racontent,6
+1563,Leurs murs portent mille histoires,6
+1564,Les escaliers grincent sans raison,8
+1565,Une porte claque derrière soi,6
+1566,Une lampe vacille seule,5
+1567,Un courant d air glace la nuque,7
+1568,Une voix murmure dans la cave,7
+1569,Personne pourtant n est là,6
+1570,Le coeur s emballe dans la poitrine,8
+1571,La raison cherche une explication,9
+1572,Mais le mystère résiste,6
+1573,L imagination prend le relais,9
+1574,Les contes anciens reviennent,6
+1575,Les esprits hantent les manoirs,7
+1576,Les sorcières vivent dans les bois,7
+1577,Les loups-garous courent les landes,7
+1578,Les vampires sucent le sang,6
+1579,Les démons tentent les âmes,6
+1580,Les anges veillent en secret,6
+1581,Les saints supplient au ciel,6
+1582,La Vierge protège ses enfants,7
+1583,Le Christ tend les bras à tous,7
+1584,La foi soulève les montagnes,7
+1585,La prière monte vers les cieux,7
+1586,L encens parfume les nefs,6
+1587,Les cloches sonnent les vêpres,5
+1588,Les chants emplissent les chapelles,7
+1589,Les pèlerins marchent vers Compostelle,9
+1590,Leurs bourdons résonnent sur les pavés,9
+1591,Leurs coquilles brillent au soleil,7
+1592,Leurs jambes peinent sur les pentes,6
+1593,Mais leur foi soutient leurs pas,7
+1594,Un calvaire jalonne le chemin,8
+1595,Une chapelle accueille le pèlerin,9
+1596,Une source rafraîchit son corps,7
+1597,Un aubergiste lui sert un repas,9
+1598,Une moniale lui offre l hospitalité,10
+1599,Le voyage purifie l âme,7
+1600,Chaque pas est une prière,6
+1601,Chaque effort une offrande,6
+1602,Au bout du chemin la cathédrale,9
+1603,Les hauts murs s élancent vers Dieu,7
+1604,Les voûtes ouvrent leurs bras,5
+1605,Les vitraux racontent l Évangile,8
+1606,La rosace explose en couleurs,8
+1607,L orgue gronde sa louange,4
+1608,Les chants résonnent dans la nef,7
+1609,Le pèlerin s agenouille en larmes,9
+1610,Sa quête trouve son couronnement,8
+1611,Sa peine prend tout son sens,6
+1612,Sa foi se renouvelle entièrement,10
+1613,Il repart transformé chez lui,8
+1614,Plus pauvre en biens matériels,7
+1615,Plus riche en biens spirituels,7
+1616,Le voyage l a métamorphosé,9
+1617,La grâce a touché son coeur,7
+1618,La vieillesse arrive à pas feutrés,9
+1619,On la voit à peine venir,7
+1620,Un cheveu blanc une ride légère,8
+1621,Une douleur dans le genou,7
+1622,Un essoufflement dans l escalier,9
+1623,Une nostalgie inattendue,8
+1624,On ne retrouve plus ses lunettes,8
+1625,On oublie le nom de l acteur,8
+1626,On confond les jours de la semaine,9
+1627,On répète les mêmes histoires,7
+1628,Les enfants sourient indulgents,8
+1629,Les petits-enfants s impatientent,8
+1630,Mais l affection reste intacte,7
+1631,On chérit chaque visite,6
+1632,Chaque appel devient un trésor,8
+1633,Chaque carte postale émeut,6
+1634,Les souvenirs deviennent plus vifs,8
+1635,Les images d enfance reviennent,7
+1636,Le visage de sa mère apparaît,9
+1637,Les rires d autrefois résonnent,7
+1638,Les bals de jeunesse dansent encore,8
+1639,Les amours anciennes ressurgissent,8
+1640,Les amis disparus reviennent,8
+1641,Le passé devient plus présent,8
+1642,Le présent s estompe peu à peu,8
+1643,Le futur devient indéfini,9
+1644,Le temps perd ses repères,6
+1645,Les heures s allongent ou se rétrécissent,9
+1646,Les jours se confondent parfois,7
+1647,Les saisons restent les seuls jalons,8
+1648,Le printemps annonce une promesse,8
+1649,L été apporte les retrouvailles,8
+1650,L automne ramène la mélancolie,9
+1651,L hiver invite au recueillement,9
+1652,On contemple sa vie passée,7
+1653,On évalue ses choix anciens,8
+1654,On regrette certaines décisions,8
+1655,On se félicite d autres,6
+1656,Mais on accepte tout en bloc,7
+1657,La sagesse vient avec l acceptation,10
+1658,On lâche prise enfin,5
+1659,On confie le reste à plus grand,8
+1660,On attend sereinement la suite,9
+1661,La mort approche silencieusement,9
+1662,Elle ne fait plus si peur,6
+1663,Elle apparaît comme un repos,8
+1664,Comme un sommeil bienvenu,7
+1665,Les amis partent les uns après les autres,10
+1666,Chaque enterrement nous rapproche,8
+1667,Le cimetière devient familier,9
+1668,Les noms gravés sur les pierres,7
+1669,Les dates qui marquent une vie,6
+1670,Les fleurs séchées sur les tombes,7
+1671,Les oiseaux chantent dans les ifs,7
+1672,Le calme règne dans l allée,6
+1673,Une paix étrange enveloppe tout,8
+1674,La mort fait partie de la vie,8
+1675,Elle l accompagne discrètement,8
+1676,Elle attend son heure patiemment,8
+1677,Quand elle vient nous le savons,7
+1678,Nous nous y préparons en secret,9
+1679,Nous mettons nos affaires en ordre,8
+1680,Nous écrivons nos dernières lettres,8
+1681,Nous embrassons ceux qui restent,7
+1682,On murmure les derniers mots,7
+1683,Puis nous fermons les yeux paisiblement,10
+1684,Le voyage commence ailleurs,7
+1685,Vers où nul ne le sait,6
+1686,Vers la lumière disent les uns,7
+1687,Vers le néant pensent les autres,7
+1688,Vers une autre vie peut-être,6
+1689,Vers le grand mystère de toujours,8
+1690,Quoi qu il advienne nous partons,7
+1691,Notre passage laisse des traces,6
+1692,Dans les coeurs que nous avons aimés,9
+1693,Dans les oeuvres que nous avons faites,8
+1694,Dans les enfants que nous avons élevés,11
+1695,Dans les amis que nous avons soutenus,11
+1696,Dans les inconnus que nous avons aidés,11
+1697,Notre vie n a pas été vaine,7
+1698,Nous avons fait notre part,6
+1699,Nous pouvons partir tranquilles,7
+1700,La grande aventure se termine,8
+1701,L étoile s éteint sur le ciel,7
+1702,Mais sa lumière continue son voyage,10
+1703,Elle traverse encore l espace,7
+1704,Elle atteindra des mondes lointains,8
+1705,Notre influence agit ainsi,8
+1706,Nos actions rayonnent au-delà,8
+1707,Nos paroles portent dans le temps,7
+1708,Nos sourires se transmettent,6
+1709,Une mère sourit à son enfant,8
+1710,L enfant grandit et sourit aux autres,9
+1711,Les autres transmettent à leurs proches,7
+1712,La chaîne de la bonté ne se brise pas,10
+1713,Elle traverse les générations,8
+1714,Elle relie les peuples lointains,7
+1715,Elle unit les ennemis d hier,8
+1716,Elle bâtit la paix demain,7
+1717,Voilà l espoir que nous portons,8
+1718,Voilà la flamme que nous transmettons,9
+1719,Le chien aboie au facteur,7
+1720,Sa queue bat contre le grillage,7
+1721,Il défend son territoire,7
+1722,Le facteur sourit malgré tout,8
+1723,Il dépose le courrier,6
+1724,Le chien retourne à sa niche,7
+1725,Il s allonge satisfait,6
+1726,Le maître sort lui parler,6
+1727,Sa main caresse les oreilles,7
+1728,Le chien ferme les yeux de bonheur,8
+1729,Sa loyauté n a pas de limite,9
+1730,Il donnerait sa vie pour son maître,9
+1731,Quel modèle d amour pur,6
+1732,Quelle fidélité exemplaire,8
+1733,Le cheval galope dans le pré,8
+1734,Sa crinière vole au vent,6
+1735,Sa queue claque comme un drapeau,7
+1736,Ses sabots martèlent le sol,7
+1737,Sa puissance fait trembler la terre,8
+1738,Sa beauté coupe le souffle,6
+1739,Le cavalier le rejoint enfin,9
+1740,Une carotte gagne sa confiance,7
+1741,Une caresse scelle l amitié,7
+1742,La selle lui pèse à peine,6
+1743,Ils partent à travers champs,6
+1744,Le vent gifle leurs visages,6
+1745,Les arbres défilent à toute allure,8
+1746,Le ruisseau s offre au gué,6
+1747,Le cheval saute la haie,6
+1748,Le cavalier s envole presque,7
+1749,Quelle griserie cette course,6
+1750,Quelle communion cette chevauchée,8
+1751,L oiseau chante dans la cage,6
+1752,Sa mélodie console le vieil homme,9
+1753,Le canari jaune comme l or,7
+1754,Saute de barreau en barreau,7
+1755,Il picore ses graines avec joie,8
+1756,Il boit dans son godet,6
+1757,Le perroquet répète les phrases,8
+1758,Il salue les visiteurs,7
+1759,Il jure quand on le contrarie,8
+1760,Sa langue rouge nous amuse,6
+1761,Le chat le regarde avec convoitise,10
+1762,Mais la cage le protège,6
+1763,Le poisson rouge tourne dans son bocal,9
+1764,Il ouvre sa bouche en silence,7
+1765,Ses bulles montent à la surface,7
+1766,L enfant le nourrit chaque matin,8
+1767,Une miette de pain suffit,6
+1768,Le poisson grandit lentement,8
+1769,Bientôt le bocal sera trop petit,10
+1770,On le donnera à l aquarium,9
+1771,L hippopotame se baigne dans la rivière,10
+1772,Sa masse fait rouler les vagues,7
+1773,Il bâille et montre ses crocs,6
+1774,Les crocodiles fuient ses colères,8
+1775,Le lion rugit dans la savane,8
+1776,Sa crinière flamboie au soleil,8
+1777,Les antilopes courent s abriter,8
+1778,Les girafes restent sur leurs gardes,7
+1779,L éléphant boit à la rivière,8
+1780,Sa trompe aspire des litres,6
+1781,Il arrose son dos avec patience,9
+1782,Les jeunes éléphants jouent à ses pieds,9
+1783,La mère veille tendrement,6
+1784,Le troupeau marche vers le sud,7
+1785,Une longue file s étend dans la plaine,8
+1786,Les vieux mènent la marche,5
+1787,Les jeunes ferment le cortège,7
+1788,Les femelles encadrent les petits,8
+1789,La harde franchit les fleuves,6
+1790,Elle traverse les déserts,6
+1791,Elle rejoint les pâturages,7
+1792,La migration sauve les vies,7
+1793,Cycle ancestral immuable,6
+1794,Sagesse animale antique,7
+1795,Que l homme aurait à apprendre,7
+1796,Le rouge éclate sur la toile,7
+1797,Le bleu profond capte le regard,8
+1798,Le jaune réjouit les yeux,6
+1799,Le vert apaise les nerfs,6
+1800,Le violet inspire le mystère,8
+1801,L orange réchauffe l atmosphère,7
+1802,Le rose attendrit le coeur,7
+1803,Le blanc évoque la pureté,8
+1804,Le noir suggère la profondeur,8
+1805,Le gris reflète la mélancolie,9
+1806,Le brun rappelle la terre,6
+1807,Chaque couleur a son langage,7
+1808,Chaque nuance porte un message,6
+1809,Les peintres connaissent ces secrets,7
+1810,Leurs toiles nous font vibrer,6
+1811,Le velours caresse nos mains,7
+1812,La soie glisse sur la peau,6
+1813,Le coton accueille la sueur,7
+1814,La laine réchauffe l hiver,6
+1815,Le cuir vieillit avec noblesse,8
+1816,Le bois respire dans la maison,8
+1817,La pierre garde la fraîcheur,6
+1818,Le marbre poli reflète tout,7
+1819,Le verre transparent laisse passer la lumière,11
+1820,Le miroir nous renvoie nous-mêmes,8
+1821,Le métal froid résonne au choc,8
+1822,L or jaune brille au soleil,6
+1823,L argent gris luit dans la nuit,7
+1824,Le bronze sombre raconte l Antiquité,9
+1825,Le fer rouille avec le temps,7
+1826,Chaque matière a son caractère,8
+1827,Chaque texture éveille un souvenir,9
+1828,La main connaît les substances,7
+1829,Le toucher informe plus qu on ne croit,9
+1830,Nos sens sont notre richesse première,8
+1831,Le silence enveloppe la chambre,8
+1832,Une horloge égrène les secondes,8
+1833,Mon souffle régule mes pensées,7
+1834,Mon coeur bat dans le calme,6
+1835,Une mouche bourdonne au plafond,7
+1836,Une voiture passe au loin,6
+1837,Un avion ronfle dans le ciel,7
+1838,Un chien aboie dans le quartier,8
+1839,Une porte claque chez le voisin,7
+1840,Une voix monte d en bas,5
+1841,Mais ces bruits restent feutrés,6
+1842,Le silence règne en maître,6
+1843,Mes pensées se déploient librement,9
+1844,Une idée nouvelle germe,6
+1845,Une solution apparaît soudain,9
+1846,Un souvenir oublié resurgit,10
+1847,Une question ancienne se résout,8
+1848,Le silence est un trésor,7
+1849,Il faut le cultiver avec soin,9
+1850,Il faut le défendre des bruits,7
+1851,Il faut s y abandonner parfois,9
+1852,Pour entendre le murmure intérieur,9
+1853,Pour saisir la voix profonde,7
+1854,Pour rejoindre l essentiel,6
+1855,La méditation nous y conduit,9
+1856,La prière silencieuse y mène,8
+1857,La marche dans la nature aussi,8
+1858,Le silence n est pas l absence,7
+1859,Il est une présence pleine,6
+1860,Une présence à soi et au monde,8
+1861,Une présence à plus grand que soi,8
+1862,Voilà le secret des sages,7
+1863,Voilà la voie des poètes,7
+1864,Voilà la quête des amoureux,8
+1865,Voilà l art de vivre vraiment,7
+1866,La cuisine emplit la maison,8
+1867,Une odeur de pain grillé monte,8
+1868,Une autre de café s écoule,7
+1869,Le bacon grésille dans la poêle,8
+1870,Les oeufs cuisent à feu doux,6
+1871,Les tomates rôtissent au four,7
+1872,Les champignons revenus à l échalote,11
+1873,Le beurre fond en chantant,6
+1874,L huile fume légèrement,6
+1875,Les épices parfument l air,6
+1876,Le poivre éternue dans le moulin,9
+1877,Le sel saupoudre les viandes,6
+1878,Les herbes fraîches embaument,5
+1879,Le persil se hache fin,6
+1880,La ciboulette se cisaille,7
+1881,Le thym se grène entre les doigts,7
+1882,Le romarin parfume les agneaux,9
+1883,Le laurier mijote dans la sauce,8
+1884,Le repas prend forme peu à peu,8
+1885,Les invités vont arriver bientôt,10
+1886,La table se dresse avec soin,7
+1887,La nappe blanche se déploie,7
+1888,Les couverts s alignent au cordeau,8
+1889,Les verres scintillent au cristal,7
+1890,Les serviettes se plient en cygnes,7
+1891,Le bouquet trône au centre,6
+1892,Les bougies attendent l allumette,8
+1893,Tout est prêt pour la fête,6
+1894,La sonnette annonce les premiers,8
+1895,Les manteaux s entassent au porte-manteau,9
+1896,Les bises claquent sur les joues,6
+1897,Les rires fusent au salon,6
+1898,L apéritif se déguste debout,9
+1899,Les amuse-bouches circulent en plateaux,9
+1900,Les conversations s engagent,7
+1901,Les blagues éclatent en bouquet,7
+1902,On passe à table avec entrain,8
+1903,Le ruisseau coule entre les pierres,7
+1904,Une truite remonte le courant,7
+1905,Un kingfisher plonge soudain,7
+1906,Il ressort avec sa proie,7
+1907,Le héron pêche à la berge,7
+1908,Sa patience finit par payer,8
+1909,Une grenouille saute à l eau,6
+1910,Les nénuphars frémissent à peine,8
+1911,Une libellule bleue passe,6
+1912,Une demoiselle verte la suit,7
+1913,L étang reflète les nuages,6
+1914,Le ciel se mire dans l eau,6
+1915,Un bateau pêcheur dérive,7
+1916,Le pêcheur surveille son bouchon,8
+1917,Soudain ça mord à l hameçon,8
+1918,Il tire d un coup sec,5
+1919,La perche se débat à la surface,9
+1920,Il l attire vers l épuisette,7
+1921,Belle prise pour le déjeuner,7
+1922,Il rentre fier comme un roi,6
+1923,Sa femme l accueille au seuil,6
+1924,Elle prépare le poisson aussitôt,9
+1925,Le beurre fond dans la poêle,6
+1926,Le citron parfume la chair,7
+1927,Le persil garnit l assiette,7
+1928,Le repas se prend en silence,8
+1929,Les délices se savourent ainsi,8
+1930,L après-midi appelle la sieste,8
+1931,Le hamac se balance sous le tilleul,10
+1932,Le livre tombe au bout de dix pages,8
+1933,Le sommeil s empare du lecteur,8
+1934,Les bourdons bercent son repos,7
+1935,Un rêve étrange l emporte,6
+1936,Il vole au-dessus de la mer,8
+1937,Il rencontre un dauphin parlant,8
+1938,L animal le guide vers une île,8
+1939,L île abrite un trésor enfoui,8
+1940,Mais avant de creuser il s éveille,9
+1941,Le hamac balance toujours,7
+1942,Le tilleul murmure ses secrets,8
+1943,Le rêve s estompe à regret,7
+1944,Le quotidien reprend ses droits,8
+1945,Les enfants rentrent de l école,7
+1946,Leurs cris remplissent la cour,6
+1947,Le chien aboie de joie,6
+1948,Le chat fuit l agitation,7
+1949,Le goûter se sert sur la véranda,10
+1950,Le pain au chocolat triomphe,8
+1951,La grenadine pétille rouge,7
+1952,Les conversations se croisent,7
+1953,Chacun raconte sa journée,7
+1954,Les notes les copains les profs,7
+1955,Les disputes les complicités,8
+1956,Le quotidien d une cour d école,8
+1957,Si dense si vivant si présent,8
+1958,Les parents écoutent attentifs,8
+1959,Ils donnent leur avis sans peser,8
+1960,Ils accompagnent sans étouffer,8
+1961,Ils guident sans imposer,6
+1962,L art difficile d éduquer,7
+1963,L art exigeant d aimer ses enfants,9
+1964,L art subtil de les laisser grandir,9
+1965,L art déchirant de les voir partir,9
+1966,Mais aussi l art bouleversant,8
+1967,De les voir devenir des adultes,9
+1968,De les voir réussir à leur tour,9
+1969,De les voir transmettre à leur tour,8
+1970,La boucle se referme ainsi,7
+1971,La vie continue son chemin,8
+1972,Une génération en remplace une autre,10
+1973,Et le mystère se prolonge,7
+1974,La pluie martèle la verrière,7
+1975,Le vent secoue les volets,7
+1976,L orage s annonce au lointain,7
+1977,Un éclair zèbre le ciel noir,7
+1978,Le tonnerre roule dans la vallée,8
+1979,Les enfants s effraient un peu,7
+1980,La mère les rassure tendrement,8
+1981,Elle les serre contre elle,5
+1982,Le père allume une bougie,7
+1983,Le courant a sauté tout à coup,9
+1984,La maison plonge dans la pénombre,8
+1985,L atmosphère devient mystérieuse,8
+1986,Les ombres dansent aux murs,5
+1987,Le père commence une histoire,7
+1988,Il était une fois un château,8
+1989,Les enfants écoutent fascinés,8
+1990,Une princesse y vivait recluse,8
+1991,Un dragon gardait sa porte,7
+1992,Un chevalier vint la libérer,9
+1993,Le combat fut terrible et long,8
+1994,Mais l amour finit par vaincre,7
+1995,Les enfants applaudissent ravis,8
+1996,L orage s éloigne peu à peu,7
+1997,La pluie diminue d intensité,9
+1998,Le courant revient soudain,7
+1999,La maison retrouve sa lumière,8
+2000,Le repas du soir se prépare,8
+2001,L orage a creusé les appétits,9
+2002,La soupe fume dans les bols,6
+2003,Le pain frais accompagne,6
+2004,Le fromage clôture le repas,8
+2005,Les enfants montent se coucher,7
+2006,Les parents savourent leur calme,7
+2007,Le chat s installe sur le tapis,8
+2008,Le chien dort déjà profondément,9
+2009,Le feu brûle dans la cheminée,8
+2010,Le silence s installe enfin,7
+2011,Les parents échangent un regard,8
+2012,Un sourire complice les unit,8
+2013,Quelle belle vie ils ont,5
+2014,Quels trésors leur sont confiés,7
+2015,Comment ne pas dire merci,7
+2016,Le bonheur est dans ces instants,8
+2017,Le bonheur est dans le quotidien,9
+2018,Le bonheur est dans la simplicité,10
+2019,Pas dans les biens accumulés,8
+2020,Pas dans les voyages exotiques,8
+2021,Pas dans les fortunes amassées,8
+2022,Mais dans une soirée ordinaire,8
+2023,Avec ceux qu on aime près de soi,8
+2024,Voilà la vraie richesse,6
+2025,Voilà le secret bien gardé,8
+2026,Voilà l essentiel de la vie,8
+2027,Le sommeil bénit cette pensée,8
+2028,Les paupières se ferment doucement,9
+2029,La maison entière dort enfin,8
+2030,Les rêves prennent leur essor,6
+2031,Demain sera un autre jour,7
+2032,Avec ses joies ses peines,6
+2033,Ses surprises ses défis,6
+2034,Ses moments de grâce inattendus,9
+2035,Ses moments de fatigue aussi,8
+2036,Mais on les affrontera ensemble,9
+2037,Comme toujours côte à côte,6
+2038,Main dans la main vers demain,7
+2039,Le coeur léger l esprit calme,7
+2040,Confiants dans la vie qui passe,7
+2041,Confiants dans l amour qui dure,7
+2042,Confiants dans la beauté du monde,8
+2043,Le matin se lève sur la mer,8
+2044,Une autre journée commence,6
+2045,Le cycle reprend sans cesse,6
+2046,Aussi naturel que le souffle,8
+2047,Aussi présent que les saisons,8
+2048,Aussi durable que les étoiles,8
+2049,Le poète écrit ces mots,7
+2050,Pour fixer un peu la beauté,8
+2051,Pour partager sa contemplation,9
+2052,Pour transmettre sa joie tranquille,7
+2053,Pour offrir une consolation,8
+2054,À ceux qui souffrent en silence,7
+2055,À ceux qui doutent dans la nuit,7
+2056,À ceux qui pleurent leurs disparus,8
+2057,À ceux qui cherchent leur chemin,7
+2058,La poésie tend la main,7
+2059,Elle dit tu n es pas seul,6
+2060,D autres ont éprouvé tes peines,7
+2061,D autres ont senti tes joies,6
+2062,L humanité partage tout,7
+2063,Au fond nous sommes pareils,6
+2064,Voilà le message des poètes,8
+2065,Voilà leur mission essentielle,8
+2066,Voilà pourquoi nous les aimons,8
+2067,Pour finir un dernier mot,7
+2068,Vivez aimez chantez écrivez,9
+2069,Plantez créez riez pleurez,7
+2070,Dansez priez méditez voyagez,10
+2071,Et surtout aimez la vie,7
+2072,Cette vie courte et précieuse,6
+2073,Cette vie unique et merveilleuse,8
+2074,Cette vie qui nous est donnée,7
+2075,Comme un cadeau inestimable,8
+2076,Comme une grâce immérité,7
+2077,Comme une chance unique,5
+2078,Honorons-la chaque jour,6
+2079,Honorons-la dans nos actes,7
+2080,Honorons-la dans nos paroles,8
+2081,Honorons-la dans nos pensées,8
+2082,Que chaque souffle soit gratitude,7
+2083,Que chaque battement soit louange,7
+2084,Que chaque pas soit célébration,8
+2085,Voilà la voie du sage,6
+2086,Voilà la voie du poète,7
+2087,Voilà la voie ouverte à tous,8
+2088,L entrée se sert sur des assiettes blanches,9
+2089,Le foie gras fond sur la langue,7
+2090,Le saumon fumé brille,6
+2091,Le velouté de potiron réchauffe,10
+2092,La salade verte rafraîchit le palais,10
+2093,Le plat principal trône fumant,8
+2094,Le boeuf bourguignon mijoté longuement,11
+2095,Les carottes glacées luisent au beurre,8
+2096,Les pommes de terre dorées au four,8
+2097,Le vin rouge se verse dans les verres,8
+2098,Le silence apprécié s installe,8
+2099,Les compliments fusent à table,7
+2100,Le maître de maison rougit de plaisir,10
+2101,Les fromages arrivent ensuite,7
+2102,Le camembert coule à point,7
+2103,Le brie répand sa rondeur,7
+2104,Le roquefort pique le palais,7
+2105,Le comté craque sous la dent,7
+2106,Le pain croustillant accompagne,8
+2107,Une tarte aux pommes parfumée,7
+2108,Une mousse au chocolat onctueuse,8
+2109,Une crème brûlée craquante,6
+2110,Une charlotte aux fruits rouges,6
+2111,Un gâteau au yaourt simple,7
+2112,Le café noir conclut la fête,8
+2113,Le cognac glisse au fond du verre,8
+2114,La tisane attend les frileux,8
+2115,Les conversations se prolongent,8
+2116,La nuit avance sans qu on la voie,8
+2117,Les invités prennent congé,7
+2118,Les bises se reproduisent à l envers,9
+2119,La porte se referme enfin,7
+2120,Le silence reprend ses droits,7
+2121,Les hôtes regardent la table dévastée,9
+2122,Mais leurs sourires illuminent,7
+2123,Quelle belle soirée passée,6
+2124,Quels amis précieux ils ont,7
+2125,La radio diffuse une vieille chanson,9
+2126,Brassens chante sa Jeanne,5
+2127,Brel implore sa Madeleine,7
+2128,Ferré dénonce les bourgeois,7
+2129,Piaf regrette sans regret,6
+2130,Aznavour évoque la bohème,8
+2131,Trenet rêve de la mer,6
+2132,Bécaud découvre l Amérique,7
+2133,Montand chante les feuilles mortes,6
+2134,Greco minaude sa rive gauche,7
+2135,Barbara murmure son aigle noir,8
+2136,Reggiani roule sa langue,6
+2137,Renaud crache ses mistral gagnants,8
+2138,Gainsbourg séduit ses Lolitas,8
+2139,Higelin saute sur la scène,7
+2140,Souchon questionne foule sentimentale,9
+2141,Cabrel chante ses villages,6
+2142,Goldman écrit ses chansons douces,8
+2143,Bashung murmure ses étrangetés,9
+2144,La chanson française rayonne loin,8
+2145,Elle traverse les générations,8
+2146,Elle accompagne nos vies,6
+2147,Elle console nos peines,5
+2148,Elle célèbre nos amours,6
+2149,Elle dénonce les injustices,7
+2150,Elle invite à la révolte,7
+2151,Elle berce nos enfances,5
+2152,Une chanson un souvenir,7
+2153,Une mélodie une émotion,8
+2154,Un refrain un éclat de joie,8
+2155,Un couplet une larme furtive,7
+2156,La musique tisse notre vie,6
+2157,Sans elle l existence pâlit,7
+2158,Vive la musique pour toujours,7
+2159,Vivent les chanteurs et les poètes,8
+2160,Vivent les compositeurs,6
+2161,La danse libère le corps,6
+2162,Elle libère aussi l esprit,7
+2163,Elle nous reconnecte au sacré,8
+2164,Le tango brûle le parquet,7
+2165,Le flamenco frappe ses pieds,7
+2166,La valse tourne sans fin,5
+2167,Le swing balance les couples,6
+2168,La salsa enflamme les hanches,7
+2169,Apprendre une danse c est apprendre un peuple,9
+2170,Voyageons donc par la danse,7
+2171,Découvrons les autres ainsi,7
+2172,Tendons-leur la main,5
+2173,Tournons ensemble en cadence,7
+2174,L école de mes huit ans,6
+2175,Une cour avec des marronniers,8
+2176,Des classes au plafond très haut,7
+2177,Une maîtresse aux cheveux gris,7
+2178,Un tableau noir maculé de craie,9
+2179,Des pupitres en bois rayé,7
+2180,Des plumiers Sergent-Major,7
+2181,Des cahiers Clairefontaine,7
+2182,Une encre qui tachait les doigts,7
+2183,Un buvard rose pour absorber,8
+2184,Une règle pour mesurer,6
+2185,Un compas pour les cercles,6
+2186,Une équerre pour les angles,6
+2187,Le quart d heure de récréation,8
+2188,Le préau pour les jours de pluie,8
+2189,La purée mousseline grumeleuse,9
+2190,Le yaourt nature insipide,8
+2191,Mais entre amis tout passait bien,8
+2192,Les rires couvraient les goûts douteux,8
+2193,Les billes claquaient sur le bitume,8
+2194,Les cordes à sauter battaient l air,8
+2195,Les marelles dessinaient le sol,8
+2196,Le ballon rebondissait contre le mur,10
+2197,Les filles chantaient au pied du chêne,8
+2198,Les garçons jouaient à chat perché,8
+2199,La cloche nous rappelait au travail,9
+2200,Quelle innocence en ce temps-là,8
+2201,Quelle insouciance bienheureuse,7
+2202,Comment retrouver cet état,8
+2203,Comment redevenir enfant,8
+2204,Quelques instants par-ci par-là,7
+2205,Quand on rit aux éclats sans raison,9
+2206,Quand on s émerveille d un papillon,9
+2207,Quand on construit un château de sable,9
+2208,Quand on roule dans l herbe au soleil,8
+2209,L enfance n est jamais loin,6
+2210,Elle dort en nous pour toujours,7
+2211,Réveillons-la quand elle s endort,8
+2212,Donnons-lui voix quand elle se tait,8
+2213,Elle est notre meilleure compagne,7
+2214,Elle est notre source vive,5
+2215,Elle est notre joyau caché,7
+2216,Le coureur s élance sur la piste,8
+2217,Ses pieds frappent le tartan rouge,7
+2218,Le souffle court le coeur tambourine,8
+2219,La ligne d arrivée approche,7
+2220,Il puise dans ses dernières forces,7
+2221,Le public crie son nom,6
+2222,Il franchit la ligne en vainqueur,8
+2223,Ses bras se lèvent en triomphe,7
+2224,La médaille pèsera bientôt à son cou,11
+2225,Le drapeau monte au mât,6
+2226,L hymne résonne dans le stade,6
+2227,Une larme coule sur sa joue,6
+2228,Toutes ces années d entraînement,8
+2229,Tous ces sacrifices consentis,8
+2230,Trouvent enfin leur récompense,7
+2231,La gloire dure un instant,6
+2232,Mais le souvenir reste à jamais,9
+2233,Le vélo dévale la pente,7
+2234,Le vent fouette les joues du cycliste,8
+2235,Les paysages défilent à toute allure,10
+2236,Le soleil joue dans les feuilles,7
+2237,Une côte se dresse soudain,6
+2238,Les jambes brûlent sous l effort,6
+2239,La sueur coule sur les yeux,6
+2240,Le sommet paraît inaccessible,9
+2241,Mais on persévère sans faiblir,8
+2242,Le sommet enfin se laisse vaincre,8
+2243,La descente récompense l effort,8
+2244,Le bonheur du cycliste est simple,8
+2245,Pédaler rouler avancer,8
+2246,Le nageur fend l eau bleue,6
+2247,Ses bras tracent des sillons,6
+2248,Sa respiration cadence l effort,9
+2249,La piscine défile sous ses yeux,8
+2250,Le mur d en face approche,6
+2251,Il fait un virage culbute,7
+2252,Repart dans l autre sens,5
+2253,Cinquante longueurs aujourd'hui,7
+2254,L objectif sera atteint,7
+2255,Le footballeur dribble l adversaire,8
+2256,Il file vers la surface de réparation,11
+2257,Le gardien s avance pour le bloquer,9
+2258,Un dernier crochet le sème,7
+2259,Le tir se loge dans la lucarne,8
+2260,Le stade explose en clameurs,7
+2261,Les supporters sautent en chantant,8
+2262,Le but de la victoire est marqué,9
+2263,Le tennis exige patience,7
+2264,La balle vole de part en part,7
+2265,Les raquettes claquent à l unisson,8
+2266,Une volée gagnante achève l échange,9
+2267,Le public applaudit en silence,9
+2268,Le respect règne en ce sport,7
+2269,Le golfeur étudie son putt,8
+2270,Il pèse le terrain avec soin,8
+2271,Frappe la balle d un geste précis,7
+2272,Elle roule vers le trou,5
+2273,Tombe dedans avec un plouc,7
+2274,Le golfeur lève les bras,6
+2275,Sa balle au fond du neuvième trou,8
+2276,Le grimpeur s accroche à la paroi,9
+2277,Ses doigts cherchent la prise,5
+2278,Ses pieds collent au rocher,6
+2279,Le vide s ouvre sous lui,5
+2280,Mais la peur cède au calme,6
+2281,Le sommet l attend là-haut,7
+2282,Encore quelques mètres difficiles,7
+2283,La main saisit l arête du sommet,9
+2284,Il se hisse sur la cime,6
+2285,Le panorama récompense l effort,10
+2286,Les Alpes s étendent sous ses yeux,7
+2287,Mont Blanc trône au loin majestueux,8
+2288,Une mer de nuages roule entre les sommets,9
+2289,Le ciel d un bleu profond domine,8
+2290,Le silence absolu enveloppe tout,10
+2291,Quelques instants suspendus dans le temps,9
+2292,Quelques instants où l on touche au sublime,9
+2293,Quelques instants gravés à jamais,8
+2294,Le voyage en Italie commence à Rome,11
+2295,Le Colisée se dresse devant nous,9
+2296,Les pierres millénaires nous parlent,7
+2297,Les gladiateurs hantent le lieu,7
+2298,Le forum romain s étend en ruines,9
+2299,Les colonnes brisées défient le temps,9
+2300,La fontaine de Trevi attire les pièces,10
+2301,Le voeu est de revenir un jour,9
+2302,La place d Espagne grouille de touristes,8
+2303,Le Vatican accueille les pèlerins,10
+2304,Saint-Pierre éblouit par sa grandeur,9
+2305,La Sixtine fascine par ses fresques,8
+2306,Michel-Ange a peint là sa vie,8
+2307,La Pieta émeut aux larmes,7
+2308,Florence offre les Offices,6
+2309,Botticelli y peint sa Vénus,9
+2310,Léonard y dessine son Annonciation,11
+2311,Le Ponte Vecchio enjambe l Arno,8
+2312,Les bijoutiers règnent sur ses arches,8
+2313,Sienne se découvre à pied,6
+2314,Le Palio anime sa place,7
+2315,Les chevaux galopent autour,7
+2316,Pise cache sa tour penchée,6
+2317,Tous la photographient en touriste,9
+2318,Venise sort de la mer comme un rêve,9
+2319,Les gondoles glissent sur les canaux,8
+2320,Saint-Marc rayonne d or byzantin,8
+2321,Le palais des Doges raconte une histoire,10
+2322,Les ponts enjambent les ruelles d eau,7
+2323,Le Rialto s anime au crépuscule,10
+2324,Les masques du carnaval intriguent,8
+2325,Les costumes brodés émerveillent,8
+2326,Vivaldi a composé ici,9
+2327,Casanova a séduit ses belles,9
+2328,Naples vibre avec passion,6
+2329,Le Vésuve veille sur le golfe,7
+2330,Pompéi conserve ses secrets,7
+2331,Les habitants pétrifiés interpellent,10
+2332,Capri brille sur la mer Tyrrhène,8
+2333,La grotte bleue émerveille,6
+2334,Sorrente embaume de citronniers,8
+2335,L Italie enchante chaque sens,7
+2336,Sa cuisine ravit les palais,8
+2337,Sa langue chante aux oreilles,6
+2338,Son art éblouit les yeux,7
+2339,Sa lumière caresse la peau,7
+2340,On voudrait y rester toujours,8
+2341,Mais le retour appelle bientôt,8
+2342,La maison nous attend là-bas,8
+2343,Le quotidien reprend ses droits,8
+2344,Mais l Italie nous suit dans le coeur,9
+2345,Et bientôt nous y retournerons,9
+2346,Le boulanger pétrit la pâte,8
+2347,Ses bras puissants la travaillent,7
+2348,La farine vole en nuages,6
+2349,L eau et le sel s incorporent,7
+2350,La levure agit en silence,8
+2351,Le pain monte dans son panier,7
+2352,Le four chauffe à blanc,5
+2353,Le boulanger enfourne ses pâtes,8
+2354,Le pain dore dans la chaleur,7
+2355,La croûte craque déjà,5
+2356,La mie reste tendre dedans,6
+2357,Le boulanger sort ses pains,7
+2358,Sa boutique embaume la rue,7
+2359,Les premiers clients arrivent,7
+2360,Une baguette pour le déjeuner,8
+2361,Un croissant beurre pour madame,7
+2362,Un pain au chocolat pour les enfants,10
+2363,La queue grandit devant la caisse,8
+2364,Le boulanger sourit fatigué,9
+2365,Sa journée commence à trois heures,8
+2366,Mais sa fierté nourrit ses efforts,9
+2367,Nourrir le quartier chaque jour,7
+2368,Voilà sa noble mission,6
+2369,Le menuisier polit son chêne,8
+2370,Les copeaux blonds tombent à terre,7
+2371,L odeur du bois embaume l atelier,9
+2372,Sa main caresse la planche lisse,7
+2373,La perfection se construit ainsi,9
+2374,Geste après geste patiemment,7
+2375,Le résultat le récompense,8
+2376,Une commode aux lignes pures,6
+2377,Une armoire ciselée avec art,9
+2378,Une table massive et stable,6
+2379,Tous ces objets durables,6
+2380,Qui survivront à leur créateur,9
+2381,Le luthier façonne son violon,8
+2382,La table d harmonie en épicéa,10
+2383,Le fond en érable madré,8
+2384,Le manche assemblé avec soin,8
+2385,Les chevilles ajustées au tour,8
+2386,Le vernis appliqué patiemment,9
+2387,Couche après couche pendant des mois,8
+2388,La sonorité naît peu à peu,9
+2389,Le luthier l écoute en expert,8
+2390,Il ajuste règle perfectionne,7
+2391,Enfin l instrument parle,6
+2392,Sa voix portera dans les salles,8
+2393,Pour le bonheur des mélomanes,8
+2394,Pour des décennies à venir,8
+2395,Le potier tourne son argile,7
+2396,La masse molle prend forme,5
+2397,Sous ses doigts experts,5
+2398,Une bouteille un vase un bol,7
+2399,Le four cuit ensuite la création,9
+2400,L émail colore et protège,7
+2401,La poterie sortira fière,8
+2402,Pour orner mille tables,5
+2403,Pour boire mille thés,4
+2404,Pour décorer mille intérieurs,8
+2405,L artisan travaille pour les autres,8
+2406,Il met son âme dans son ouvrage,8
+2407,Il transmet un peu de lui,7
+2408,À ceux qui useront de son objet,10
+2409,Voilà la grandeur d un métier,8
+2410,Voilà la beauté du travail bien fait,10
+2411,L aube blanchit l horizon,6
+2412,Les premiers oiseaux pépient,7
+2413,Le coq lance son cocorico,8
+2414,La rosée trempe les herbes,6
+2415,Le merle siffle sa chanson,6
+2416,Une mésange picore les graines,7
+2417,Un rouge-gorge sautille au sol,7
+2418,Le bois s éveille doucement,7
+2419,Une biche broute la clairière,6
+2420,Un faon se cache derrière elle,7
+2421,Un sanglier traverse le sentier,9
+2422,Ses petits le suivent en file,7
+2423,Une renarde sort de son terrier,8
+2424,Sa fourrure rousse flamboie,6
+2425,Un blaireau rentre se coucher,7
+2426,Le silence s installe à nouveau,8
+2427,Le promeneur poursuit son chemin,8
+2428,Le sentier serpente sous les hêtres,8
+2429,Les feuilles bruissent au vent,5
+2430,Une source jaillit de la roche,7
+2431,L eau cristalline coule,5
+2432,Le promeneur boit à mains jointes,7
+2433,La fraîcheur le revigore,7
+2434,Il reprend sa marche apaisé,8
+2435,Le sentier monte vers la crête,7
+2436,Les pins remplacent les chênes,6
+2437,L air se fait plus vif,5
+2438,La vue se découvre soudain,7
+2439,Toute la vallée s étend en bas,8
+2440,Les villages parsèment les pentes,7
+2441,Les clochers pointent vers le ciel,7
+2442,Les rivières serpentent dans les prés,8
+2443,Les forêts couvrent les collines,7
+2444,Quelle harmonie dans ce paysage,9
+2445,Quelle paix s en dégage,5
+2446,Le promeneur s assied sur un rocher,9
+2447,Son sandwich attendait là,7
+2448,Une gorgée de thé chaud le réchauffe,9
+2449,Une pomme croque sous la dent,6
+2450,Le repas frugal le comble,7
+2451,Il repart le coeur léger,7
+2452,La descente coûte aux genoux,7
+2453,Mais le chemin se déroule plaisamment,10
+2454,Les heures passent vite,4
+2455,Le crépuscule annonce la fin,8
+2456,La voiture l attend au parking,8
+2457,Il rentre fatigué mais comblé,8
+2458,Les muscles fatigués mais le coeur grand,9
+2459,Demain il recommencera ailleurs,10
+2460,La montagne le rappelle toujours,8
+2461,Elle est devenue son refuge,8
+2462,Sa cathédrale silencieuse,7
+2463,Son temple de pierre et de pin,7
+2464,Sa retraite de l agitation,8
+2465,Sa source de paix profonde,6
+2466,Le café fume dans la tasse,7
+2467,Le journal craque entre les doigts,7
+2468,Le pain croustille sous la dent,7
+2469,Le beurre fond sur la mie,6
+2470,La confiture nappe généreusement,10
+2471,Le matin commence en douceur,8
+2472,Les petits déjeuners de l enfance,9
+2473,Les céréales dans le bol,7
+2474,Le lait chaud dans la tasse,6
+2475,Le chocolat fumant et doux,8
+2476,Les tartines beurre confiture,7
+2477,La radio en bruit de fond,7
+2478,Les nouvelles du matin,6
+2479,Le bulletin météo prudent,9
+2480,Les embouteillages habituels,8
+2481,Les retards des trains aussi,7
+2482,Mais on partira quand même,7
+2483,Le travail nous attend toujours,8
+2484,Les collègues bien sympathiques,7
+2485,La machine à café qui rassemble,9
+2486,Les conversations du matin,8
+2487,Le week-end qu on a passé,7
+2488,Les enfants qui font des leurs,7
+2489,Les vacances qu on prépare,6
+2490,Puis chacun gagne son bureau,7
+2491,L ordinateur s allume avec lenteur,10
+2492,Les emails s accumulent dans la boîte,9
+2493,La première réunion sonne déjà,9
+2494,On rejoint la salle Mercure,7
+2495,Le chef expose le projet,7
+2496,Les questions fusent de toutes parts,7
+2497,Les réponses tardent à venir,7
+2498,La réunion s éternise,7
+2499,Onze heures sonnent enfin,5
+2500,Le déjeuner approche de pied ferme,9
+2501,La cantine attend impatiente,8
+2502,Le menu du jour est affiché,9
+2503,Le poulet rôti et frites maison,9
+2504,Le poisson en sauce verte,6
+2505,Les ratatouilles colorées,7
+2506,Les desserts variés à choisir,8
+2507,La conversation reprend libre,8
+2508,Les sujets fusent gais,5
+2509,Le dernier film vu en salle,7
+2510,Le dernier livre lu en train,7
+2511,La dernière exposition admirée,10
+2512,Le dernier concert entendu,8
+2513,La culture nous nourrit autant,8
+2514,Que le poulet rôti et frites,8
+2515,L après-midi reprend lentement,9
+2516,Les emails attendent toujours,7
+2517,On répond un par un,6
+2518,Une décision attend l aval,8
+2519,On la valide sans hésiter,8
+2520,Une autre exige plus de réflexion,9
+2521,On la met de côté pour demain,9
+2522,Les heures glissent imperceptiblement,9
+2523,Cinq heures du soir approchent,6
+2524,Les premiers s en vont déjà,7
+2525,On range son bureau soigneusement,9
+2526,On éteint son ordinateur,8
+2527,On enfile sa veste avec soulagement,11
+2528,Bonne soirée à tous lance-t-on,8
+2529,À demain matin répondent les autres,9
+2530,Le métro nous engloutit à nouveau,10
+2531,La foule serrée comme des sardines,8
+2532,Les odeurs corporelles dérangent,8
+2533,Mais vingt minutes seulement,7
+2534,Bientôt à la maison,6
+2535,La chaleur du chez-soi nous accueille,9
+2536,Les enfants courent à notre rencontre,8
+2537,Le chien fait la fête comme jamais,8
+2538,Les bisous claquent sur les joues,7
+2539,Les nouvelles du jour s échangent,7
+2540,Le repas se prépare ensemble,8
+2541,Les épluchures volent dans l évier,8
+2542,Les casseroles fument joyeusement,9
+2543,Une chanson échappe parfois,7
+2544,Une danse improvisée surgit,8
+2545,Les enfants rient aux éclats,7
+2546,Le chien aboie de joie,6
+2547,La cuisine devient un théâtre,8
+2548,Le repas finit par se servir,9
+2549,Les conversations continuent à table,10
+2550,Les rires fusent encore,5
+2551,La soirée se prolonge tard,7
+2552,Les enfants montent se coucher,7
+2553,Les parents s installent au salon,8
+2554,Un bon livre les attend,6
+2555,Une série à regarder ensemble,9
+2556,Une partie de cartes complices,7
+2557,Une soirée comme tant d autres,6
+2558,Mais précieuse comme aucune,6
+2559,Car composée de leur vie commune,9
+2560,Car pleine de leur amour partagé,9
+2561,Le sommeil les gagne enfin,7
+2562,Ils gagnent leur lit fatigués,7
+2563,Demain sera un autre jour,7
+2564,Ils s endorment côte à côte,6
+2565,La main de l un dans la main de l autre,9
+2566,Comme depuis trente ans déjà,7
+2567,Comme pour les trente ans qui restent,7
+2568,Le ciel rose du matin réveille,8
+2569,Une journée nouvelle commence,7
+2570,La même que la veille pourtant,7
+2571,Et différente totalement,8
+2572,Car chaque jour est unique,6
+2573,Car chaque instant est précieux,7
+2574,Car chaque souffle est une grâce,6
+2575,Apprenons à les apprécier,8
+2576,Avant qu il ne soit trop tard,7
+2577,Avant que la nuit ne tombe,7
+2578,Avant que le silence ne règne,8
+2579,Vivons pleinement chaque instant,8
+2580,Aimons profondément ceux qui nous entourent,11
+2581,Créons sans réserve sans peur,7
+2582,Donnons sans compter sans regretter,9
+2583,Recevons avec gratitude humble,9
+2584,Pardonnons les blessures anciennes,8
+2585,Lâchons les rancunes corrosives,8
+2586,Cultivons la paix intérieure,8
+2587,Diffusons cette paix autour,7
+2588,Soyons des artisans de joie,8
+2589,Soyons des semeurs d espoir,7
+2590,Soyons des gardiens de beauté,8
+2591,Soyons des passeurs de tendresse,8
+2592,Voilà notre humble vocation,7
+2593,Voilà la voie qui nous attend,8
+2594,Voilà la promesse à tenir,8
+2595,Envers nous-mêmes et envers les autres,9
+2596,Envers la vie qui nous est confiée,9
+2597,L hiver pose sa main sur le pays,9
+2598,Le froid mord les visages,6
+2599,Les arbres tendent leurs bras nus,6
+2600,Les corbeaux croassent au sommet,8
+2601,La neige commence à tomber,7
+2602,Les premiers flocons hésitent,7
+2603,Puis ils tombent en cascade,6
+2604,La terre se couvre de blanc,6
+2605,Le silence devient absolu,8
+2606,Les pas s étouffent dans la poudre,7
+2607,Les enfants sortent en courant,7
+2608,La luge glisse sur la pente,6
+2609,Le bonhomme de neige se dresse,7
+2610,Une carotte lui sert de nez,7
+2611,Deux cailloux noirs pour les yeux,7
+2612,Une vieille écharpe pour le cou,7
+2613,Les bonnets et gants finissent gelés,9
+2614,Le retour à la maison s impose,9
+2615,Le chocolat chaud attend en cuisine,10
+2616,Les joues rouges contre la tasse,6
+2617,Les histoires hivernales reprennent,8
+2618,Le grand-père raconte ses Noëls,8
+2619,La grand-mère se souvient des siens,8
+2620,Les enfants écoutent fascinés,8
+2621,Les bûches craquent dans le feu,6
+2622,Le sapin scintille dans le coin,8
+2623,Les paquets attendent au pied,7
+2624,Le temps s écoule au ralenti,8
+2625,Demain c est Noël on le sait,8
+2626,Les rêves se font plus intenses,7
+2627,Le sommeil tarde à venir,7
+2628,Mais finit par tout emporter,8
+2629,Le matin amène les surprises,8
+2630,Les paquets sont déchirés en hâte,9
+2631,Les jouets retrouvent leurs petits maîtres,8
+2632,Les éclats de joie remplissent la pièce,9
+2633,Le repas familial s installe,8
+2634,La dinde rôtie au four,6
+2635,Les marrons en accompagnement,9
+2636,La bûche glacée pour finir,7
+2637,Le champagne pétille pour les grands,8
+2638,Le jus d orange pour les petits,8
+2639,Les toasts s enchaînent gaiement,6
+2640,Aux absents qu on n oublie pas,7
+2641,Aux disparus qu on chérit,7
+2642,Aux nouveau-nés qu on accueille,7
+2643,À ceux qui sont là présents,7
+2644,À l année qui s achève,6
+2645,À l année qui va commencer,8
+2646,Aux espoirs qu on nourrit,6
+2647,Aux projets qu on porte,5
+2648,Le repas s éternise heureux,8
+2649,L après-midi traîne en douceur,8
+2650,Les jeux de société sortent,7
+2651,Le Monopoly fait des siennes,8
+2652,Les pâtes en bâton circulent,7
+2653,Les rires emplissent encore la maison,9
+2654,Le soir tombe sans qu on le voie,7
+2655,Le dernier repas sera léger,9
+2656,Les restes rassasient encore,7
+2657,Les invités finissent par partir,9
+2658,Les derniers bisous claquent fort,7
+2659,Le silence reprend ses droits,7
+2660,Les hôtes savourent leur calme,6
+2661,Quelle belle journée passée,6
+2662,Quels souvenirs précieux engrangés,9
+2663,Le sapin attend encore quelques jours,9
+2664,Avant qu on ne le démonte enfin,9
+2665,Les boules retrouveront leur carton,9
+2666,Les guirlandes seront enroulées,8
+2667,Le sapin partira au compost,9
+2668,La maison reprend son visage habituel,11
+2669,Mais les souvenirs resteront,8
+2670,Les photos témoigneront longtemps,9
+2671,La nouvelle année commence vraiment,9
+2672,Les bonnes résolutions sont prises,8
+2673,La plupart ne tiendront pas,7
+2674,Mais on aura essayé,7
+2675,L important c est l intention,7
+2676,L important c est la direction,8
+2677,L important c est de progresser,8
+2678,Pas à pas jour après jour,7
+2679,Sans se décourager jamais,8
+2680,Sans abandonner ses rêves,7
+2681,Sans renoncer à grandir,7
+2682,La vie est un long apprentissage,9
+2683,Une école sans fin de patience,8
+2684,Une école d humilité aussi,9
+2685,Une école de persévérance,8
+2686,Une école de bonté simple,7
+2687,On y apprend à chaque jour,7
+2688,On y déçoit et on y se relève,10
+2689,On y aime et on y est aimé,9
+2690,On y donne et on y reçoit,8
+2691,On y meurt à soi pour mieux renaître,9
+2692,On y se découvre soi-même,7
+2693,On y rencontre l autre vraiment,7
+2694,On y touche au mystère parfois,8
+2695,Le mystère est partout présent,8
+2696,Dans le sourire d un enfant,7
+2697,Dans le regard d un vieillard,7
+2698,Dans la beauté d une fleur,6
+2699,Dans le chant d un oiseau,6
+2700,Dans la vague qui se brise,6
+2701,Dans le nuage qui passe,5
+2702,Dans l étoile qui scintille,6
+2703,Dans la nuit qui enveloppe,7
+2704,Dans le silence qui parle,6
+2705,Dans le souffle qui anime,6
+2706,Dans le coeur qui bat,5
+2707,Dans la pensée qui jaillit,7
+2708,Dans l amour qui rayonne,6
+2709,Le mystère nous habite,6
+2710,Le mystère nous dépasse,6
+2711,Le mystère nous appelle,6
+2712,Saurons-nous y répondre,6
+2713,Saurons-nous l honorer,6
+2714,Saurons-nous le célébrer,7
+2715,Voilà le défi de chaque vie,8
+2716,Voilà la quête fondamentale,8
+2717,Voilà la vraie aventure humaine,9
+2718,Bonne route à toi qui lis,6
+2719,Bonne quête à toi qui cherches,6
+2720,Bon voyage à toi qui pars,7
+2721,Bon retour à toi qui reviens,8
+2722,Bon repos à toi qui te poses,8
+2723,Bon réveil à toi qui dors,7
+2724,Bonne vie à toi qui vis,6
+2725,Bonne mort à toi qui meurs,6
+2726,Que la paix t accompagne toujours,8
+2727,Que l amour te porte toujours,7
+2728,Que la beauté te ravisse toujours,9
+2729,Que la joie te visite souvent,8
+2730,Que la grâce t inonde un jour,7
+2731,Voilà mes voeux pour toi,6
+2732,Voilà mes voeux pour nous tous,7
+2733,Voilà ma prière silencieuse,8
+2734,Que je murmure en ce moment,8
+2735,En écrivant ces derniers mots,8
+2736,Sur ce papier qui restera,8
+2737,Bien après que je sois parti,8
+2738,Mes mots porteront encore,7
+2739,Vers d autres yeux d autres coeurs,5
+2740,Une trace de mon passage,6
+2741,Une preuve de mon amour,6
+2742,Pour la vie pour les autres,6
+2743,Pour le mystère qui m a porté,8
+2744,Au revoir cher lecteur ami,8
+2745,À bientôt peut-être ailleurs,7
+2746,Dans un livre dans un rêve,6
+2747,Dans le souvenir d un proche,7
+2748,Dans la fleur qui poussera,7
+2749,Là où mes cendres reposeront,8
+2750,Adieu et merci surtout,7
+2751,Cours,1
+2752,Pars,1
+2753,Vis,1
+2754,Viens,1
+2755,Vois,1
+2756,Sais,1
+2757,Dis,1
+2758,Fais,1
+2759,Tiens,1
+2760,Lis,1
+2761,Sens,1
+2762,Sors,1
+2763,Dors,1
+2764,Bois,1
+2765,Mets,1
+2766,Ris,1
+2767,Fuis,1
+2768,Crois,1
+2769,Mens,1
+2770,Mords,1
+2771,Joue,1
+2772,Plonge,1
+2773,Marche,1
+2774,Saute,1
+2775,Brûle,1
+2776,Crie,1
+2777,Pleure,1
+2778,Chante,1
+2779,Danse,1
+2780,Rêve,1
+2781,Vole,1
+2782,Tombe,1
+2783,L an,1
+2784,L eau,1
+2785,L or,1
+2786,L art,1
+2787,L un,1
+2788,L âme,1
+2789,L homme,1
+2790,L oeuf,1
+2791,L huile,1
+2792,L hymne,1
+2793,L oeil,1
+2794,L oie,1
+2795,L huître,1
+2796,D or,1
+2797,D eau,1
+2798,D un,1
+2799,D ange,1
+2800,D huile,1
+2801,J ai,1
+2802,T as,1
+2803,C est,1
+2804,S il,1
+2805,N est,1
+2806,Qu il,1
+2807,M as,1
+2808,M a,1
+2809,Le jour,2
+2810,La nuit,2
+2811,Le ciel,2
+2812,La mer,2
+2813,Le vent,2
+2814,Le feu,2
+2815,La mort,2
+2816,La vie,2
+2817,La joie,2
+2818,La foi,2
+2819,Le pain,2
+2820,Le vin,2
+2821,Le toit,2
+2822,Le sang,2
+2823,Le coeur,2
+2824,Le bras,2
+2825,Le pied,2
+2826,Le nez,2
+2827,Le doigt,2
+2828,Le bois,2
+2829,L oeil de Dieu,3
+2830,Le mois,2
+2831,L an neuf,2
+2832,Le pré,2
+2833,Le port,2
+2834,Le pont,2
+2835,L huile fond,2
+2836,Le riz,2
+2837,Le froid,2
+2838,Le seuil,2
+2839,Mon coeur,2
+2840,Ma vie,2
+2841,Ton bras,2
+2842,Ta voix,2
+2843,Sa joie,2
+2844,Mon corps,2
+2845,Ton ciel,2
+2846,Sa foi,2
+2847,Mon sort,2
+2848,Ta peau,2
+2849,Sa peur,2
+2850,Mon nom,2
+2851,Ton choix,2
+2852,Sa vie,2
+2853,Notre amour,3
+2854,Vous tous,2
+2855,Va vite,2
+2856,Cours fort,2
+2857,Pars loin,2
+2858,Viens là,2
+2859,Vis bien,2
+2860,Lis vite,2
+2861,Dis tout,2
+2862,Sens bon,2
+2863,Tiens fort,2
+2864,Bois sec,2
+2865,Tais-toi,2
+2866,Lève-toi,2
+2867,Couche-toi,2
+2868,Aime fort,2
+2869,Reste là,2
+2870,Sois beau,2
+2871,Sois fort,2
+2872,Sois doux,2
+2873,Sois libre,2
+2874,Va loin,2
+2875,Viens près,2
+2876,Le matin,3
+2877,Le couchant,3
+2878,Le levant,3
+2879,La saison,3
+2880,La pluie tombe,3
+2881,Le ciel pleut,3
+2882,La neige fond,3
+2883,Le gel mord,3
+2884,La glace luit,3
+2885,L été chaud,3
+2886,L hiver froid,3
+2887,L automne roux,3
+2888,Le printemps doux,4
+2889,La rose s ouvre,3
+2890,Le lys s ouvre,3
+2891,L iris bleu,3
+2892,Le coq chante,3
+2893,L âne brait,2
+2894,Le chien jappe,3
+2895,Le chat dort,3
+2896,Le rat fuit,3
+2897,L ours mange,2
+2898,Le loup hurle,3
+2899,Le coucou crie,4
+2900,La lune monte,3
+2901,Le soleil brille,4
+2902,L astre meurt,2
+2903,L étoile point,3
+2904,Le lac dort,3
+2905,La rivière chante,4
+2906,Le fleuve coule,3
+2907,La mer rugit,4
+2908,L océan gronde,4
+2909,La vague monte,3
+2910,L écume danse,3
+2911,Le port dort,3
+2912,Le quai grince,3
+2913,Le sable luit,3
+2914,La plage rit,3
+2915,La forêt frémit,5
+2916,Le bois craque,3
+2917,L arbre ploie,2
+2918,La feuille tombe,3
+2919,Le bourgeon perce,4
+2920,L hiver passe,3
+2921,L été vient,3
+2922,Le jour fuit,3
+2923,La nuit naît,3
+2924,L aube point,2
+2925,Le soir tombe,3
+2926,Minuit sonne,3
+2927,Midi brille,3
+2928,Trois heures,2
+2929,Six heures,2
+2930,Le temps passe,3
+2931,L heure tourne,2
+2932,L horloge bat,3
+2933,Le coeur bat,3
+2934,Le sang coule,3
+2935,Le pouls part,3
+2936,L âme vibre,2
+2937,L esprit veille,3
+2938,Le corps dort,3
+2939,La main tremble,3
+2940,Le pied glisse,3
+2941,L oeil pleure,2
+2942,La voix tremble,3
+2943,Le mot perce,3
+2944,Le rire fuse,3
+2945,Le cri jaillit,4
+2946,Le chant monte,3
+2947,La danse vibre,3
+2948,L art demeure,3
+2949,Le rêve naît,3
+2950,L espoir vit,3
+2951,La paix vient,3
+2952,L amour brûle,3
+2953,Le couple s aime,3
+2954,Le baiser scelle,4
+2955,La main tient,3
+2956,Le geste dit,3
+2957,Le coeur sait,3
+2958,L âme apprend,3
+2959,Le don coule,3
+2960,Le pardon naît,4
+2961,La grâce tombe,3
+2962,Le silence parle,4
+2963,Le bruit ment,3
+2964,La paix règne,3
+2965,La guerre meurt,3
+2966,L espoir luit,3
+2967,Le rire éclate,4
+2968,La joie monte,3
+2969,La peine fuit,3
+2970,La mort vient,3
+2971,La vie reste,3
+2972,L amour demeure,4
+2973,Tout passe ainsi,4
+2974,Tout vient ainsi,4
+2975,Tout meurt ainsi,4
+2976,Tout naît ainsi,4
+2977,Tout coule ainsi,4
+2978,Tout danse ainsi,4
+2979,Tout vibre ainsi,4
+2980,Le mai fleuri,4
+2981,L hiver glacé,4
+2982,L été rouge,3
+2983,L automne d or,3
+2984,Le printemps vert,4
+2985,Mon ami va bien,5
+2986,Ma soeur s en va,4
+2987,Mon père dort,3
+2988,Ma mère pleure,3
+2989,Mon fils grandit,4
+2990,Ma fille rêve,3
+2991,Le bébé crie,4
+2992,La grand-mère sait,4
+2993,Le grand-père dort,4
+2994,Le voisin part,4
+2995,Le facteur passe,4
+2996,Le maître écrit,4
+2997,L élève apprend,4
+2998,Le poète chante,4
+2999,Le peintre peint,3
+3000,Le sage médite,4
+3001,Le poète écrit,5
+3002,L oiseau s envole,4
+3003,L abeille butine,4
+3004,La mouche bourdonne,4
+3005,La fourmi marche,4
+3006,Le papillon vole,5
+3007,La libellule luit,5
+3008,Le moustique pique,4
+3009,La guêpe gronde,3
+3010,Le frelon attaque,5
+3011,La sauterelle saute,5
+3012,Le grillon chante,4
+3013,La cigale crie,4
+3014,Le criquet stridule,5
+3015,La coccinelle vole,5
+3016,Le hanneton bourdonne,6
+3017,Le lézard fuit,4
+3018,Le serpent ondule,5
+3019,La couleuvre glisse,4
+3020,La vipère mord,4
+3021,Le crapaud croasse,5
+3022,La grenouille saute,4
+3023,Le têtard nage,4
+3024,Le poisson plonge,4
+3025,La carpe dort,3
+3026,Le brochet attaque,5
+3027,La truite saute,3
+3028,Le saumon remonte,5
+3029,L anguille glisse,3
+3030,La pieuvre danse,3
+3031,Le crabe court,3
+3032,La crevette saute,4
+3033,L huître se ferme,3
+3034,La moule s ouvre,3
+3035,L étoile de mer,4
+3036,Le récif vit,4
+3037,Le corail rouge,4
+3038,L algue verte,2
+3039,La méduse flotte,4
+3040,Le requin chasse,4
+3041,La baleine plonge,4
+3042,Le dauphin saute,4
+3043,L orque tue,2
+3044,Le phoque dort,3
+3045,L otarie joue,4
+3046,Le morse rugit,4
+3047,Le pingouin marche,4
+3048,Le manchot plonge,4
+3049,L albatros plane,4
+3050,Le pélican pêche,5
+3051,Le héron veille,4
+3052,La cigogne nidifie,6
+3053,Le flamand rose,4
+3054,Le canard nage,4
+3055,L oie cacarde,3
+3056,Le cygne glisse,3
+3057,La poule pond,3
+3058,Le coq fier chante,4
+3059,Le poussin pépie,5
+3060,Le dindon glougloute,5
+3061,La pintade crie,4
+3062,Le faisan vole,4
+3063,La perdrix court,4
+3064,La caille file,3
+3065,Le pigeon roucoule,5
+3066,La tourterelle gémit,6
+3067,Le moineau saute,4
+3068,L hirondelle file,4
+3069,La mésange picore,5
+3070,Le rouge-gorge sautille,5
+3071,Le rossignol chante,5
+3072,Le merle siffle,3
+3073,La grive trille,3
+3074,Le pinson chante,4
+3075,Le chardonneret crie,6
+3076,Le geai bavarde,4
+3077,La pie cancane,4
+3078,Le corbeau croasse,5
+3079,La corneille jacasse,5
+3080,Le faucon plonge,4
+3081,L aigle plane,2
+3082,Le vautour tournoie,5
+3083,Le hibou hulule,5
+3084,La chouette ulule,4
+3085,Le chat-huant crie,4
+3086,La chauve-souris vole,5
+3087,L écureuil saute,4
+3088,Le hérisson pique,5
+3089,La taupe creuse,3
+3090,Le mulot file,4
+3091,Le campagnol fuit,5
+3092,Le rat grignote,4
+3093,La souris court,4
+3094,Le furet chasse,4
+3095,La belette glisse,4
+3096,L hermine blanche,4
+3097,Le putois pue,4
+3098,Le blaireau dort,4
+3099,Le renard rusé,5
+3100,Le sanglier court,5
+3101,Le marcassin trotte,5
+3102,La laie veille,3
+3103,Le cerf brame,3
+3104,La biche broute,3
+3105,Le faon timide,4
+3106,Le chevreuil bondit,5
+3107,L élan majestueux,5
+3108,Le bouquetin saute,5
+3109,Le chamois grimpe,4
+3110,La marmotte siffle,4
+3111,Le lièvre court,3
+3112,Le lapin saute,4
+3113,Le castor construit,5
+3114,La loutre joue,3
+3115,Le vison fuit,4
+3116,Le ragondin nage,5
+3117,Le pangolin se roule,6
+3118,Le tatou se cache,5
+3119,Le paresseux dort,5
+3120,Le singe grimpe,3
+3121,Le chimpanzé rit,5
+3122,Le gorille fort,4
+3123,L orang-outan rêve,5
+3124,Le babouin crie,4
+3125,Le ouistiti saute,5
+3126,Le lémurien bondit,6
+3127,Le maki blanc,4
+3128,Le tigre rugit,4
+3129,Le lion régnant,4
+3130,La lionne chasse,3
+3131,Le léopard tape,5
+3132,La panthère noire,4
+3133,Le guépard court,4
+3134,Le jaguar bondit,5
+3135,Le puma silencieux,6
+3136,Le lynx furtif,4
+3137,L ocelot tacheté,6
+3138,Le serval long,4
+3139,Le caracal souple,5
+3140,Le chat sauvage,4
+3141,Le chat domestique,5
+3142,Le matou bagarreur,6
+3143,La chatte fière,3
+3144,Le chaton joueur,4
+3145,Le chien fidèle,4
+3146,Le chiot mignon,4
+3147,La chienne maman,4
+3148,Le bouledogue fort,5
+3149,Le berger vif,4
+3150,Le caniche frisé,5
+3151,Le bouvier des Flandres,6
+3152,Le saint-bernard sauve,5
+3153,Le terre-neuve nage,4
+3154,Le dalmatien pommelé,7
+3155,Le golden retriever,6
+3156,Le labrador joueur,5
+3157,Le cocker oreilles longues,6
+3158,Le beagle pisteur,5
+3159,Le teckel court sur pattes,6
+3160,Le yorkshire poilu,5
+3161,Le pékinois royal,6
+3162,Le bouledogue français,6
+3163,Le shar-pei plissé,5
+3164,Le lévrier rapide,6
+3165,Le whippet svelte,4
+3166,Le boxer puissant,5
+3167,Le rottweiler costaud,6
+3168,Le doberman noir,5
+3169,Le berger australien,6
+3170,Le malinois belge,5
+3171,Le husky sibérien,6
+3172,Le malamute d Alaska,7
+3173,Le samoyède blanc,5
+3174,L akita inu,5
+3175,Le shiba inu malicieux,8
+3176,Le chow-chow violet,5
+3177,Le mastiff impressionnant,7
+3178,Le bullmastiff fidèle,6
+3179,Le terrier obstiné,6
+3180,Le jack russell vif,5
+3181,Le scottish terrier,5
+3182,Le westie blanc,4
+3183,Le cairn terrier,4
+3184,Le bull terrier énergique,7
+3185,Le staffie courageux,6
+3186,Le pit bull controversé,7
+3187,Le grand danois immense,6
+3188,Le setter irlandais roux,7
+3189,L épagneul breton,5
+3190,Le braque allemand,5
+3191,Le pointer anglais,5
+3192,Le caniche royal,5
+3193,Le bichon maltais,5
+3194,Le bichon havanais,6
+3195,Le shih tzu fluffy,5
+3196,Le carlin plissé,5
+3197,Le chihuahua minuscule,7
+3198,Le papillon graceful,6
+3199,Le toy-poodle mignon,6
+3200,Le grand bouvier suisse,5
+3201,Le matin se lève,5
+3202,Le soir tombe doux,4
+3203,La nuit étoilée,5
+3204,L aube blanche perce,4
+3205,L aurore rosée,4
+3206,Le crépuscule violet,6
+3207,Le soleil monte haut,5
+3208,La lune brille en argent,6
+3209,Les nuages glissent,3
+3210,Le ciel bleu profond,5
+3211,La pluie fine arrose,5
+3212,Le vent souffle frais,4
+3213,La brume couvre tout,4
+3214,Le brouillard s installe,5
+3215,La gelée blanche scintille,7
+3216,La rosée perle,4
+3217,Le givre dessine,4
+3218,La neige recouvre,4
+3219,Le soleil chauffe,4
+3220,L orage gronde,3
+3221,La foudre éclate,4
+3222,Le tonnerre roule,4
+3223,L éclair zèbre,3
+3224,La grêle frappe,3
+3225,L averse tombe dru,4
+3226,La bruine légère,4
+3227,Le crachin breton,5
+3228,La canicule pèse,5
+3229,La sécheresse craque,5
+3230,L inondation monte,5
+3231,La crue dévaste,4
+3232,Le tsunami déferle,6
+3233,Le séisme tremble,4
+3234,L éruption gronde,4
+3235,La lave coule rouge,4
+3236,Le volcan se réveille,6
+3237,La tempête mugit,5
+3238,L ouragan tournoie,5
+3239,Le typhon s abat,5
+3240,Le cyclone détruit,5
+3241,La tornade aspire,5
+3242,La trombe d eau bouge,4
+3243,Le mistral souffle,4
+3244,La tramontane gifle,5
+3245,Le sirocco brûle,5
+3246,L harmattan sec,4
+3247,La mousson trempe,4
+3248,Les alizés portent,5
+3249,Le foehn chaud descend,5
+3250,La bise glace les os,5
+3251,Le chinook fond la neige,6
+3252,La calme plat règne,4
+3253,La risée légère ride,6
+3254,La brise marine,4
+3255,Le grand frais souffle,4
+3256,Le coup de vent claque,5
+3257,L ouragan force dix,5
+3258,La houle se forme,4
+3259,La vague se brise,4
+3260,L écume jaillit,4
+3261,Le ressac mord,4
+3262,Le clapot agite,5
+3263,La marée descend,5
+3264,La marée monte,4
+3265,Le flot vient,3
+3266,Le jusant part,4
+3267,L étale calme,3
+3268,Le mascaret remonte,6
+3269,Le rouleau plonge,4
+3270,La déferlante massive,6
+3271,Le tube parfait,4
+3272,La barre dangereuse,5
+3273,Le fond sablonneux,5
+3274,Le banc de sable,4
+3275,L îlot émergé,5
+3276,L atoll lointain,4
+3277,Le récif corallien,6
+3278,La passe étroite,4
+3279,Le cap rocheux,4
+3280,La pointe extrême,4
+3281,La presqu île,2
+3282,L isthme étroit,3
+3283,Le détroit fameux,5
+3284,Le bras de mer,4
+3285,Le canal artificiel,7
+3286,La baie abritée,5
+3287,La crique cachée,4
+3288,L anse de pêche,3
+3289,La plage déserte,4
+3290,La grève rocheuse,4
+3291,L estran découvert,5
+3292,Le galet roule,4
+3293,Le caillou poli,5
+3294,La coquille brisée,5
+3295,Le crabe à pince,4
+3296,Le bigorneau collé,6
+3297,La patelle ronde,4
+3298,L oursin piquant,4
+3299,L étoile cinq branches,4
+3300,La raie planante,4
+3301,Faim,1
+3302,Soif,1
+3303,Don,1
+3304,Os,1
+3305,Sang,1
+3306,Chair,1
+3307,Sel,1
+3308,Lait,1
+3309,Pli,1
+3310,Pied,1
+3311,Bras,1
+3312,Front,1
+3313,Cou,1
+3314,Toit,1
+3315,Sol,1
+3316,Lieu,1
+3317,Mois,1
+3318,Pré,1
+3319,Champ,1
+3320,Bord,1
+3321,Voeu,1
+3322,Vol,1
+3323,Cor,1
+3324,Air,1
+3325,Heure,1
+3326,Cri,1
+3327,Voix,1
+3328,Mot,1
+3329,Nom,1
+3330,Sort,1
+3331,Tour,1
+3332,Trait,1
+3333,Pont,1
+3334,Foi,1
+3335,Loi,1
+3336,Roi,1
+3337,Chef,1
+3338,Beau,1
+3339,Bon,1
+3340,Doux,1
+3341,Fort,1
+3342,Vrai,1
+3343,Faux,1
+3344,Vieux,1
+3345,Frais,1
+3346,Sec,1
+3347,Net,1
+3348,Plat,1
+3349,Cru,1
+3350,Mûr,1
+3351,Pur,1
+3352,Fou,1
+3353,Sot,1
+3354,Crois,1
+3355,Plains,1
+3356,Joins,1
+3357,Mâche,1
+3358,Râle,1
+3359,Pleut,1
+3360,Neige,1
+3361,Tonne,1
+3362,Vente,1
+3363,Mens,1
+3364,Hop,1
+3365,Pst,1
+3366,Hé,1
+3367,Hum,1
+3368,Bah,1
+3369,Eh,1
+3370,Hue,1
+3371,Hop là,2
+3372,Bof,1
+3373,Pouf,1
+3374,Paf,1
+3375,Crac,1
+3376,Plouf,1
+3377,Boum,1
+3378,Toc,1
+3379,Vlan,1
+3380,Pan,1
+3381,Va donc,2
+3382,Cours vite,2
+3383,Pars vite,2
+3384,Cours fort,2
+3385,Sois sage,2
+3386,Sois bref,2
+3387,Reste assise,3
+3388,Reste calme,2
+3389,Tiens bien,2
+3390,Crois moi,2
+3391,Vois donc,2
+3392,Lis tout,2
+3393,Mange tout,2
+3394,Bois sec,2
+3395,Cris fort,2
+3396,Pleure pas,2
+3397,Pars seul,2
+3398,Sors d ici,3
+3399,Viens là-bas,3
+3400,Va t en,2
+3401,Tais-toi,2
+3402,Dis-le,2
+3403,Donne-le,2
+3404,Prends-le,2
+3405,Lève-toi,2
+3406,Couche-toi,2
+3407,Calme-toi,2
+3408,Cache-toi,2
+3409,Bouge-toi,2
+3410,Sauve-toi,2
+3411,Le bel ange,3
+3412,La belle âme,3
+3413,Le pauvre homme,3
+3414,La pauvre femme,3
+3415,Mon vieux,2
+3416,Ma vieille,2
+3417,Mon doux,2
+3418,Ma douce,2
+3419,Mon ami,3
+3420,Mon amour,3
+3421,Ma chérie,3
+3422,Ma soeur,2
+3423,Mon frère,2
+3424,Mon père,2
+3425,Ma mère,2
+3426,Mon fils,2
+3427,Ma fille,2
+3428,Le bon vin,3
+3429,Le bon pain,3
+3430,Le bon goût,3
+3431,Le bon sens,3
+3432,Le bon coeur,3
+3433,Le bon mot,3
+3434,Le grand mot,3
+3435,Le grand jour,3
+3436,Le grand bal,3
+3437,Le grand ciel,3
+3438,Le grand vent,3
+3439,Le grand soir,3
+3440,Le grand âge,3
+3441,Le grand homme,3
+3442,La grande dame,3
+3443,La grande joie,3
+3444,La grande peur,3
+3445,La belle vie,3
+3446,La belle mort,3
+3447,La belle nuit,3
+3448,La belle eau,3
+3449,Le doux feu,3
+3450,Le vrai roi,3
+3451,Le vrai ami,4
+3452,Le vrai sens,3
+3453,Le faux ami,4
+3454,Le faux pas,3
+3455,Le mot juste,3
+3456,Le mot doux,3
+3457,Le mot dur,3
+3458,L art pour l art,3
+3459,L art majeur,3
+3460,L art mineur,3
+3461,L art ancien,3
+3462,L art moderne,3
+3463,L art naïf,3
+3464,L art brut,2
+3465,L art vivant,3
+3466,Mon coeur bat,3
+3467,Mon âme vibre,3
+3468,Mon corps tremble,3
+3469,Mon sang coule,3
+3470,Mon souffle court,3
+3471,Mes yeux pleurent,3
+3472,Mes mains tremblent,3
+3473,Mes pieds tournent,3
+3474,Mes joues rougissent,4
+3475,Mes lèvres bougent,3
+3476,Le baiser brûle,4
+3477,La caresse coule,4
+3478,L étreinte serre,3
+3479,Le frisson court,4
+3480,La sueur perle,3
+3481,Le souffle bref,3
+3482,Le rythme rapide,4
+3483,Le pouls fou,3
+3484,Le coeur fou,3
+3485,Mon esprit vague,4
+3486,Ma tête tourne,3
+3487,Ma joie déborde,4
+3488,Ma peur fond,3
+3489,Mon doute fuit,3
+3490,Mon mal cesse,3
+3491,Mon âme chante,3
+3492,Mon coeur danse,3
+3493,Mes pieds volent,3
+3494,Mon être vibre,3
+3495,Tu es là,3
+3496,Tu es belle,3
+3497,Tu es beau,3
+3498,Tu es douce,3
+3499,Tu es doux,3
+3500,Tu es vraie,3
+3501,Vends,1
+3502,Perds,1
+3503,Rends,1
+3504,Fonds,1
+3505,Joins,1
+3506,Mors,1
+3507,Cors,1
+3508,Sels,1
+3509,Plis,1
+3510,Cris,1
+3511,Vols,1
+3512,Tris,1
+3513,Pots,1
+3514,Tons,1
+3515,Sons,1
+3516,Bons,1
+3517,Vins,1
+3518,Pains,1
+3519,Mains,1
+3520,Soins,1
+3521,Dieux,1
+3522,Lieux,1
+3523,Cieux,1
+3524,Yeux,1
+3525,Voeux,1
+3526,Feux,1
+3527,Jeux,1
+3528,Aïeux,2
+3529,Trois fois,2
+3530,Deux fois,2
+3531,Cent fois,2
+3532,Mille jours,2
+3533,Mille nuits,2
+3534,L âge mûr,2
+3535,L art roi,2
+3536,L os net,2
+3537,L oeil sec,2
+3538,L oeuf frais,2
+3539,L huile chaude,2
+3540,L oie blanche,3
+3541,L homme seul,2
+3542,L âme noire,2
+3543,L âme pure,2
+3544,L oeuvre faite,2
+3545,Coeur léger,3
+3546,Coeur lourd,2
+3547,Coeur d or,2
+3548,Coeur fier,2
+3549,Coeur tendre,2
+3550,Coeur fou,2
+3551,Coeur pur,2
+3552,Voix douce,2
+3553,Voix grave,2
+3554,Voix claire,2
+3555,Voix forte,2
+3556,Voix tendre,2
+3557,Voix d ange,2
+3558,Vent doux,2
+3559,Vent fort,2
+3560,Vent froid,2
+3561,Vent chaud,2
+3562,Vent du nord,3
+3563,Vent du sud,3
+3564,Vent d est,2
+3565,Vent d ouest,2
+3566,Mer calme,2
+3567,Mer agitée,4
+3568,Mer plate,2
+3569,Mer haute,2
+3570,Mer basse,2
+3571,Mer noire,2
+3572,Mer rouge,2
+3573,Ciel bleu,2
+3574,Ciel gris,2
+3575,Ciel rose,2
+3576,Ciel d hiver,3
+3577,Ciel d été,3
+3578,Ciel pur,2
+3579,Ciel d encre,2
+3580,Ciel ouvert,3
+3581,Nuit noire,2
+3582,Nuit pâle,2
+3583,Nuit calme,2
+3584,Nuit douce,2
+3585,Nuit claire,2
+3586,Nuit blanche,3
+3587,Nuit profonde,3
+3588,Jour gris,2
+3589,Jour blanc,2
+3590,Jour clair,2
+3591,Jour court,2
+3592,Jour long,2
+3593,Jour faste,2
+3594,Plein été,3
+3595,Plein hiver,3
+3596,Plein jour,2
+3597,Plein air,2
+3598,Plein vent,2
+3599,Pleine lune,2
+3600,Pleine mer,2
+3601,L un de nous,3
+3602,L un des deux,3
+3603,L un d eux,2
+3604,L un l autre,2
+3605,Tour à tour,3
+3606,Pas à pas,3
+3607,Côte à côte,3
+3608,Coeur à coeur,3
+3609,Front contre front,3
+3610,Joue contre joue,3
+3611,Pied à terre,3
+3612,Pied à pied,3
+3613,Mot à mot,3
+3614,Vers à vers,3
+3615,Goutte à goutte,3
+3616,Pas un mot,3
+3617,Pas un cri,3
+3618,Pas un bruit,3
+3619,Pas un pli,3
+3620,Pas un coup,3
+3621,Pas un son,3
+3622,Pas un brin,3
+3623,Sans un mot,3
+3624,Sans un bruit,3
+3625,Sans un cri,3
+3626,Sans un sou,3
+3627,Sans un toit,3
+3628,Sans un nom,3
+3629,Avec joie,3
+3630,Avec peur,3
+3631,Avec foi,3
+3632,Avec rage,3
+3633,Avec grâce,3
+3634,Avec ardeur,4
+3635,Avec courage,4
+3636,Avec calme,3
+3637,Plein de joie,3
+3638,Plein de foi,3
+3639,Plein d ardeur,3
+3640,Plein de grâce,3
+3641,Plein de force,3
+3642,Plein de doute,3
+3643,Pleine de peur,3
+3644,Pleine d effroi,3
+3645,Pleine de larmes,3
+3646,Pleine de soleil,4
+3647,Pleine de joie,3
+3648,Pleine de vie,3
+3649,Pleine d espoir,3
+3650,Pleine de grâce,3
+3651,Riche de tout,3
+3652,Riche d esprit,3
+3653,Riche de coeur,3
+3654,Pauvre de moi,3
+3655,Pauvre de toi,3
+3656,Pauvre d esprit,3
+3657,Pauvre âme,2
+3658,Pauvre coeur,2
+3659,Pauvre vieux,2
+3660,Cher ami,3
+3661,Chère amie,3
+3662,Cher coeur,2
+3663,Chère âme,2
+3664,Cher monde,2
+3665,Chère vie,2
+3666,Beau temps,2
+3667,Mauvais temps,3
+3668,Petit à petit,5
+3669,Tout à coup,3
+3670,Tout d un coup,3
+3671,Tout au long,3
+3672,Tout en haut,3
+3673,Tout en bas,3
+3674,Tout au bord,3
+3675,Tout en plein,3
+3676,Très peu,2
+3677,Trop peu,2
+3678,Si peu,2
+3679,Si fort,2
+3680,Si beau,2
+3681,Si doux,2
+3682,Si vrai,2
+3683,Si seul,2
+3684,Si calme,2
+3685,Si triste,2
+3686,Si gai,2
+3687,Tant pis,2
+3688,Tant mieux,2
+3689,Tant et plus,3
+3690,Bien sûr,2
+3691,Bien là,2
+3692,Bien bon,2
+3693,Bien fou,2
+3694,Bien chaud,2
+3695,Bien net,2
+3696,Bien doux,2
+3697,Mal aimé,3
+3698,Mal en point,3
+3699,Mal à l aise,3
+3700,Mal pris,2
+3701,Le grand tour du jardin,6
+3702,Le petit train d enfance,6
+3703,Le vieil arbre du parc,5
+3704,La belle fleur d hiver,5
+3705,Le doux chant du matin,6
+3706,Le clair de lune doux,5
+3707,Au bord de la rivière,6
+3708,Sur la pointe des pieds,5
+3709,Au coeur de la forêt,6
+3710,Dans le creux de ma main,6
+3711,Sous le grand ciel d été,6
+3712,Près de la cheminée,6
+3713,Loin du tumulte humain,6
+3714,Devant la mer immense,6
+3715,Derrière la colline,5
+3716,Vers la terre promise,5
+3717,Au-delà des frontières,6
+3718,Le matin d un beau jour,6
+3719,Le soir d un long voyage,6
+3720,Les nuits d hiver sans fin,6
+3721,Les jours d été dorés,6
+3722,Au creux du soir tombant,6
+3723,Au seuil de la nuit pleine,6
+3724,Le jardin du curé,6
+3725,La cour du presbytère,6
+3726,Le jardin des plantes,5
+3727,Le bois de Vincennes,5
+3728,La forêt de Brocéliande,8
+3729,Les rives de la Seine,5
+3730,Les bords de la Loire,5
+3731,Les côtes de Bretagne,5
+3732,Les plages du Languedoc,6
+3733,Les vignes du Bordelais,6
+3734,Les champs de Beauce,4
+3735,Les blés de la Beauce,5
+3736,Le Finistère sauvage,6
+3737,Les calanques de Marseille,6
+3738,Les vallées d Auvergne,5
+3739,Le Massif Central vert,6
+3740,Les hauts plateaux du Vercors,7
+3741,Le Périgord noir,5
+3742,Les châteaux de la Loire,6
+3743,Les fermes du Rouergue,5
+3744,Les villages perchés,5
+3745,Les hameaux oubliés,6
+3746,Les monastères silencieux,7
+3747,Les chapelles isolées,6
+3748,Les calvaires bretons,5
+3749,Les menhirs anciens,5
+3750,Les dolmens millénaires,6
+3751,Les stèles funéraires,5
+3752,Les tombes oubliées,5
+3753,Les épitaphes effacées,7
+3754,Les noms gravés à jamais,7
+3755,Les dates qui s estompent,5
+3756,Le marbre qui s effrite,5
+3757,Le granit éternel,6
+3758,La pierre qui dure,4
+3759,Le cuivre qui rougit,5
+3760,L étain blanc terni,5
+3761,L argent qui noircit,5
+3762,L or qui ne ternit pas,6
+3763,Le diamant pur,4
+3764,L émeraude verte,4
+3765,Le rubis ardent,5
+3766,Le saphir bleu,4
+3767,La perle nacrée,4
+3768,Le corail rouge,4
+3769,L ambre jaune doré,4
+3770,Le jade chinois vert,5
+3771,Le lapis-lazuli,6
+3772,L onyx noir poli,5
+3773,L opale changeante,4
+3774,La turquoise céleste,5
+3775,L améthyste violette,5
+3776,La citrine dorée,5
+3777,La topaze claire,4
+3778,Le quartz transparent,5
+3779,Le grenat profond,5
+3780,La tourmaline rose,5
+3781,Le péridot tendre,5
+3782,Le zircon brillant,5
+3783,La calcédoine douce,6
+3784,L hématite sombre,4
+3785,Le marbre de Carrare,5
+3786,Le granit de Bretagne,6
+3787,L ardoise des toits,4
+3788,La pierre de Bourgogne,5
+3789,La pierre de Volvic,5
+3790,Le tuffeau de Loire,5
+3791,Le calcaire des plages,5
+3792,Le grès rougeâtre,4
+3793,Le silex noir tranchant,6
+3794,Le basalte volcanique,6
+3795,Le pumice léger,5
+3796,L obsidienne brillante,5
+3797,La météorite rare,6
+3798,L étoile filante brève,5
+3799,La comète errante,5
+3800,Le bolide flamboyant,6
+3801,La nuit étoilée nous emmène doucement,11
+3802,Le vent du nord caresse les pierres usées,10
+3803,Au creux de ma mémoire dort un parfum d enfance,12
+3804,Les saisons passent vite mais le coeur reste fidèle,11
+3805,La lune éclaire la grande maison silencieuse,11
+3806,Une chanson ancienne traverse mon souvenir,11
+3807,Au matin clair la rosée perle sur les pousses,11
+3808,Le soleil rouge se couche derrière la colline,11
+3809,Les hirondelles dessinent leurs arcs dans le ciel,11
+3810,Une horloge ancienne sonne les heures dans l ombre,10
+3811,La pluie tombe lentement sur les toits du village,12
+3812,Les pavés brillants reflètent les lampadaires,11
+3813,Dans le silence du soir une voix murmure mon nom,12
+3814,Les feuilles dansent en cercles au pied du grand chêne,10
+3815,Les étoiles veillent sur les amoureux endormis,12
+3816,La fontaine de pierre coule depuis des siècles,10
+3817,Le vieil homme regarde passer les nuages d argent,11
+3818,Le berger guide son troupeau vers la rivière fraîche,12
+3819,La cloche du village sonne l angélus de midi,12
+3820,Au bord du lac dorment les nénuphars en silence,12
+3821,Les saules pleureurs trempent leurs branches dans l onde,9
+3822,Une libellule bleue survole l étang paisible,11
+3823,Le moulin à vent tourne lentement dans la plaine,12
+3824,Le coq chante avant l aube pour réveiller la ferme,12
+3825,Les vignes mûrissent dans la chaleur de septembre,11
+3826,Le vendangeur coupe les grappes de raisin gorgées,12
+3827,La cave fraîche garde le secret des grands crus,10
+3828,Le tonneau de chêne marie la sève et le fruit,12
+3829,Le vin nouveau réjouit les tablées de la fête,12
+3830,Au crépuscule les amis se quittent à regret,12
+3831,Les retrouvailles sont toujours douces après l absence,12
+3832,L été indien prolonge encore les jours dorés,12
+3833,Octobre dépouille lentement les arbres du jardin,12
+3834,Les longues soirées d hiver invitent à la lecture,12
+3835,Les pages jaunies sentent bon la cave humide,10
+3836,Madame Bovary rêve toujours d un grand amour,12
+3837,Le petit prince dompte sa rose unique au monde,11
+3838,Cyrano cache son coeur immense d enfant timide,12
+3839,Carmen séduit toujours d un regard les recrues,12
+3840,Werther meurt d amour pour la fidèle Charlotte,11
+3841,Les Misérables nous bouleversent par leur grandeur,12
+3842,Notre-Dame veille sur la tendre Esmeralda,11
+3843,Quasimodo sonne les cloches de son désespoir,12
+3844,Les poètes capturent l indicible avec quelques lettres,12
+3845,Les romans nous offrent des vies que nous n aurons pas,12
+3846,Les nouvelles condensent en peu de pages un destin,12
+3847,Le théâtre joue devant nous nos passions intimes,12
+3848,La poésie murmure nos mystères à l oreille,12
+3849,La philosophie cherche le sens caché des choses,12
+3850,La science explore patiemment l ordre du réel,11
+3851,L art tente de capter la beauté qui nous échappe,12
+3852,La musique exprime ce que les mots taisent toujours,12
+3853,La danse libère le corps de sa pesanteur,11
+3854,La peinture fixe l instant fugace dans les couleurs,12
+3855,La sculpture défie le temps qui ronge tout sur terre,12
+3856,Chacun de ces arts nous parle d une voix différente,12
+3857,Vivre sans art serait comme vivre sans le soleil,11
+3858,Vivre sans amour serait respirer dans le vide,12
+3859,Vivre sans espoir serait pire que mourir mille fois,12
+3860,Cultivons-les comme les jardins précieux qu ils sont,12
+3861,Chacun à sa mesure avec ses propres dons,11
+3862,Tous unis dans la quête du beau et du vrai,11
+3863,Tous unis dans la lutte contre la nuit qui menace,12
+3864,Voilà ce qui donne sens à nos vies si brèves,11
+3865,Voilà la flamme à porter haut dans le grand vent,12
+3866,Voilà la torche à transmettre à ceux qui suivront,12
+3867,Voilà la mission silencieuse de chaque humain,12
+3868,Au revoir lecteur ami je te souhaite la paix,12
+3869,Au revoir lectrice amie je te souhaite la joie,12
+3870,La rivière argentée serpente entre les collines,12
+3871,Le vieux pont de pierre enjambe le torrent furieux,12
+3872,Une charrette tirée par un cheval lent passe,11
+3873,Le paysan salue d un geste les promeneurs,11
+3874,Le berger guide son chien d un sifflement précis,12
+3875,Le silence revient s installer dans la vallée,12
+3876,Quelques oiseaux chantent encore dans les arbres voisins,11
+3877,Une biche surgit timide à la lisière du bois,12
+3878,Elle nous fixe quelques secondes puis disparaît,10
+3879,Le promeneur reprend sa marche vers la cabane,11
+3880,Les muscles peinent doucement sur la pente forestière,12
+3881,Les villages parsèment les pentes comme des taches blanches,11
+3882,Les clochers pointent leurs flèches gothiques vers les nuages,11
+3883,Au loin les Alpes dressent leurs cimes neigeuses encore,11
+3884,Une mer de nuages roule lentement entre les vallées,12
+3885,Quelques aigles royaux planent au-dessus des sommets,11
+3886,Quelques larmes coulent sans qu il sache vraiment pourquoi,10
+3887,La beauté pure du spectacle bouleverse son âme,12
+3888,Le temps suspend son cours dans cet instant magique,12
+3889,Plus rien ne compte que cette communion silencieuse,12
+3890,L après-midi s écoule sans qu il sache combien d heures,12
+3891,Les ombres s allongent sur les pentes orientales,10
+3892,L auberge l accueille chaudement avec ses lumières,12
+3893,Une soupe fumante et une bière fraîche le restaurent,11
+3894,Les heures défilent dans cette atmosphère chaleureuse,12
+3895,Les chopes vides s alignent doucement sur le comptoir,12
+3896,Le promeneur monte enfin se coucher dans sa chambre,12
+3897,Les draps de lin frais accueillent ses jambes lasses,10
+3898,Une lampe de chevet veille dans la pénombre,10
+3899,Un livre ancien dort sur la table de nuit,10
+3900,Le promeneur lit quelques pages avant de s endormir,12
+3901,Ses rêves le ramènent aux sommets qu il a vus,11
+3902,Le coq chante dans la cour intérieure de l auberge,12
+3903,Le promeneur s étire et se prépare à partir,12
+3904,Un solide petit déjeuner restaure ses forces,12
+3905,Le pain frais le miel et la confiture maison,12
+3906,Le café fort réveille tous les sens engourdis,12
+3907,Le tenancier souhaite bonne route au voyageur,11
+3908,La forêt s éveille aux mille bruits du matin,11
+3909,Les insectes bourdonnent au-dessus des fleurs sauvages,12
+3910,Les oiseaux saluent à pleine voix l aube qui pointe,11
+3911,Un pont de bois branlant relie les deux berges,11
+3912,L eau gronde dangereusement sous les planches glissantes,12
+3913,Mais bientôt il atteint l autre côté sans encombre,12
+3914,Le sentier se poursuit dans les bois denses et sombres,12
+3915,Les rayons du soleil percent à peine le feuillage,12
+3916,Une atmosphère mystérieuse règne dans cette forêt,12
+3917,Une chapelle ancienne se dresse au centre de l espace,12
+3918,Sa pierre couverte de mousse témoigne de son âge,11
+3919,Le promeneur s arrête pour visiter le sanctuaire,12
+3920,La porte branlante grince doucement quand il pousse,11
+3921,Une statue de la Vierge accueille le visiteur,12
+3922,Il reste là plusieurs minutes en contemplation,12
+3923,Puis il sort de la chapelle pour reprendre la route,12
+3924,Quelque chose en lui a changé pendant cette pause,11
+3925,Il sourit aux fleurs sauvages qui bordent son chemin,12
+3926,Il salue les rares promeneurs qu il croise sur la route,12
+3927,Le ciel les arbres les fleurs tout chante sa louange,10
+3928,La nuit étoilée nous emmène,8
+3929,Le vent caresse les vieilles pierres,7
+3930,Au creux de mon coeur dort un parfum,9
+3931,Les saisons passent le coeur reste,7
+3932,La lune éclaire la maison,7
+3933,Une chanson traverse le souvenir,9
+3934,Au matin la rosée perle aux pousses,9
+3935,Le soleil rouge se couche au loin,8
+3936,Les hirondelles tracent dans le ciel,8
+3937,Une horloge ancienne sonne dans l ombre,8
+3938,La pluie tombe sur les toits du village,9
+3939,Les pavés brillants reflètent la lune,9
+3940,Une voix murmure mon vieux nom,7
+3941,Les feuilles dansent au pied du chêne,7
+3942,Le poète écrit à la bougie,9
+3943,Les étoiles veillent sur les amants,8
+3944,Un cerisier pousse au fond du jardin,10
+3945,La fontaine coule depuis des siècles,8
+3946,Le vieil homme regarde les nuages,7
+3947,Les enfants courent dans le grand pré,8
+3948,Le berger guide vers la rivière,8
+3949,Au bord du lac dorment les nénuphars,9
+3950,Les saules trempent leurs branches dans l eau,7
+3951,Le pêcheur attend sa prise du jour,9
+3952,Une libellule survole l étang,8
+3953,Le moulin tourne dans la grande plaine,8
+3954,La grange abrite les souvenirs,8
+3955,Le coq chante avant l aube,6
+3956,Les vignes mûrissent en septembre,7
+3957,Le vendangeur coupe les grappes,7
+3958,La cave garde les grands crus,6
+3959,Le tonneau marie sève et fruit,8
+3960,Le vin nouveau réjouit la fête,8
+3961,Au crépuscule on se quitte à regret,10
+3962,Les retrouvailles sont toujours douces,8
+3963,L été indien prolonge les jours,8
+3964,Octobre dépouille les arbres,6
+3965,Les marrons tombent sous les pas joyeux,9
+3966,La cheminée crépite et chasse le froid,10
+3967,Les soirées d hiver invitent à lire,9
+3968,Un livre ancien surprend son lecteur,9
+3969,Les pages jaunies sentent la cave,7
+3970,La signature raconte une époque,9
+3971,Une dédicace tendre émeut,7
+3972,Don Quichotte affronte ses moulins,8
+3973,Madame Bovary rêve d amour,8
+3974,Le petit prince soigne sa rose,7
+3975,Cyrano cache son coeur d enfant,8
+3976,Werther meurt d amour pour Charlotte,8
+3977,Notre-Dame veille sur Esmeralda,9
+3978,Quasimodo sonne ses cloches,7
+3979,La littérature porte les rêves,8
+3980,Les poètes capturent l indicible,8
+3981,Les romans offrent d autres vies,6
+3982,Le théâtre joue nos passions,7
+3983,La poésie murmure des secrets,9
+3984,La science explore le réel,7
+3985,La musique exprime l indicible,8
+3986,La danse libère le corps,6
+3987,La peinture fixe l instant fugace,8
+3988,La sculpture défie le temps,7
+3989,Le cinéma raconte nos rêves,8
+3990,Chacun de ces arts nous parle,7
+3991,Vivre sans art serait pâle,6
+3992,Vivre sans amour serait vide,7
+3993,Vivre sans espoir serait pire,7
+3994,Avec ces trésors on affronte tout,9
+3995,Cultivons ces jardins précieux,8
+3996,Transmettons cet héritage beau,8
+3997,Confions cela aux générations,9
+3998,Le monde meilleur si chacun aide,8
+3999,Tous unis dans la quête du beau,8
+4000,Tous unis contre la nuit menaçante,9
+4001,Tous unis dans l espérance d un jour,9
+4002,Voilà ce qui nous reste à faire,8
+4003,Voilà ce qui donne un sens,7
+4004,Voilà la flamme à porter haut,8
+4005,Voilà la torche à transmettre,7
+4006,Voilà la mission de chaque humain,9
+4007,Voilà mes derniers mots à vous,8
+4008,Au revoir lecteur je te souhaite paix,9
+4009,Au revoir lectrice je te souhaite joie,9
+4010,Que la grâce vous accompagne toujours,9
+4011,Que l amour vous porte fidèlement,9
+4012,Que la beauté vous ravisse souvent,9
+4013,Adieu la vie adieu le monde,8
+4014,Adieu le ciel et ses étoiles,8
+4015,Adieu la mer et ses rumeurs,8
+4016,Adieu la forêt et ses secrets,9
+4017,Adieu les amis bien-aimés,8
+4018,Adieu mon amour pour toujours,8
+4019,Adieu mes enfants chéris,7
+4020,Adieu mon métier de toute la vie,9
+4021,Adieu mes livres compagnons fidèles,9
+4022,Adieu ma musique chère,6
+4023,Adieu mes souvenirs précieux,8
+4024,Je m en vais maintenant ailleurs,8
+4025,Je quitte cette rive pour l autre,6
+4026,Je marche vers la lumière,6
+4027,Je laisse derrière mon ancienne vie,8
+4028,Je n emporte que mes amours,7
+4029,Je pars léger comme un oiseau,8
+4030,J ai vécu pleinement chaque instant,9
+4031,J ai aimé avec ferveur et reçu,10
+4032,J ai créé avec passion durant ma vie,11
+4033,J ai souffert sans aigreur de la peine,9
+4034,J ai pardonné les vieilles blessures,8
+4035,J ai demandé pardon sincèrement,10
+4036,Je m en vais le coeur en paix,7
+4037,Avec gratitude pour cette chance,8
+4038,Avec espérance pour ceux qui restent,9
+4039,Avec confiance dans le mystère,8
+4040,Au revoir et merci surtout,8
+4041,À bientôt peut-être ailleurs,7
+4042,Que mon souvenir vous accompagne,9
+4043,Que mes mots reviennent en doux échos,9
+4044,Que ma voix murmure dans vos rêves,8
+4045,Voilà mon adieu poétique tendre,9
+4046,Voilà la dernière trace que je laisse,9
+4047,Voilà ce qu un poète peut donner,9
+4048,Quelques vers en partage avec vous,8
+4049,Quelques émotions et visions,7
+4050,Quelques fragments de mon existence,8
+4051,Que vous saurez assembler à votre gré,10
+4052,Pour composer votre propre poème,8
+4053,Bonne route à vous tous mes amis,8
+4054,Et que la lumière vous guide,7
+4055,La rivière argentée serpente,8
+4056,Le pont de pierre enjambe le torrent,9
+4057,Une charrette passe dans le matin,8
+4058,Le paysan salue les voyageurs,10
+4059,La ferme fume au matin frais,7
+4060,Les vaches paissent dans le grand pré,7
+4061,Le berger guide son chien fidèle,8
+4062,Les brebis suivent leur conducteur,8
+4063,Le troupeau passe au tournant du sentier,10
+4064,Le silence revient dans la vallée,9
+4065,Quelques oiseaux chantent dans les arbres,7
+4066,Une biche surgit dans le bois sombre,8
+4067,Elle nous fixe puis disparaît,7
+4068,Le promeneur reprend sa marche,7
+4069,Le sentier monte parmi les fougères,9
+4070,Les muscles peinent sur la pente,6
+4071,Le sommet offre une vue splendide,8
+4072,Les villages parsèment les pentes,7
+4073,Les clochers pointent vers les nuages,7
+4074,Les Alpes dressent leurs cimes neigeuses,7
+4075,Le mont Blanc trône majestueux,7
+4076,Une mer de nuages roule lentement,8
+4077,Quelques aigles planent au-dessus,6
+4078,Le silence enveloppe tout autour,9
+4079,Quelques larmes coulent sans raison,6
+4080,La beauté du spectacle bouleverse,9
+4081,Il reste assis à contempler,8
+4082,Le temps suspend son cours bref,7
+4083,Plus rien ne compte que l instant,7
+4084,Avec la nature avec lui-même,9
+4085,L après-midi s écoule doucement,9
+4086,Le soleil descend vers les sommets,9
+4087,Les ombres s allongent sur les pentes,7
+4088,Une fraîcheur monte de la vallée,8
+4089,Le promeneur reprend le retour,8
+4090,La descente est plus rapide que la montée,11
+4091,Le crépuscule embrase le ciel rouge,9
+4092,Les premières étoiles paraissent,7
+4093,Il arrive avant que la nuit tombe,9
+4094,L auberge l accueille chaleureusement,9
+4095,Une soupe fumante le restaure,7
+4096,Le tenancier raconte ses légendes,9
+4097,Une fée habiterait la grotte,8
+4098,Un fantôme rôderait au moulin,9
+4099,Le promeneur écoute ces récits,8
+4100,Les heures défilent agréablement,9
+4101,Le feu de cheminée crépite,8
+4102,Les chopes vides s alignent au comptoir,8
+4103,Il monte enfin se coucher fatigué,10
+4104,Les draps frais accueillent ses jambes,7
+4105,Une lampe de chevet veille tendrement,9
+4106,Un livre ancien dort sur la table,8
+4107,Il lit quelques pages avant de dormir,9
+4108,Le sommeil profond le gagne tout doux,9
+4109,Ses rêves le ramènent aux sommets,8
+4110,Le matin filtre par les volets clos,9
+4111,Le coq chante dans la cour intime,8
+4112,Le promeneur s étire et se prépare,9
+4113,Un solide repas restaure ses forces,9
+4114,Le pain frais le miel et la confiture,10
+4115,Le café fort réveille les sens,8
+4116,Le tenancier souhaite bonne route,7
+4117,Le promeneur le remercie et part,9
+4118,Le sentier se déroule devant lui,9
+4119,La forêt s éveille au matin frais,9
+4120,Les insectes bourdonnent au-dessus des fleurs,10
+4121,Les oiseaux saluent à pleine voix,8
+4122,Un torrent traverse maintenant le sentier,11
+4123,Un pont de bois branlant relie les rives,10
+4124,Le promeneur le franchit prudemment,9
+4125,L eau gronde sous les planches glissantes,7
+4126,Bientôt il atteint l autre côté,8
+4127,Le sentier se poursuit dans la forêt,10
+4128,Les rayons du soleil percent à peine,9
+4129,Une atmosphère mystérieuse règne,8
+4130,Le promeneur entend des bruits étranges,9
+4131,Mais il continue sans se troubler,9
+4132,La forêt s éclaircit en clairière,9
+4133,Une chapelle se dresse au centre vert,8
+4134,La pierre est couverte de mousse,7
+4135,Le promeneur s arrête pour la visite,9
+4136,La porte branlante grince doucement,8
+4137,L intérieur baigne dans la lumière,8
+4138,Une statue de la Vierge l accueille,8
+4139,Quelques bougies témoignent des visites,8
+4140,Il s assied sur un banc et médite,9
+4141,Le silence sacré apaise son coeur,9
+4142,Une paix profonde l envahit,7
+4143,Il reste là plusieurs minutes,7
+4144,Puis il sort pour reprendre la route,8
+4145,Le soleil est haut dans le ciel pur,9
+4146,Le promeneur marche avec un pas neuf,9
+4147,Quelque chose en lui a changé profond,9
+4148,Une grâce nouvelle l accompagne,7
+4149,Il sourit aux fleurs sauvages des bordures,10
+4150,Il salue les promeneurs croisés,8
+4151,Tout lui semble d une beauté neuve,7
+4152,Le ciel les arbres tout chante louange,7
+4153,Une harmonie unit toutes choses,8
+4154,Le poème naît dans son coeur ému,9
+4155,Les vers s assemblent doucement en lui,9
+4156,Une strophe entière prend forme,6
+4157,Une autre suit la première,6
+4158,Le poème grandit pas à pas,8
+4159,Bientôt le poème complet est là,9
+4160,Le promeneur le récite à mi-voix,9
+4161,Pour le graver dans sa mémoire,8
+4162,Pour ne pas oublier ses mots,8
+4163,Plus tard il l écrira sur papier,9
+4164,Pour le partager avec ses amis,10
+4165,Pour le transmettre aux lecteurs futurs,9
+4166,Pour qu il vive après lui longtemps,8
+4167,Voilà la mission du poète,8
+4168,Voilà sa contribution au monde,9
+4169,Voilà ce qu il peut donner aux autres,9
+4170,Quelques mots arrachés au silence,8
+4171,Quelques images sauvées de l oubli,8
+4172,Quelques émotions partagées,7
+4173,Quelques fragments d humanité,7
+4174,Voilà l offrande du poète,7
+4175,Voilà sa modeste contribution,9
+4176,À l aventure de la conscience,8
+4177,À l odyssée de l esprit humain,9
+4178,À la grande symphonie des âges,8
+4179,Le poème terminé le rassure,9
+4180,Il continue son chemin de gloire,9
+4181,Le sentier le mène à la cabane,9
+4182,Il s y arrête pour le déjeuner,9
+4183,Son sandwich attend dans le sac,8
+4184,Une pomme rouge croque sous la dent,7
+4185,Une gorgée de thé chaud le ravit,9
+4186,Il repart le coeur léger encore,9
+4187,La descente vers la vallée commence,9
+4188,Les heures passent plus rapidement,8
+4189,Le crépuscule annonce la fin,8
+4190,La voiture l attend au parking,8
+4191,Il rentre fatigué mais heureux,8
+4192,Les muscles courbatus mais le coeur grand,9
+4193,Demain il recommencera ailleurs,10
+4194,La montagne le rappellera toujours,10
+4195,Elle est devenue son refuge,8
+4196,Sa cathédrale silencieuse,7
+4197,Son temple de pierre et de pin,7
+4198,Sa retraite de l agitation,8
+4199,Sa source de paix profonde,6
+4200,Sa muse silencieuse et fidèle,8
+4201,Sa compagne discrète et sûre,7
+4202,Le matin chante à nouveau dehors,9
+4203,Une journée nouvelle commence,7
+4204,Le café fume dans la cuisine,8
+4205,Les enfants courent dans le couloir,8
+4206,Le chien fait la fête au maître,7
+4207,Le journal traîne sur la table,7
+4208,Les nouvelles ne sont pas bonnes,7
+4209,Le monde se déchire encore,7
+4210,Mais ici tout reste paisible,7
+4211,Le merle siffle dans le pommier,7
+4212,Le chat regarde avec patience,8
+4213,Il attend sa pâtée du matin,9
+4214,Je lui sers son écuelle pleine,7
+4215,Il mange avec délicatesse,8
+4216,Puis se lave longuement avec soin,9
+4217,Il s installe ensuite au soleil,8
+4218,Il ronronne de bien-être animal,9
+4219,J envie sa simplicité innée,9
+4220,Il vit dans l instant présent toujours,9
+4221,Sans soucis pour le futur lointain,9
+4222,Sans regrets pour le passé fini,9
+4223,Quelle leçon nous donnent les bêtes,7
+4224,Les humains se compliquent la vie,8
+4225,Nous courons après mille chimères,8
+4226,Nous oublions l essentiel souvent,9
+4227,Les choses simples nous rendent heureux,7
+4228,Un sourire un repas un repos,9
+4229,Une promenade un livre un ami,8
+4230,Le bonheur n est pas si loin,7
+4231,Il est juste là à portée de main,9
+4232,Il nous suffit de l accueillir tendre,9
+4233,La nuit recouvre le village,7
+4234,Les fenêtres s éteignent une à une,8
+4235,Le doux poète erre sous les marronniers anciens,12
+4236,Une vieille horloge ancienne sonne les minuits noirs,11
+4237,Les nuages d argent glissent sur les sommets enneigés,12
+4238,La pluie froide tombe doucement sur les vieux toits,11
+4239,Au creux de la nuit profonde rêve un enfant pâle,12
+4240,Les feuilles d automne dansent au pied du vieux chêne,10
+4241,Le vieil homme regarde passer les longs nuages dorés,12
+4242,Au bord du lac dorment paisibles les nénuphars blancs,12
+4243,Les saules pleureurs trempent leurs branches dans l onde claire,10
+4244,Les vignes mûrissent au soleil chaud du long septembre,12
+4245,Le vendangeur coupe les grappes lourdes et succulentes,12
+4246,Le vin nouveau coule joyeux dans les verres tendus,12
+4247,Les pages jaunies sentent encore la cave humide,11
+4248,Don Quichotte affronte ses moulins imaginaires,12
+4249,Le petit prince chérit sa rose unique au monde,12
+4250,Quasimodo sonne les cloches de son désespoir,12
+4251,Les poètes saisissent l indicible avec quelques mots,12
+4252,Les romans nous offrent des vies que nous n aurons pas,12
+4253,Le théâtre joue devant nous nos passions intimes,12
+4254,La poésie murmure nos mystères à l oreille,12
+4255,La science explore patiemment l ordre du réel,11
+4256,L art tente de capter la beauté qui nous échappe,12
+4257,La musique exprime ce que les mots taisent encore,12
+4258,La peinture fixe l instant fugace dans les couleurs,12
+4259,Vivre sans espoir serait pire que mourir mille fois,12
+4260,Tous unis dans la lutte contre la nuit qui menace,12
+4261,Voilà la mission silencieuse de chaque humain,12
+4262,Adieu le ciel et ses étoiles fidèles compagnes,12
+4263,Adieu les amis et leurs visages bien-aimés,12
+4264,Adieu la famille et ses étreintes chaleureuses,12
+4265,Adieu mes enfants à qui je laisse ma tendresse,12
+4266,Je quitte cette rive pour aborder à l autre bord,11
+4267,Je traverse le grand fleuve qui sépare les mondes,11
+4268,Je laisse derrière moi tout ce que j ai aimé,11
+4269,Je pars léger comme l oiseau qui prend son envol,12
+4270,J ai créé avec passion et laissé quelques traces,12
+4271,Voilà la dernière trace de mon passage sur terre,12
+4272,Quelques vers quelques mots quelques images en partage,10
+4273,Quelques émotions quelques pensées quelques visions,10
+4274,Quelques fragments de cette mystérieuse existence,11
+4275,Pour composer le poème de votre propre vie,11
+4276,Bonne route bons rêves bonnes amours à vous tous,10
+4277,Et que la lumière vous accompagne pour toujours,12
+4278,Brûle,1
+4279,Pleure,1
+4280,Mens,1
+4281,Vis,1
+4282,Souffre,1
+4283,Bouge,1
+4284,Marche,1
+4285,Saute,1
+4286,Glisse,1
+4287,Plonge,1
+4288,Crie,1
+4289,Hurle,1
+4290,Chante,1
+4291,Mord,1
+4292,Tient,1
+4293,Vient,1
+4294,Sort,1
+4295,Naît,1
+4296,Meurt,1
+4297,Croît,1
+4298,Crois,1
+4299,Sait,1
+4300,Doit,1
+4301,Peut,1
+4302,Veut,1
+4303,Dit,1
+4304,Fait,1
+4305,Lit,1
+4306,Met,1
+4307,Vit,1
+4308,Boit,1
+4309,Fuit,1
+4310,Suit,1
+4311,Frit,1
+4312,Cuit,1
+4313,Bât,1
+4314,Bat,1
+4315,Court,1
+4316,Mord,1
+4317,Tord,1
+4318,Sort,1
+4319,Mars,1
+4320,Août,1
+4321,Mai,1
+4322,Loups,1
+4323,Boucs,1
+4324,Daims,1
+4325,Faons,1
+4326,Coqs,1
+4327,Boeufs,1
+4328,Veaux,1
+4329,Riens,1
+4330,Trois,1
+4331,Vingts,1
+4332,Cents,1
+4333,Mille,1
+4334,Cinq,1
+4335,Sept,1
+4336,Huit,1
+4337,Neuf,1
+4338,Onze,1
+4339,Douze,1
+4340,Treize,1
+4341,Quatre,1
+4342,Soixante,2
+4343,Front,1
+4344,Pouce,1
+4345,Cou,1
+4346,Os,1
+4347,Sang,1
+4348,Foie,1
+4349,Cils,1
+4350,Voile,1
+4351,Voiles,1
+4352,Toile,1
+4353,Toiles,1
+4354,Soeur,1
+4355,Frère,1
+4356,Père,1
+4357,Mère,1
+4358,Fils,1
+4359,Fille,1
+4360,Tante,1
+4361,Oncle,1
+4362,Cousin,2
+4363,Cousine,2
+4364,Veuve,1
+4365,Veuf,1
+4366,L oeuf cuit,2
+4367,L os blanc,2
+4368,L oeil clos,2
+4369,L art bref,2
+4370,L homme bon,2
+4371,L âme noire,2
+4372,L oeuvre belle,2
+4373,L huile fond,2
+4374,L hymne saint,2
+4375,L ange blanc,2
+4376,D acier,2
+4377,D argent,2
+4378,D ébène,2
+4379,D ivoire,2
+4380,D or fin,2
+4381,D huile,1
+4382,D un coup,2
+4383,D un trait,2
+4384,D un cri,2
+4385,D un mot,2
+4386,J en doute,2
+4387,J en sors,2
+4388,J en suis,2
+4389,J y suis,2
+4390,J y vais,2
+4391,J y crois,2
+4392,T en va,2
+4393,T as raison,3
+4394,M en va,2
+4395,M en fous,2
+4396,N est-ce pas,3
+4397,N en pouvant plus,4
+4398,Qu il vienne,2
+4399,Qu il pleure,2
+4400,S il pleut,2
+4401,S il neige,2
+4402,Quoiqu il arrive,3
+4403,Lorsqu il sait,2
+4404,Puisqu il dit,2
+4405,Brave,1
+4406,Sage,1
+4407,Tendre,1
+4408,Calme,1
+4409,Triste,1
+4410,Gai,1
+4411,Sombre,1
+4412,Pâle,1
+4413,Roux,1
+4414,Blond,1
+4415,Brun,1
+4416,Roi,1
+4417,Reine,1
+4418,Prince,1
+4419,Saint,1
+4420,Sainte,1
+4421,Mage,1
+4422,Sage,1
+4423,Maître,1
+4424,Esclave,2
+4425,Serf,1
+4426,La douce nuit étoilée nous emporte au loin,11
+4427,Le vent du nord caresse les vieilles pierres,9
+4428,Au creux de la mémoire dort un parfum d enfance,12
+4429,Les saisons passent vite mais le coeur reste fidèle,11
+4430,La lune ronde éclaire la maison endormie,11
+4431,Une chanson ancienne traverse encore la mémoire,12
+4432,Au matin la rosée perle sur les jeunes pousses vertes,12
+4433,Le soleil rouge se couche derrière les collines,11
+4434,Les hirondelles tracent leurs arcs dans le ciel orange,12
+4435,Une horloge sonne les heures dans l ombre du salon,11
+4436,La pluie tombe lentement sur les toits du village,12
+4437,Dans le silence du soir une voix murmure mon nom,12
+4438,Les feuilles dansent en cercles au pied du vieux chêne,10
+4439,Les étoiles veillent sur les amoureux endormis,12
+4440,La fontaine de pierre coule depuis bien des siècles,11
+4441,Le vieil homme regarde passer les nuages d argent,11
+4442,Les enfants courent dans le pré couvert de fleurs blanches,12
+4443,Le berger guide son troupeau vers la rivière fraîche,12
+4444,La cloche du village sonne l angélus de midi,12
+4445,Au bord du lac dorment doucement les nénuphars,12
+4446,Les saules pleureurs trempent leurs branches dans l onde claire,10
+4447,Le pêcheur attend patiemment sa prise du jour,12
+4448,Une libellule bleue survole l étang paisible,11
+4449,Le moulin à vent tourne lentement dans la plaine,12
+4450,Le coq chante avant l aube pour réveiller la ferme,12
+4451,Les vignes mûrissent dans la chaleur de septembre,11
+4452,Le vendangeur coupe les grappes lourdes de raisin,11
+4453,La cave fraîche garde le secret des grands millésimes,12
+4454,Le vin nouveau réjouit les tablées de la fête,12
+4455,Au crépuscule les amis se quittent à regret,12
+4456,L été indien prolonge encore les jours dorés,12
+4457,Octobre dépouille lentement les arbres du jardin,12
+4458,Les longues soirées d hiver invitent à la lecture,12
+4459,Les pages jaunies sentent bon la cave humide d antan,12
+4460,Don Quichotte affronte ses moulins imaginaires,12
+4461,Madame Bovary rêve toujours d un grand amour,12
+4462,Cyrano cache son grand coeur d enfant timide,11
+4463,Werther meurt d amour pour la fidèle Charlotte,11
+4464,Quasimodo sonne les cloches de son désespoir,12
+4465,Les écrivains traduisent ce que nous ressentons,12
+4466,Les poètes capturent l indicible avec quelques mots,12
+4467,Les romans nous offrent des vies que nous n aurons pas,12
+4468,Le théâtre joue devant nous nos passions intimes,12
+4469,La poésie murmure nos mystères à l oreille,12
+4470,La science explore l ordre du réel patiemment,11
+4471,L art tente de capter la beauté qui nous échappe,12
+4472,La musique exprime ce que les mots taisent,10
+4473,La danse libère le corps de sa pesanteur,11
+4474,La peinture fixe l instant fugace dans les couleurs,12
+4475,Vivre sans espoir serait pire que mourir mille fois,12
+4476,Tous unis dans la quête du beau et du vrai,11
+4477,Tous unis dans la lutte contre la nuit menaçante,12
+4478,Voilà ce qui donne sens à nos vies si brèves,11
+4479,Voilà la flamme à porter haut dans le grand vent,12
+4480,Voilà la mission silencieuse de chaque humain,12
+4481,Au revoir lecteur ami je te souhaite la paix,12
+4482,Au revoir lectrice amie je te souhaite la joie,12
+4483,Que la grâce vous accompagne sur tous vos chemins,12
+4484,Que l amour vous porte dans les heures sombres de la vie,12
+4485,Que la beauté vous ravisse jusqu au dernier soupir,12
+4486,Adieu le ciel et ses étoiles fidèles compagnes,12
+4487,Adieu les amis et leurs visages bien-aimés,12
+4488,Adieu mes enfants à qui je laisse ma tendresse,12
+4489,Je quitte cette rive pour aborder à l autre rive,11
+4490,Je traverse le grand fleuve qui sépare les mondes,11
+4491,Je pars léger comme l oiseau qui prend son envol,12
+4492,J ai créé avec passion et laissé quelques traces,12
+4493,J ai souffert sans aigreur et appris de la peine,12
+4494,Avec espérance pour ceux que je laisse derrière,12
+4495,Avec confiance dans le mystère qui m attend,11
+4496,Quelques vers quelques mots quelques images en partage,10
+4497,Quelques émotions quelques pensées quelques visions,10
+4498,Quelques fragments de cette mystérieuse existence,11
+4499,Pour composer le poème de votre propre vie,11
+4500,Bonne route bons rêves bonnes amours à vous tous,10
+4501,Et que la lumière vous accompagne pour toujours,12
+4502,Une rivière coule entre les hauts arbres tranquilles,10
+4503,Le vent du soir caresse les douces pierres mousses,10
+4504,La belle aurore peint les nuages de rose tendre,10
+4505,Au matin frais le coq lance son cri triomphant,12
+4506,Les vaches paissent dans les vertes prairies humides,10
+4507,Le berger dort à l ombre du grand chêne séculaire,12
+4508,Les brebis blanches broutent paisibles dans la plaine,10
+4509,Le chien fidèle veille avec une patience sage,11
+4510,Le ruisseau cristallin chante entre les pierres mousses,11
+4511,Une biche timide sort à la lisière du bois,11
+4512,Elle nous fixe surprise puis disparaît furtive,11
+4513,La forêt mystérieuse murmure ses secrets,11
+4514,Les fougères vertes ondoient au moindre souffle de vent,11
+4515,Les pins parfument l air de leur résine puissante,11
+4516,Le promeneur peine un peu sous le poids de son sac,12
+4517,Mais la beauté du paysage le récompense,12
+4518,Au sommet le vent souffle plus vif qu en bas,10
+4519,La vue panoramique embrasse la grande vallée,12
+4520,Les villages lointains semblent autant de jouets,10
+4521,Les clochers pointent leurs flèches blanches vers le ciel,10
+4522,Les rivières serpentent comme des rubans d argent,11
+4523,Au loin la mer scintille sous le soleil radieux,12
+4524,Le promeneur s assied pour contempler l ensemble,11
+4525,Quelques nuages blancs traversent paisibles le ciel bleu,10
+4526,Le silence absolu règne sur la montagne haute,12
+4527,Une paix profonde envahit l âme du marcheur,11
+4528,Il sort son carnet et griffonne quelques notes,10
+4529,Des images des mots des fragments de poème,11
+4530,Plus tard chez lui il les assemblera en vers,12
+4531,Pour partager avec ses lecteurs cette beauté,12
+4532,Pour transmettre l émotion de ce moment unique,12
+4533,Pour fixer dans le temps l éphémère présent,11
+4534,Voilà la mission éternelle du poète humble,12
+4535,Capter les fragments de beauté qui nous traversent,12
+4536,Les transformer en mots pour les rendre durables,11
+4537,Les offrir aux autres comme un cadeau précieux,11
+4538,Pour les aider à voir ce qu ils n auraient pas vu,12
+4539,Pour les rapprocher du mystère qui nous habite,12
+4540,Pour leur faire pressentir ce qui dépasse les mots,12
+4541,Le poète descend du sommet vers la vallée,12
+4542,Ses pas plus rapides que pour la lente montée,11
+4543,Les premières étoiles paraissent timidement,11
+4544,L auberge rustique l accueille de ses lumières chaudes,11
+4545,Une soupe fumante restaure ses forces lasses,9
+4546,Le tenancier raconte les vieilles légendes locales,12
+4547,Une fée habiterait jadis la grotte voisine,12
+4548,Un loup-garou aurait terrifié le hameau,12
+4549,Le promeneur écoute ravi ces récits anciens,12
+4550,Il imagine les personnages dans son esprit,12
+4551,Plus tard il en fera un roman ou un conte,12
+4552,Pour transmettre à son tour ces histoires à venir,12
+4553,Pour qu elles vivent au-delà du tenancier mortel,12
+4554,Pour qu elles parviennent aux générations futures,11
+4555,Voilà comment se transmettent les héritages,11
+4556,Un fragile maillon dans la grande chaîne du temps,11
+4557,Que chacun doit serrer dans ses propres mains,10
+4558,Pour que la chaîne ne se brise pas un jour,10
+4559,Pour que la mémoire collective demeure vivante,12
+4560,Pour que les morts ne meurent pas tout à fait,10
+4561,Pour qu ils continuent à vivre en nos pensées,11
+4562,Pour qu ils nous accompagnent dans nos vies actives,11
+4563,Pour qu ils nous guident dans les moments difficiles,11
+4564,Voilà ce que la culture nous offre de plus beau,12
+4565,Cette communauté humaine qui transcende le temps,12
+4566,Cette grande aventure dans laquelle nous prenons part,12
+4567,Voilà ce qui donne sens à nos vies si brèves,11
+4568,Voilà ce qui nous distingue des autres animaux,12

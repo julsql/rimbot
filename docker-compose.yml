@@ -1,0 +1,35 @@
+services:
+  db:
+    build: ./db
+    container_name: postgres_db
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5434:5432"
+
+  backend:
+    build: ./backend
+    container_name: flask_backend
+    restart: always
+    depends_on:
+      - db
+    env_file:
+      - .env
+    ports:
+      - "5001:5000"
+
+  frontend:
+    build: ./frontend
+    container_name: react_frontend
+    restart: always
+    depends_on:
+      backend:
+        condition: service_started
+    ports:
+      - "8004:80"
+
+volumes:
+  postgres_data:

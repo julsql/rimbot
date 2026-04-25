@@ -1,0 +1,323 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600&display=swap");
+
+:root {
+  --accent-primary: #8cc9f0;
+  --accent-primary-hover: #9acff2;
+  --text:           #ffffff;
+  --text-muted:     rgba(255, 255, 255, 0.65);
+  --line:           rgba(255, 255, 255, 0.35);
+  --line-soft:      rgba(255, 255, 255, 0.12);
+  --error:          #ffbcbc;
+}
+
+* { box-sizing: border-box; }
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 300;
+  line-height: 1.65;
+  color: var(--text-muted);
+  background-color: #935d8c;
+  background-image:
+    url("/overlay.png"),
+    linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+  background-attachment: fixed;
+  -webkit-text-size-adjust: none;
+}
+
+/* Layout général */
+
+.layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem 2.5rem;
+  border-bottom: 1px solid var(--line-soft);
+}
+
+.topbar .brand {
+  font-size: 1.6em;
+  letter-spacing: 0.1em;
+  color: var(--text);
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.topbar nav {
+  display: flex;
+  gap: 2rem;
+}
+
+.topbar nav a {
+  color: var(--text-muted);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.85em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid transparent;
+  transition: color .2s, border-color .2s;
+}
+
+.topbar nav a:hover { color: var(--text); }
+.topbar nav a.active {
+  color: var(--text);
+  border-bottom-color: var(--text);
+}
+
+.content {
+  flex: 1;
+  width: 100%;
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+}
+
+.footer {
+  text-align: center;
+  padding: 1.5rem;
+  color: var(--text-muted);
+  font-size: 0.85em;
+  border-top: 1px solid var(--line-soft);
+}
+
+.footer a {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--line);
+  transition: opacity .2s, border-color .2s;
+}
+
+.footer a:hover {
+  opacity: 0.8;
+  border-bottom-color: var(--text);
+}
+
+/* Typographie */
+
+h1, h2, h3 {
+  color: var(--text);
+  font-weight: 300;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+  margin: 0 0 0.7em 0;
+}
+
+h1 { font-size: 2.5em; }
+h2 { font-size: 1.5em; }
+
+p { margin: 0 0 1em 0; }
+
+a       { color: var(--text); }
+a:hover { color: var(--text); opacity: 0.8; }
+strong  { color: var(--text); font-weight: 600; }
+code {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--line-soft);
+  border-radius: 4px;
+  padding: 0 0.4em;
+  font-family: "SF Mono", "Menlo", monospace;
+  font-size: 0.9em;
+}
+
+/* Spotlight (deux colonnes : texte + plume) */
+
+.spotlight {
+  display: flex;
+  align-items: center;
+  gap: 4em;
+}
+
+.spotlight .content-col {
+  flex: 1;
+}
+
+.spotlight .image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 14em;
+  height: 14em;
+  padding: 0.65em;
+  border-radius: 100%;
+  border: 1px solid var(--line);
+  flex: 0 0 auto;
+}
+
+.spotlight .image img {
+  display: block;
+  /* Plus petite que le rond pour qu'on voie la plume entière, sans crop. */
+  width: 70%;
+  height: 70%;
+  object-fit: contain;
+}
+
+@media screen and (max-width: 980px) {
+  .spotlight {
+    flex-direction: column-reverse;
+    text-align: center;
+    gap: 1.5em;
+  }
+  .spotlight .image { width: 10em; height: 10em; }
+}
+
+/* Formulaire */
+
+.poem-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1em;
+  margin: 1.5em 0;
+}
+
+.poem-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4em;
+  color: var(--text-muted);
+  font-size: 0.95em;
+}
+
+.poem-form input[type="text"] {
+  -webkit-appearance: none;
+  background: rgba(255, 255, 255, 0.075);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--text);
+  font: inherit;
+  padding: 0.7em 1em;
+  transition: border-color .2s, background-color .2s;
+}
+
+.poem-form input[type="text"]:focus {
+  outline: none;
+  border-color: var(--accent-primary);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.poem-form input[type="text"]::placeholder {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.presets {
+  display: flex;
+  gap: 0.6em;
+  flex-wrap: wrap;
+  margin-bottom: 0.5em;
+}
+
+/* Boutons */
+
+.button {
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: transparent;
+  box-shadow: inset 0 0 0 1px var(--line);
+  color: var(--text);
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  font: inherit;
+  font-weight: 300;
+  height: 2.75em;
+  line-height: 2.75em;
+  min-width: 9em;
+  padding: 0 1.5em;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  white-space: nowrap;
+}
+
+.button:hover  { background-color: rgba(255, 255, 255, 0.075); }
+.button:active { background-color: rgba(255, 255, 255, 0.2); }
+
+.button.primary {
+  background-color: var(--accent-primary);
+  color: var(--text) !important;
+  box-shadow: none;
+}
+
+.button.primary:hover  { background-color: var(--accent-primary-hover); }
+.button.primary:active { background-color: #7ec3ee; }
+
+.button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+@media screen and (max-width: 736px) {
+  .button { min-width: 0; width: 100%; }
+}
+
+/* Affichage du poème */
+
+.poem-display {
+  margin-top: 2em;
+  background: rgba(255, 255, 255, 0.06);
+  padding: 1.5em 2em;
+  border-radius: 8px;
+  border: 1px solid var(--line-soft);
+}
+
+.poem {
+  white-space: pre-wrap;
+  font-family: "Source Sans Pro", serif;
+  font-size: 1.15em;
+  color: var(--text);
+  line-height: 1.7;
+  margin: 0 0 1em 0;
+}
+
+.error {
+  color: var(--error);
+  white-space: pre-wrap;
+  margin-top: 0.6em;
+}
+
+/* Sections */
+
+section.info {
+  margin-top: 4em;
+  padding-top: 2em;
+  border-top: 1px solid var(--line-soft);
+}
+
+/* Tableau d'aide phonétique */
+
+.phon-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 1.5em;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--line-soft);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.phon-table th,
+.phon-table td {
+  padding: 0.6em 1em;
+  text-align: left;
+  border-bottom: 1px solid var(--line-soft);
+}
+
+.phon-table thead th {
+  color: var(--text);
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.18);
+}
+
+.phon-table tbody tr:last-child td { border-bottom: none; }
+.phon-table tbody tr:hover         { background: rgba(255, 255, 255, 0.04); }
