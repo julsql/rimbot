@@ -12,7 +12,7 @@ def _bool(value: str | None, default: bool = False) -> bool:
 class Config:
     DATABASE_URL: str = os.environ.get(
         "DATABASE_URL",
-        "postgresql://poeme:poeme@localhost:5432/poeme",
+        "postgresql://rimbot:rimbot@localhost:5432/rimbot",
     )
     CORS_ORIGINS: list[str] = [
         origin.strip()

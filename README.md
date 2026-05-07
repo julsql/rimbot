@@ -1,8 +1,8 @@
-# Poème — Monorepo
+# Rimbot — Monorepo
 
 Générateur de poèmes français aléatoires. Projet sous forme de monorepo : **API Flask** + **base PostgreSQL** seedée + **front React (Vite)**, le tout dockerisé et testé en CI (tests unitaires, intégration et e2e).
 
-> [poeme.julsql.fr](http://poeme.julsql.fr)
+> [rimbot.julsql.fr](http://rimbot.julsql.fr)
 
 ## Sommaire
 
@@ -54,7 +54,7 @@ docker compose up --build
 
 - Front : http://localhost:8080
 - API   : http://localhost:5000/api/health
-- DB    : `localhost:5432` (user/pwd/db = `poeme`)
+- DB    : `localhost:5432` (user/pwd/db = `rimbot`)
 
 Le premier démarrage est plus long : Postgres exécute les scripts d'init et
 charge ~143 000 lignes via `\copy`.
@@ -67,7 +67,7 @@ charge ~143 000 lignes via `\copy`.
 cd backend
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements-dev.txt
-export DATABASE_URL="postgresql://poeme:poeme@localhost:5432/poeme"
+export DATABASE_URL="postgresql://rimbot:rimbot@localhost:5432/rimbot"
 python wsgi.py    # lance Flask en mode dev
 ```
 
@@ -94,7 +94,7 @@ pytest -m "not integration"
 Tests d'intégration (vraie Postgres seedée — par ex. celle du compose) :
 
 ```bash
-DATABASE_URL=postgresql://poeme:poeme@localhost:5432/poeme \
+DATABASE_URL=postgresql://rimbot:rimbot@localhost:5432/rimbot \
   pytest -m integration
 ```
 
@@ -128,7 +128,7 @@ Cinq workflows GitHub Actions :
 - **`e2e.yml`** — démarre la stack via docker-compose, exécute Cypress contre
   le front réel.
 - **`release.yml`** — sur tag `v*.*.*`, build & push des trois images
-  (`backend`, `frontend`, `db`) vers GHCR (`ghcr.io/<owner>/poeme-*`).
+  (`backend`, `frontend`, `db`) vers GHCR (`ghcr.io/<owner>/rimbot-*`).
 - **`deploy.yml`** — sur push `main`, SSH vers le serveur, `git pull` puis
   rebuild **incrémental** + redémarrage de la stack docker-compose.
   Secrets requis : `SSH_HOST`, `SSH_USER`, `SSH_KEY`, `DEPLOY_PATH`.

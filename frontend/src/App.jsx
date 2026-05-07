@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="layout">
       <header className="topbar">
-        <Link to="/" className="brand">Poème</Link>
+        <Link to="/" className="brand">Rimbot</Link>
         <nav>
           <NavLink to="/" end>Générateur</NavLink>
           <NavLink to="/aide">Aide phonétique</NavLink>
@@ -21,7 +21,7 @@ export default function App() {
       </main>
 
       <footer className="footer">
-        <span>Poème — projet scolaire de génération de poèmes français.</span>
+        <span>Rimbot — projet scolaire de génération de poèmes français.</span>
         <span className="footer-author">
           {" · "}
           <a

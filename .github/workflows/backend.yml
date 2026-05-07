@@ -26,12 +26,12 @@ jobs:
       postgres:
         image: postgres:16-alpine
         env:
-          POSTGRES_USER:     poeme
-          POSTGRES_PASSWORD: poeme
-          POSTGRES_DB:       poeme
+          POSTGRES_USER:     rimbot
+          POSTGRES_PASSWORD: rimbot
+          POSTGRES_DB:       rimbot
         ports: ["5432:5432"]
         options: >-
-          --health-cmd "pg_isready -U poeme -d poeme"
+          --health-cmd "pg_isready -U rimbot -d rimbot"
           --health-interval 5s
           --health-timeout 3s
           --health-retries 20
@@ -50,14 +50,14 @@ jobs:
 
       - name: Load schema and seed into Postgres
         env:
-          PGPASSWORD: poeme
+          PGPASSWORD: rimbot
         run: |
           # On déplace les CSV de seed dans /tmp/seed pour que les chemins
           # absolus présents dans 02_seed.sql restent valides.
           sudo mkdir -p /seed
           sudo cp -r ../db/init/seed/* /seed/
-          psql -h localhost -U poeme -d poeme -f ../db/init/01_schema.sql
-          psql -h localhost -U poeme -d poeme -f ../db/init/02_seed.sql
+          psql -h localhost -U rimbot -d rimbot -f ../db/init/01_schema.sql
+          psql -h localhost -U rimbot -d rimbot -f ../db/init/02_seed.sql
 
       - name: Run unit tests (no DB)
         env:
@@ -66,7 +66,7 @@ jobs:
 
       - name: Run integration tests (real Postgres)
         env:
-          DATABASE_URL: postgresql://poeme:poeme@localhost:5432/poeme
+          DATABASE_URL: postgresql://rimbot:rimbot@localhost:5432/rimbot
         run: pytest -m integration --cov=app --cov-append --cov-report=term-missing
 
   build-image:
@@ -81,6 +81,6 @@ jobs:
         with:
           context: ./backend
           push: false
-          tags: poeme-backend:ci
+          tags: rimbot-backend:ci
           cache-from: type=gha
           cache-to: type=gha,mode=max

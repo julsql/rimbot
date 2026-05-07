@@ -50,6 +50,6 @@ jobs:
         with:
           context: ./frontend
           push: false
-          tags: poeme-frontend:ci
+          tags: rimbot-frontend:ci
           cache-from: type=gha
           cache-to: type=gha,mode=max
