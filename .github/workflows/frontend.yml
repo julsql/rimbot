@@ -12,6 +12,9 @@ on:
       - ".github/workflows/frontend.yml"
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   test:
     name: vitest

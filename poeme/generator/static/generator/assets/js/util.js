@@ -96,7 +96,9 @@
 
 			// Expand "target" if it's not a jQuery object already.
 				if (typeof config.target != 'jQuery')
-					config.target = $(config.target);
+					// $(document).find(...) traite l'argument comme un sélecteur
+					// uniquement, et jamais comme du HTML (prévention XSS).
+					config.target = $(document).find(config.target);
 
 		// Panel.
 
