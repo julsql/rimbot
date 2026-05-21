@@ -44,7 +44,7 @@ jobs:
         run: npm install --no-audit --no-fund
 
       - name: Run Cypress
-        uses: cypress-io/github-action@v6
+        uses: cypress-io/github-action@v7
         with:
           working-directory: frontend
           install: false
