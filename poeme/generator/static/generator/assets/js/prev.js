@@ -46,7 +46,9 @@ $(document).ready(function () {
             sylla = "";
         }
 
-        const regexPhone = /^[a-zA-Z]=(?:[\x00-\x7F]+)(,[a-zA-Z]=(?:[\x00-\x7F]+))*,?$/;
+        // La classe exclut la virgule (0x2C) pour lever l'ambiguïté avec le
+        // séparateur "," et éviter un backtracking exponentiel (ReDoS).
+        const regexPhone = /^[a-zA-Z]=(?:[\x00-\x2B\x2D-\x7F]+)(,[a-zA-Z]=(?:[\x00-\x2B\x2D-\x7F]+))*,?$/;
 
         if (phone != "" && !regexPhone.test(phone.trim())) {
             $('#err3').html("Les rimes sont mal renseignées, il faut qu'elles ça soit de la forme : A=t@t, B=se");

@@ -6,13 +6,16 @@ on:
   pull_request:
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   cypress:
     name: cypress against full docker-compose stack
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Write .env from GitHub secret
         env:
@@ -33,7 +36,7 @@ jobs:
           curl -fsS http://localhost:8004/api/health
           curl -fsS http://localhost:8004/ | head -5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: "20"
           cache: npm
@@ -44,7 +47,7 @@ jobs:
         run: npm install --no-audit --no-fund
 
       - name: Run Cypress
-        uses: cypress-io/github-action@v6
+        uses: cypress-io/github-action@v7
         with:
           working-directory: frontend
           install: false

@@ -1,4 +1,4 @@
-FROM postgres:16-alpine
+FROM postgres:18-alpine
 
 # Les scripts placés dans /docker-entrypoint-initdb.d sont exécutés en ordre
 # alphabétique au premier démarrage du conteneur.
