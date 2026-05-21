@@ -40,7 +40,7 @@ jobs:
           echo "lower=$(echo ${{ github.repository_owner }} | tr 'A-Z' 'a-z')" >> "$GITHUB_OUTPUT"
 
       - name: Build & push ${{ matrix.name }}
-        uses: docker/build-push-action@v6
+        uses: docker/build-push-action@v7
         with:
           context: ${{ matrix.context }}
           push: true
