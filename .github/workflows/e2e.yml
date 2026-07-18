@@ -17,10 +17,16 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Write .env from GitHub secret
-        env:
-          ENV_FILE: ${{ secrets.ENV_FILE }}
-        run: printf '%s' "$ENV_FILE" > .env
+      - name: Write minimal test .env
+        # Les tests montent une stack jetable : le backend ne lit que DATABASE_URL,
+        # la db Postgres que POSTGRES_*. Aucun secret de prod n'est necessaire.
+        run: |
+          cat > .env <<'EOF'
+          POSTGRES_USER=rimbot
+          POSTGRES_PASSWORD=rimbot
+          POSTGRES_DB=rimbot
+          DATABASE_URL=postgresql://rimbot:rimbot@db:5432/rimbot
+          EOF
 
       - name: Build & start the stack
         run: |
