@@ -1,7 +1,7 @@
 name: Build & push images
 
 # Construit les 3 images (backend, frontend, db) et les pousse sur GHCR (privees)
-# sur push main. Le deploiement k3s est gere separement (manifests + kubectl).
+# sur push main. Le deploiement est declenche par la CI : notification a Keel (webhook) apres le push.
 
 on:
   push:
