@@ -129,9 +129,10 @@ Cinq workflows GitHub Actions :
   le front réel.
 - **`release.yml`** — sur tag `v*.*.*`, build & push des trois images
   (`backend`, `frontend`, `db`) vers GHCR (`ghcr.io/<owner>/rimbot-*`).
-- **`deploy.yml`** — sur push `main`, SSH vers le serveur, `git pull` puis
-  rebuild **incrémental** + redémarrage de la stack docker-compose.
-  Secrets requis : `SSH_HOST`, `SSH_USER`, `SSH_KEY`, `DEPLOY_PATH`.
+- **`docker.yml`** — sur push `main`, build & push des trois images
+  (`backend`, `frontend`, `db`) vers GHCR. Le déploiement est automatique :
+  après le push, la CI notifie le serveur (webhook Keel), qui met à jour ses
+  pods. Pas de SSH ni de `kubectl` manuel.
 
 ## API
 
