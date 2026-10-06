@@ -7,6 +7,7 @@ from flask_cors import CORS
 
 from .config import Config
 from .db import init_pool, close_pool
+from .routes.docs import bp as docs_bp, swagger_bp
 from .routes.health import bp as health_bp
 from .routes.help import bp as help_bp
 from .routes.poem import bp as poem_bp
@@ -29,6 +30,8 @@ def create_app(config: Config | None = None) -> Flask:
     app.register_blueprint(health_bp, url_prefix="/api")
     app.register_blueprint(poem_bp,   url_prefix="/api/poem")
     app.register_blueprint(help_bp,   url_prefix="/api/help")
+    app.register_blueprint(docs_bp,   url_prefix="/api")
+    app.register_blueprint(swagger_bp)
 
     @app.teardown_appcontext
     def _close(_):  # pragma: no cover - shutdown hook
