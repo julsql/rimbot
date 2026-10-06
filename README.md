@@ -144,6 +144,8 @@ Toutes les routes sont préfixées par `/api`.
 | GET     | `/api/help/syllables`  | Liste des syllabes utilisables comme rime.     |
 | POST    | `/api/poem/preview`    | Aperçu de la forme et des contraintes saisies. |
 | POST    | `/api/poem/generate`   | Génère le poème complet.                       |
+| GET     | `/api/docs/`           | Swagger UI.                                    |
+| GET     | `/api/openapi.json`    | Spécification OpenAPI.                         |
 
 Body JSON pour `preview` / `generate` :
 
