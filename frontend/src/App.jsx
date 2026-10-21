@@ -2,19 +2,17 @@ import { useEffect } from "react";
 import { Link, NavLink, Route, Routes, useLocation } from "react-router-dom";
 import HomePage from "./pages/HomePage.jsx";
 import HelpPage from "./pages/HelpPage.jsx";
+import { applyPageMeta } from "./seo.js";
 
-const SITE_URL = "https://rimbot.julsql.fr";
-
-function useCanonical() {
+function usePageMeta() {
   const { pathname } = useLocation();
   useEffect(() => {
-    const link = document.querySelector('link[rel="canonical"]');
-    if (link) link.setAttribute("href", `${SITE_URL}${pathname}`);
+    applyPageMeta(document, pathname.replace(/\/+$/, "") || "/");
   }, [pathname]);
 }
 
 export default function App() {
-  useCanonical();
+  usePageMeta();
   return (
     <div className="layout">
       <header className="topbar">

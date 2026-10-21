@@ -3,12 +3,93 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Rimbot — Générateur de poèmes</title>
+    <title>Rimbot — Générateur de poèmes français aléatoires en ligne</title>
     <meta
       name="description"
-      content="Rimbot, générateur de poèmes français aléatoires : choisissez le schéma de rimes (ABBA, ABAB…), le nombre de syllabes et la phonétique des rimes."
+      content="Rimbot génère des poèmes français aléatoires : choisissez le schéma de rimes (ABBA, ABAB…), le nombre de syllabes par vers et la phonétique des rimes imposées."
     />
     <link rel="canonical" href="https://rimbot.julsql.fr/" />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="julsql" />
+    <meta name="theme-color" content="#935d8c" />
+
+    <link rel="icon" type="image/png" href="/plume.png" />
+    <link rel="apple-touch-icon" href="/plume.png" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Rimbot" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:url" content="https://rimbot.julsql.fr/" />
+    <meta property="og:title" content="Rimbot — Générateur de poèmes français aléatoires en ligne" />
+    <meta
+      property="og:description"
+      content="Rimbot génère des poèmes français aléatoires : choisissez le schéma de rimes (ABBA, ABAB…), le nombre de syllabes par vers et la phonétique des rimes imposées."
+    />
+    <meta property="og:image" content="https://rimbot.julsql.fr/plume.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="1200" />
+    <meta property="og:image:alt" content="Plume, logo de Rimbot" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Rimbot — Générateur de poèmes français aléatoires en ligne" />
+    <meta
+      name="twitter:description"
+      content="Rimbot génère des poèmes français aléatoires : choisissez le schéma de rimes (ABBA, ABAB…), le nombre de syllabes par vers et la phonétique des rimes imposées."
+    />
+    <meta name="twitter:image" content="https://rimbot.julsql.fr/plume.png" />
+    <meta name="twitter:image:alt" content="Plume, logo de Rimbot" />
+
+    <!-- Police : connexion anticipée + préchargement de la feuille Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600&display=swap"
+    />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://rimbot.julsql.fr/#website",
+            "url": "https://rimbot.julsql.fr/",
+            "name": "Rimbot",
+            "inLanguage": "fr-FR",
+            "author": { "@id": "https://github.com/julsql#person" }
+          },
+          {
+            "@type": "WebApplication",
+            "@id": "https://rimbot.julsql.fr/#app",
+            "url": "https://rimbot.julsql.fr/",
+            "name": "Rimbot",
+            "description": "Générateur de poèmes français aléatoires.",
+            "applicationCategory": "EntertainmentApplication",
+            "operatingSystem": "Web",
+            "inLanguage": "fr-FR",
+            "isAccessibleForFree": true,
+            "image": "https://rimbot.julsql.fr/plume.png",
+            "author": { "@id": "https://github.com/julsql#person" }
+          },
+          {
+            "@type": "Person",
+            "@id": "https://github.com/julsql#person",
+            "name": "julsql",
+            "url": "https://github.com/julsql",
+            "sameAs": ["https://github.com/julsql"]
+          }
+        ]
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>

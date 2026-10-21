@@ -43,7 +43,7 @@ export default function HomePage() {
           {errors.err2 && <p className="error">{errors.err2}</p>}
         </div>
         <span className="image">
-          <img src="/plume.png" alt="Plume" />
+          <img src="/plume.png" alt="Plume" width="1200" height="1200" decoding="async" />
         </span>
       </section>
 
