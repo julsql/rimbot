@@ -18,6 +18,12 @@ describe("Page d'accueil", () => {
     cy.contains("label", /Phonétique/i).should("be.visible");
   });
 
+  it("charge le traceur Umami dans le <head>", () => {
+    cy.get('head script[src="https://stats.julsql.fr/js/app.js"]')
+      .should("have.attr", "data-website-id", "4f508e7c-f077-4201-b7ca-0d0b3d129bb2")
+      .and("have.attr", "data-domains", "rimbot.julsql.fr");
+  });
+
   it("propose les presets Sonnet / Haïku / Ballade", () => {
     cy.contains("button", "Sonnet").should("be.visible");
     cy.contains("button", "Haïku").should("be.visible");
