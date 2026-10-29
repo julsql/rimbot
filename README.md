@@ -4,6 +4,13 @@ Générateur de poèmes français aléatoires. Projet sous forme de monorepo : *
 
 > [rimbot.julsql.fr](http://rimbot.julsql.fr)
 
+## Aperçu
+
+<p align="center">
+  <img src="docs/screenshots/generator.jpg" alt="Formulaire du générateur" width="49%">
+  <img src="docs/screenshots/poem.jpg" alt="Haïku généré" width="49%">
+</p>
+
 ## Sommaire
 
 - [Architecture](#architecture)
