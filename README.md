@@ -26,7 +26,7 @@ Générateur de poèmes français aléatoires. Projet sous forme de monorepo : *
 
 ```
 .
-├── backend/              # API Flask (Python 3.12) + générateur
+├── backend/              # API Flask (Python 3.15) + générateur
 │   ├── app/
 │   │   ├── routes/       # Blueprints HTTP (poem, help, health)
 │   │   ├── services/     # Algorithme de génération
